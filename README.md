@@ -23,4 +23,4 @@ Melodyne本體軟件（3.2最佳）
 * 開啟Melodyne
 * 上方的Edit→Preferences
 * 左上選擇Other
-* Language選擇Chinese
+* Language選擇Chinese （需要重新啟動）
