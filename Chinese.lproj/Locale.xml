@@ -1,0 +1,3785 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>138</string>
+	<key>PossibleDecimalSeparators</key>
+	<string>,.٫</string>
+	<key>DecimalSeparator</key>
+	<string>.</string>
+	<key>Language</key>
+	<string>Chinese</string>
+	<key>DateFormat</key>
+	<string>%M/%D/%Y</string>
+	<key>ToneTitles</key>
+	<array>
+		<string>C</string>
+		<string>C#</string>
+		<string>Db</string>
+		<string>D</string>
+		<string>D#</string>
+		<string>Eb</string>
+		<string>E</string>
+		<string>E#</string>
+		<string>Fb</string>
+		<string>F</string>
+		<string>F#</string>
+		<string>Gb</string>
+		<string>G</string>
+		<string>G#</string>
+		<string>Ab</string>
+		<string>A</string>
+		<string>A#</string>
+		<string>Bb</string>
+		<string>B</string>
+		<string>B#</string>
+		<string>Cb</string>
+	</array>
+	<key>Translations</key>
+	<dict>
+		<key>Scripting // Scripting</key>
+		<string>腳本</string>
+		<key>Running script failed: %@ // Scripting</key>
+		<string>腳本執行失敗：%@ </string>
+		<key>Running script failed. // Scripting</key>
+		<string>腳本執行失敗。</string>
+		<key>Cannot load %s: %s (%s) // Application</key>
+		<string>無法載入 %s ：%s （%s）</string>
+		<key>Translation Error // Application</key>
+		<string>翻译錯誤</string>
+		<key>OK // Application</key>
+		<string>確定</string>
+		<key>Open Script // Application</key>
+		<string>打開腳本</string>
+		<key>Cannot open script: %@ // Application</key>
+		<string>無法打開腳本： %@</string>
+		<key>Scripting // Application</key>
+		<string>腳本</string>
+		<key>Error // Application</key>
+		<string>錯誤</string>
+		<key>Action &apos;%@&apos; was not handled. // Application</key>
+		<string>操作 &apos;%@&apos; 没有被處理。</string>
+		<key>Continue // Application</key>
+		<string>繼續</string>
+		<key>Stop // Application</key>
+		<string>停止</string>
+		<key>HTML // Application</key>
+		<string>HTML</string>
+		<key>XML // Application</key>
+		<string>XML</string>
+		<key>Text // Application</key>
+		<string>文檔</string>
+		<key>Sorry, but I am out of memory. // Application</key>
+		<string>存儲不足。</string>
+		<key>Quit // Application</key>
+		<string>退出</string>
+		<key>Fatal Error // Application</key>
+		<string>致命錯誤</string>
+		<key>Runloop Error // Application</key>
+		<string>循環錯誤</string>
+		<key>Cannot launch the application. Maybe the harddirve&apos;s name or a name of the folders in which the application is installed contains a slash &apos;/&apos;. If so, remove the slash and try again. // Application</key>
+		<string>無法啟動應用程序。應用程序安装目錄的磁盘驅動器名或文件名可能包含&apos;/&apos;。請刪除&apos;/&apos;後重試。</string>
+		<key>Clear // Application</key>
+		<string>清除</string>
+		<key>Undo // Application</key>
+		<string>撤銷</string>
+		<key>Redo // Application</key>
+		<string>重做</string>
+		<key>Help not available // Application</key>
+		<string>幫助無法使用。</string>
+		<key>Please select a folder ... // Application</key>
+		<string>請選擇一個文件夾 ...</string>
+		<key>Do you want to revert to the most recently saved version of %@? Your changes will be lost. // Application</key>
+		<string>你想恢復最近一次保存的版本%@嗎？你的更改将会丢失。</string>
+		<key>Revert // Application</key>
+		<string>恢復</string>
+		<key>Cancel // Application</key>
+		<string>取消</string>
+		<key>Document has changes. // Application</key>
+		<string>文件有變更。</string>
+		<key>%s has changes. // Application</key>
+		<string>%s有變更。</string>
+		<key>Close // Application</key>
+		<string>關閉</string>
+		<key>Save // Application</key>
+		<string>保存</string>
+		<key>Discard // Application</key>
+		<string>放棄</string>
+		<key>At least one document has unsaved changes. // Application</key>
+		<string>至少一個文件有未保存的更改。</string>
+		<key>Show // Application</key>
+		<string>顯示</string>
+		<key>There is a newer version! Download? // Application</key>
+		<string>發現新版本！現在就下載嗎？</string>
+		<key>Show Releasenotes // Application</key>
+		<string>顯示版本說明</string>
+		<key>Attention // Application</key>
+		<string>注意</string>
+		<key>Download // Application</key>
+		<string>下載</string>
+		<key>Skip // Application</key>
+		<string>跳過</string>
+		<key>Reset // UserInterface</key>
+		<string>重置</string>
+		<key>Choose Color // UserInterface</key>
+		<string>顏色選擇</string>
+		<key>&lt;multiple selection&gt; // UserInterface</key>
+		<string>&lt;多選&gt;</string>
+		<key>Group // UserInterface</key>
+		<string>組</string>
+		<key>Remove // UserInterface</key>
+		<string>移除</string>
+		<key>Export // UserInterface</key>
+		<string>導出</string>
+		<key>Import // UserInterface</key>
+		<string>導入</string>
+		<key>Saving %s failed. // Application</key>
+		<string>%s 保存失敗。</string>
+		<key>Control- // Keyboard</key>
+		<string>Control-</string>
+		<key>Command- // Keyboard</key>
+		<string>Command-</string>
+		<key>Alt- // Keyboard</key>
+		<string>Alt-</string>
+		<key>Shift- // Keyboard</key>
+		<string>Shift-</string>
+		<key>Delete // Keyboard</key>
+		<string>Delete</string>
+		<key>Insert // Keyboard</key>
+		<string>Insert</string>
+		<key>Help // Keyboard</key>
+		<string>Help</string>
+		<key>Left // Keyboard</key>
+		<string>左</string>
+		<key>Right // Keyboard</key>
+		<string>右</string>
+		<key>Down // Keyboard</key>
+		<string>下</string>
+		<key>Up // Keyboard</key>
+		<string>上</string>
+		<key>Backspace // Keyboard</key>
+		<string>Backspace</string>
+		<key>Tab // Keyboard</key>
+		<string>Tab</string>
+		<key>Line Feed // Keyboard</key>
+		<string>Line Feed</string>
+		<key>Form Feed // Keyboard</key>
+		<string>Form Feed</string>
+		<key>Return // Keyboard</key>
+		<string>Enter</string>
+		<key>Escape // Keyboard</key>
+		<string>Esc</string>
+		<key>Space Bar // Keyboard</key>
+		<string>空格</string>
+		<key> (Num) // Keyboard</key>
+		<string>（數字鍵）</string>
+		<key>Set // Preferences</key>
+		<string>設置</string>
+		<key>Not set // Preferences</key>
+		<string>不設置</string>
+		<key>Reset // Preferences</key>
+		<string>重置</string>
+		<key>Attention // UserInterface</key>
+		<string>注意</string>
+		<key>The record should be saved first! // UserInterface</key>
+		<string>錄音需要先被保存！</string>
+		<key>OK // UserInterface</key>
+		<string>確定</string>
+		<key>Save New Template // UserInterface</key>
+		<string>保存新模板</string>
+		<key>Open Template List // UserInterface</key>
+		<string>打開模板列表</string>
+		<key>Save As // UserInterface</key>
+		<string>另存為</string>
+		<key>Update From // UserInterface</key>
+		<string>從...更新</string>
+		<key>New From // UserInterface</key>
+		<string>從...新建</string>
+		<key>New Template // UserInterface</key>
+		<string>新建模板</string>
+		<key>Preferences // Preferences</key>
+		<string>首選項</string>
+		<key>Expert // Preferences</key>
+		<string>導出</string>
+		<key>Please wait. // ProgressPanel</key>
+		<string>請稍後。</string>
+		<key>Press esc to cancel. // ProgressPanel</key>
+		<string>按Esc鍵取消。</string>
+		<key>Cancel // ProgressPanel</key>
+		<string>取消</string>
+		<key>Action // Preferences</key>
+		<string>操作</string>
+		<key>Key // Preferences</key>
+		<string>鍵</string>
+		<key>Import ... // Preferences</key>
+		<string>導入 ...</string>
+		<key>Export ... // Preferences</key>
+		<string>導出 ...</string>
+		<key>Clear Selected Short Cut // Preferences</key>
+		<string>清除選中的快捷鍵</string>
+		<key>Reset to Factory Defaults // Preferences</key>
+		<string>恢復默認設置</string>
+		<key>Options // Preferences</key>
+		<string>選項</string>
+		<key>Import // Preferences</key>
+		<string>導入</string>
+		<key>Loading short cuts failed. // Preferences</key>
+		<string>載入快捷鍵失敗。</string>
+		<key>MySetting // Preferences</key>
+		<string>個人設置</string>
+		<key>Export // Preferences</key>
+		<string>導出</string>
+		<key>Saving short cuts failed. // Preferences</key>
+		<string>保存快捷鍵失敗。</string>
+		<key>Short Cuts // Preferences</key>
+		<string>快捷鍵</string>
+		<key>Reset to factory defaults? // Preferences</key>
+		<string>確定恢復到默認設置？</string>
+		<key>No // Preferences</key>
+		<string>否</string>
+		<key>Yes // Preferences</key>
+		<string>是</string>
+		<key>Short Cut // Preferences</key>
+		<string>快捷鍵</string>
+		<key>The &apos;%@&apos; key is already used for &apos;%@&apos;. Change anyway? // Preferences</key>
+		<string> &apos;%@&apos; 鍵已經被用于 &apos;%@&apos;。確定要更改嗎？</string>
+		<key>Sort // Table</key>
+		<string>排序</string>
+		<key>Ascending // Table</key>
+		<string>升序</string>
+		<key>Descending // Table</key>
+		<string>降序</string>
+		<key>Hide // Table</key>
+		<string>隐藏</string>
+		<key>Show // Table</key>
+		<string>顯示</string>
+		<key>Cut // UserInterface</key>
+		<string>剪切</string>
+		<key>Copy // UserInterface</key>
+		<string>複製</string>
+		<key>Paste // UserInterface</key>
+		<string>粘貼</string>
+		<key>Icons &amp; Text // ToolBar</key>
+		<string>圖標 &amp; 文本</string>
+		<key>Icons Only // ToolBar</key>
+		<string>僅圖標</string>
+		<key>Text Only // ToolBar</key>
+		<string>僅文本</string>
+		<key>Edit ... // ToolBar</key>
+		<string>編輯 ...</string>
+		<key>Remove %@ // ToolBar</key>
+		<string>移除 %@ </string>
+		<key>OK // ToolBar</key>
+		<string>確定</string>
+		<key>Mono // Audio</key>
+		<string>單聲道</string>
+		<key>Stereo // Audio</key>
+		<string>立體聲</string>
+		<key>Dolby 5.1 // Audio</key>
+		<string>5.1環繞聲</string>
+		<key>Bus (%i channels) // Audio</key>
+		<string>總線（%i通道）</string>
+		<key>Unknown channel format // Audio</key>
+		<string>未知通道格式</string>
+		<key>16 bit linear PCM // Audio</key>
+		<string>16位線性PCM</string>
+		<key>24 bit linear PCM // Audio</key>
+		<string>24位線性PCM</string>
+		<key>32 bit linear PCM // Audio</key>
+		<string>32位線性PCM</string>
+		<key>8 bit linear PCM // Audio</key>
+		<string>8位線性PCM</string>
+		<key>32 bit floating PCM // Audio</key>
+		<string>32位浮點PCM</string>
+		<key>ULaw // Audio</key>
+		<string>ULaw</string>
+		<key>ALaw // Audio</key>
+		<string>ALaw</string>
+		<key>IMA ADPCM // Audio</key>
+		<string>IMA ADPCM</string>
+		<key>Microsoft ADPCM // Audio</key>
+		<string>Microsoft ADPCM</string>
+		<key>Unknown sample format // Audio</key>
+		<string>未知采樣格式</string>
+		<key>Bridge I/O: // Audio</key>
+		<string>橋接輸入/輸出：</string>
+		<key>ReWire Client I/O: // Audio</key>
+		<string>ReWire客户端輸入/輸出：</string>
+		<key>Buffer Size: // Audio</key>
+		<string>緩衝大小：</string>
+		<key>Buffer Count: // Audio</key>
+		<string>緩衝區數：</string>
+		<key>Buffer Preload: // Audio</key>
+		<string>緩衝預載：</string>
+		<key>Virtual Memory // Audio</key>
+		<string>虚拟内存</string>
+		<key>Please switch off virtual memory and restart the computer. // Audio</key>
+		<string>請關閉虚拟内存并重新啟動計算機。</string>
+		<key>Running as ReWire Client // Audio</key>
+		<string>以ReWire客户端運行</string>
+		<key>Yes // Audio</key>
+		<string>是</string>
+		<key>No // Audio</key>
+		<string>否</string>
+		<key>Audio IO // Audio</key>
+		<string>音頻輸入輸出</string>
+		<key>How would you like to connect %@ to the running host application. // Audio</key>
+		<string>你想如何将 %@ 鏈接到主程序？</string>
+		<key>Don&apos;t connect // Audio</key>
+		<string>不鏈接</string>
+		<key>Audio Device // Audio</key>
+		<string>音頻設備</string>
+		<key>No device available. // Audio</key>
+		<string>無可用設備。</string>
+		<key>Device %s cannot be used: %s Using %s instead. // Audio</key>
+		<string>設備 %s 無法使用： %s ，使用 %s 替代。</string>
+		<key>Cannot unload the current driver: %s // Audio</key>
+		<string>無法卸載當前驅動： %s </string>
+		<key>Cannot use %s: %s // Audio</key>
+		<string>無法使用 %s： %s</string>
+		<key>Undefined device // Audio</key>
+		<string>未定義的設備</string>
+		<key>No specific error. // Audio</key>
+		<string>不明錯誤。</string>
+		<key>The hardware configuration has changed. Please restart the application. // Audio</key>
+		<string>硬件配置發生改變，請重新啟動應用程序。</string>
+		<key>No log. // Audio</key>
+		<string>無記錄。</string>
+		<key>Device Driver: // AudioPreferences</key>
+		<string>設備驅動：</string>
+		<key>In Device: // AudioPreferences</key>
+		<string>輸入設備：</string>
+		<key>Out Device: // AudioPreferences</key>
+		<string>輸出設備：</string>
+		<key>Configure DirectIO // AudioPreferences</key>
+		<string>配置Direct輸入輸出</string>
+		<key>Sample Rate: // AudioPreferences</key>
+		<string>采樣頻率：</string>
+		<key>Buffer Size: // AudioPreferences</key>
+		<string>緩衝大小：</string>
+		<key>Inputs: // AudioPreferences</key>
+		<string>輸入：</string>
+		<key>Outputs: // AudioPreferences</key>
+		<string>輸出：</string>
+		<key>Output: // AudioPreferences</key>
+		<string>輸出：</string>
+		<key>Input: // AudioPreferences</key>
+		<string>輸入：</string>
+		<key>Ignore buffer underruns // AudioPreferences</key>
+		<string>忽略緩存偏小</string>
+		<key>Cannot query device: %s // Audio</key>
+		<string>不能拔出設備：%s</string>
+		<key>Cannot acquire device: %s // Audio</key>
+		<string>不能獲取設備：%s</string>
+		<key>EQ: %@ // AudioMixer</key>
+		<string>均衡：%@</string>
+		<key>G%i // AudioMixer</key>
+		<string>G%i</string>
+		<key>Add Group Track // AudioMixer</key>
+		<string>添加組合軌</string>
+		<key>Delete Last Group Track // AudioMixer</key>
+		<string>刪除最近的組合軌</string>
+		<key>Hide EQs // AudioMixer</key>
+		<string>隐藏均衡</string>
+		<key>Show EQs // AudioMixer</key>
+		<string>顯示均衡</string>
+		<key>Hide Inserts // AudioMixer</key>
+		<string>隐藏插入</string>
+		<key>Show Inserts // AudioMixer</key>
+		<string>顯示插入</string>
+		<key>Hide Auxs // AudioMixer</key>
+		<string>隐藏輔助</string>
+		<key>Show Auxs // AudioMixer</key>
+		<string>顯示輔助</string>
+		<key>Delete Last Instrument Track // AudioMixer</key>
+		<string>刪除最近的樂器軌</string>
+		<key>Inst %d // AudioMixer</key>
+		<string>插入 %d </string>
+		<key>Add Instrument Track // AudioMixer</key>
+		<string>添加樂器軌</string>
+		<key>Hide Aux Sends // AudioMixer</key>
+		<string>隐藏輔助發送</string>
+		<key>Group Tracks // AudioMixer</key>
+		<string>組合軌</string>
+		<key>Instrument Tracks // AudioMixer</key>
+		<string>樂器軌</string>
+		<key>Show EQ Graph // AudioMixer</key>
+		<string>顯示均衡曲線</string>
+		<key>High Shelf // AudioMixer</key>
+		<string>高頻濾波</string>
+		<key>Peak // AudioMixer</key>
+		<string>峰值</string>
+		<key>Low Shelf // AudioMixer</key>
+		<string>低頻濾波</string>
+		<key>Mono // AudioMixer</key>
+		<string>單聲道</string>
+		<key>Stereo // AudioMixer</key>
+		<string>立體聲</string>
+		<key>PlugIn %@ was disabled due to crashing on last lauch. // AudioMixer</key>
+		<string>插件%@由于在上一次啟動時崩潰而被禁用。</string>
+		<key>Select Insert Effect // AudioMixer</key>
+		<string>選擇插入效果</string>
+		<key>Select Main Output // AudioMixer</key>
+		<string>選擇主輸出</string>
+		<key>Toggle Rec Monitor // AudioMixer</key>
+		<string>套索錄音监听</string>
+		<key>Edit Master Level // AudioMixer</key>
+		<string>編輯主電平</string>
+		<key>Remove Equalizer // AudioMixer</key>
+		<string>EQ削除</string>
+		<key>Select Equalizer // AudioMixer</key>
+		<string>EQ選択</string>
+		<key>Edit Equalizer Gain // AudioMixer</key>
+		<string>EQゲインの編集</string>
+		<key>Edit Equalizer Frequency // AudioMixer</key>
+		<string>EQ周波數の編集</string>
+		<key>Edit Equalizer Q // AudioMixer</key>
+		<string>EQのQ編集</string>
+		<key>Disable Equalizer // AudioMixer</key>
+		<string>EQを無効</string>
+		<key>Enable Equalizer // AudioMixer</key>
+		<string>EQを有効</string>
+		<key>Disable Insert // AudioMixer</key>
+		<string>インサートを無効</string>
+		<key>Enable Insert // AudioMixer</key>
+		<string>インサートを有効</string>
+		<key>Select AUX Effect // AudioMixer</key>
+		<string>AUXエフェクトの選択</string>
+		<key>Edit AUX Send Gain // AudioMixer</key>
+		<string>AUXセンドゲインの編集</string>
+		<key>Disable AUX Send // AudioMixer</key>
+		<string>AUXセンドを無効</string>
+		<key>Enable AUX Send // AudioMixer</key>
+		<string>AUXセンドを有効</string>
+		<key>Choose Instrument // AudioMixer</key>
+		<string>インストゥルメントの選択</string>
+		<key>Edit Track Level // AudioMixer</key>
+		<string>トラックレベルの編集</string>
+		<key>Edit Track Panorama // AudioMixer</key>
+		<string>トラックパンの編集</string>
+		<key>Mute Track // AudioMixer</key>
+		<string>トラックのミュート</string>
+		<key>Unmute Track // AudioMixer</key>
+		<string>トラックのミュート解除</string>
+		<key>Switch Solo Off // AudioMixer</key>
+		<string>ソロをオフ</string>
+		<key>Switch Solo On // AudioMixer</key>
+		<string>ソロをオン</string>
+		<key>Enable Track Recording // AudioMixer</key>
+		<string>トラックレコーディングを有効</string>
+		<key>Disable Track Recording // AudioMixer</key>
+		<string>トラックレコーディングを無効</string>
+		<key>Select Track Input // AudioMixer</key>
+		<string>トラックインプットの選択</string>
+		<key>Select Track Output // AudioMixer</key>
+		<string>トラックアウトプットの選択</string>
+		<key>Select Track Format // AudioMixer</key>
+		<string>トラックフォーマットの選択</string>
+		<key>Edit Track Title // AudioMixer</key>
+		<string>トラックタイトル編集</string>
+		<key>Build-In Audio Device // AudioDevice</key>
+		<string>内蔵オーディオデバイス</string>
+		<key>VST // AudioPlugInHosting</key>
+		<string>VST</string>
+		<key>Audio Unit // AudioPlugInHosting</key>
+		<string>Audio Unit</string>
+		<key>DirectX // AudioPlugInHosting</key>
+		<string>DirectX</string>
+		<key>RTAS // AudioPlugInHosting</key>
+		<string>RTAS</string>
+		<key>Internal // AudioPlugInHosting</key>
+		<string>Internal</string>
+		<key>Others // AudioPlugInHosting</key>
+		<string>Others</string>
+		<key>Analysing: %@ (%d of %d) // AudioPlugInHosting</key>
+		<string>解析：%@ (%d of %d) </string>
+		<key>Don&apos;t activate this plugin. It caused crashes in the past. // AudioPreferences</key>
+		<string>因可能導致程式崩潰，請不要啟用此插件。</string>
+		<key>OK // AudioPreferences</key>
+		<string>OK</string>
+		<key>Activate Anyway // AudioPreferences</key>
+		<string>啟用</string>
+		<key>VST PlugIn folder: // AudioPreferences</key>
+		<string>VST插件目錄：</string>
+		<key>Set // AudioPreferences</key>
+		<string>設置</string>
+		<key>AudioUnits Effects // AudioPreferences</key>
+		<string>AudioUnits 效果</string>
+		<key>VST Effects // AudioPreferences</key>
+		<string>VST效果</string>
+		<key>Title // AudioPreferences</key>
+		<string>標題</string>
+		<key>Manufacturer // AudioPreferences</key>
+		<string>開發者</string>
+		<key>Valid // AudioPreferences</key>
+		<string>有效</string>
+		<key>Version // AudioPreferences</key>
+		<string>版本</string>
+		<key>Rescan selected PlugIns // AudioPreferences</key>
+		<string>重掃描選擇的插件</string>
+		<key>Show Log // AudioPreferences</key>
+		<string>顯示日誌</string>
+		<key>Log for %@ // AudioPreferences</key>
+		<string>%@ 日誌</string>
+		<key>Not installed // AudioPreferences</key>
+		<string>未安装</string>
+		<key>Not available // AudioPreferences</key>
+		<string>不可用</string>
+		<key>Invalid // AudioPreferences</key>
+		<string>無效</string>
+		<key>Loading: %s %@ // AudioPlugInHosting</key>
+		<string>ロード：%s %@</string>
+		<key>Rewire Slave // Audio</key>
+		<string>ReWire スレーブ</string>
+		<key>Bank %i // MidiDevice</key>
+		<string>バンク %i</string>
+		<key>Controller // MidiDevice</key>
+		<string>コントローラ</string>
+		<key>Note // MidiDevice</key>
+		<string>ノート</string>
+		<key>Program Change // MidiDevice</key>
+		<string>プログラムチェンジ</string>
+		<key>Pitch Bend // MidiDevice</key>
+		<string>ピッチベンド</string>
+		<key>Add // MidiDevice</key>
+		<string>追加</string>
+		<key>Remove // MidiDevice</key>
+		<string>削除</string>
+		<key>Edit // MidiDevice</key>
+		<string>編集</string>
+		<key>Import // MidiDevice</key>
+		<string>インポート</string>
+		<key>Export // MidiDevice</key>
+		<string>エクスポート</string>
+		<key>Options // MidiDevice</key>
+		<string>選項</string>
+		<key>The file does not contain a midi device. // MidiDevice</key>
+		<string>ファイルにMIDIデバイスが含まれていません。</string>
+		<key>Cannot export midi device: %@ // MidiDevice</key>
+		<string>MIDIデバイスをエクスポートできません：%@</string>
+		<key>Unknown error // MidiDevice</key>
+		<string>未知錯誤</string>
+		<key>MIDI File Format // Midi</key>
+		<string>MIDI文件格式</string>
+		<key>None // MidiPreferences</key>
+		<string>空</string>
+		<key>All // MidiPreferences</key>
+		<string>全部</string>
+		<key>WAVE (Microsoft WAVE Format) // Sounds</key>
+		<string>WAVE（Microsoft WAVE）</string>
+		<key>AIFF (Audio Interchange File Format) // Sounds</key>
+		<string>AIFF (Audio Interchange File Format) </string>
+		<key>Sound Designer II // Sounds</key>
+		<string>Sound Designer II </string>
+		<key>MEPG-1 Audio Layer 3 // Sounds</key>
+		<string>MEPG-1 Audio Layer 3</string>
+		<key>Open original file (edit destructively) // OpenRegion</key>
+		<string>オリジナルファイルを開く（破壊編集）</string>
+		<key>Create new file by copy: // OpenRegion</key>
+		<string>コピーして新規ファイルを作成：</string>
+		<key>Open entire file // OpenRegion</key>
+		<string>打開整個文件</string>
+		<key>Open region: // OpenRegion</key>
+		<string>打開區域：</string>
+		<key>Memory: // SystemLoad</key>
+		<string>内存：</string>
+		<key>Processor: // SystemLoad</key>
+		<string>進度：</string>
+		<key>System Load // SystemLoad</key>
+		<string>系統負荷</string>
+		<key>VST Bridge // Audio</key>
+		<string>VST 橋</string>
+		<key>OFF // DecibelFormatter</key>
+		<string>關</string>
+		<key>Unknown // FileType</key>
+		<string>未知</string>
+		<key>Primary Ethernet Card (recommended) // HostIdentifier</key>
+		<string>プライマリー Ethernet カード（推奨）</string>
+		<key>Harddrive %s (MacOS 9 only) // HostIdentifier</key>
+		<string>ハードディスク %s （MacOS 9のみ）</string>
+		<key>minus infinite // NumberFormatter</key>
+		<string>－∞</string>
+		<key>infinite // NumberFormatter</key>
+		<string>∞</string>
+		<key>Undo // UndoManager</key>
+		<string>撤銷</string>
+		<key>Undo %@ // UndoManager</key>
+		<string>撤銷%@</string>
+		<key>Redo // UndoManager</key>
+		<string>重做</string>
+		<key>Redo %@ // UndoManager</key>
+		<string>重做%@</string>
+		<key>Track %d // Arrangment</key>
+		<string>軌道 %d</string>
+		<key>Insert Tracks // Arrangment</key>
+		<string>插入軌道</string>
+		<key>New Track %d // Arrangment</key>
+		<string>新軌道 %d</string>
+		<key>Opening old MDDs // Midi</key>
+		<string>旧MDDを開く</string>
+		<key>Melody Manager // Midi</key>
+		<string>メロディマネージャー</string>
+		<key>There are some sound files with older MDD files. For faster note display in the Melody Manager, Melodyne can update older files automatically. Updated MDD files cannot be used with older versions of Melodyne. (This option can be changed in Preferences) // Midi</key>
+		<string>旧MDDファイルを含むファイルがあります。Melodyneで旧タイプのファイルを自動的に更新するようにすると、メロディマネージャーでのノート表示を高速にすることができます。ただし、更新されたMDDファイルは旧バージョンのMelodyneでは使用できなくなります。このオプションはユーザー設定で変更することができます。</string>
+		<key>Always Update // Midi</key>
+		<string>常に更新</string>
+		<key>Don&apos;t Update // Midi</key>
+		<string>更新しない</string>
+		<key>Cannot open Sound File // SourceWave</key>
+		<string>サウンドファイルを開けません</string>
+		<key>The melody definition file (.mdd) does not fit the corresponding sound file %@. // SourceWave</key>
+		<string>メロディ定義ファイル（.mdd）がサウンドファイル %@ に適合しません。</string>
+		<key>Open Sound File // SourceWave</key>
+		<string>サウンドファイルを開く</string>
+		<key>The Detection File (.mdd) for Sound File %@ is not valid. // SourceWave</key>
+		<string>サウンドファイル %@ の定義ファイル（.mdd）は無効です。</string>
+		<key>Redetect Sound File // SourceWave</key>
+		<string>サウンドファイルの再検出</string>
+		<key>Don&apos;t Open // SourceWave</key>
+		<string>開かない</string>
+		<key>Detection // SourceWave</key>
+		<string>検出</string>
+		<key>Detection Parameters &quot;%s&quot; are active. Do you still want to use these Custom Parameters or reset to Automatic Detection? // SourceWave</key>
+		<string>檢測参數“%s”是啟用狀態。你仍然要使用這個自定義参數还是重設為自動檢測？</string>
+		<key>Use Custom Parameters // SourceWave</key>
+		<string>使用自定義参數</string>
+		<key>Reset to Automatic Detection // SourceWave</key>
+		<string>重設為自動檢測</string>
+		<key>Cannot create posix path. Maybe you should remove and &apos;/&apos; and &apos;:&apos; from your folder and filenames. // SourceWave</key>
+		<string>posixパスを作成できません。フォルダ名またはファイル名からapos;/&apos; および &apos;:&apos;を削除してください。</string>
+		<key>Damaged file: Cannot read path of soundfile. // SourceWave</key>
+		<string>破損したファイル：サウンドファイルのパスを読み込めません。</string>
+		<key>Open Arrangement // SourceWave</key>
+		<string>アレンジを開く</string>
+		<key>File archive %@ not registered. // SourceWave</key>
+		<string>ファイルアーカイブ %@ は未登録です。</string>
+		<key>Cancel // SourceWave</key>
+		<string>キャンセル</string>
+		<key>Drop notes // SourceWave</key>
+		<string>ドロップノート</string>
+		<key>File archive %@ does not provide %@. // SourceWave</key>
+		<string>ファイルアーカイブ %@ は %@ をサポートしません。</string>
+		<key>Missing soundfile %s // SourceWave</key>
+		<string>見つかりません：サウンドファイル %s </string>
+		<key>Cannot locate sound file %@. // SourceWave</key>
+		<string>サウンドファイル %@ を配置できません。</string>
+		<key>Choose Sound File // SourceWave</key>
+		<string>サウンドファイル選択</string>
+		<key>Missing MDD. // SourceWave</key>
+		<string>見つかりません：MDD</string>
+		<key>Reading %@ // SourceWave</key>
+		<string>正在讀取 %@</string>
+		<key>Track %d // Arrangement</key>
+		<string>軌道 %d</string>
+		<key>Detecting // Arrangement</key>
+		<string>正在檢測</string>
+		<key>Detecting Transferred File // Arrangement</key>
+		<string>正在檢測移動的文件</string>
+		<key>Detecting Recorded File // Arrangement</key>
+		<string>正在檢測錄音文件</string>
+		<key>Equal Temperament // ToneScale</key>
+		<string>平均律</string>
+		<key>Tone Scale File Format // ToneScale</key>
+		<string>音階文件格式</string>
+		<key>Scala Scale File Format // ToneScale</key>
+		<string>音階梯度文件格式</string>
+		<key>Read Scala Format Scale // ToneScale</key>
+		<string>讀取音階格式梯度</string>
+		<key>Cannot Read  File %s! // ToneScale</key>
+		<string>無法讀取文件 %s！</string>
+		<key>Cannot Read File %s! // ToneScale</key>
+		<string>無法讀取文件 %s！</string>
+		<key>Scala File %s has more than 12 Steps per Octave! // ToneScale</key>
+		<string>音階文件%s每八度超過12级！</string>
+		<key>Scala File %s is not 2/1 Octave-Periodic! // ToneScale</key>
+		<string>音階文件%s不是2個或1個八度范圍！</string>
+		<key>Assign Error for Scala File %s! // ToneScale</key>
+		<string>為音階文件 %s 指派錯誤！</string>
+		<key>Untitled Arrangement // ArrangementWindow</key>
+		<string>無標題序列</string>
+		<key>Bar // ArrangementWindow</key>
+		<string>小節</string>
+		<key>Seconds // ArrangementWindow</key>
+		<string>秒</string>
+		<key>Show Score Notes // ArrangementWindow</key>
+		<string>顯示樂譜</string>
+		<key>Open // Arrangement</key>
+		<string>打開</string>
+		<key>Opening arrangement // Arrangement</key>
+		<string>正在打開序列</string>
+		<key>This Arrangement was probably written with a newer version of Melodyne. // Arrangement</key>
+		<string>該序列可能是由一個高版本麥樂迪創建的。</string>
+		<key>Try to Open // Arrangement</key>
+		<string>重試打開</string>
+		<key>Cancel // Arrangement</key>
+		<string>取消</string>
+		<key>Open Failed // Arrangement</key>
+		<string>打開失敗</string>
+		<key>Cannot open arrangement. // Arrangement</key>
+		<string>無法打開序列。</string>
+		<key>The MDD file of %s was not found. The sound file was redetected automatically. Please check if everything still sounds as expected! // Arrangement</key>
+		<string> %s に関連する MDD ファイルが見つかりません。サウンドファイルは自動的に再検出されました。予定どおりか確認してください!</string>
+		<key>The MDD files of some sound files were not found. The sound files were redetected automatically. Please check if everything still sounds as expected! // Arrangement</key>
+		<string>いくつかのサウンドファイルに関連する MDD ファイルが見つかりません。サウンドファイルは自動的に再検出されました。予定どおりか確認してください!</string>
+		<key>Missing MDD Files // Arrangement</key>
+		<string>見つからない MDD ファイル</string>
+		<key>The opened file has a tempo of %i bpm but the ReWire host is running at %i bpm. Would you like to stretch the opened file to %i bpm, or would you like to keep %i bpm and sync in realtime? // Arrangement</key>
+		<string>開いたファイルのテンポは %i bpmですが、ReWireホストは %i bpmです。開いたファイルを %i bpmにストレッチしますか、それとも %i bpmをキープしてリアルタイムに同期しますか?</string>
+		<key>Stretch // Arrangement</key>
+		<string>ストレッチ</string>
+		<key>Keep // Arrangement</key>
+		<string>キープ</string>
+		<key>The tempo of the opened file varies from %i to %i bpm but the ReWire host is running at %i bpm. Would you like to stretch the opened file to an equal tempo of %i bpm, or would you like to keep the varying tempo and sync in realtime? // Arrangement</key>
+		<string>開いたファイルのテンポは %i から %i bpmまで変化しますが、ReWireホストは %i bpmです。開いたファイルをストレッチして %i bpm に合わせますか、それとも変化するテンポをキープしてリアルタイムに同期しますか?</string>
+		<key>The tempo of the opened file varies around %i bpm but the ReWire host is running at %i bpm. Would you like to stretch the opened file to an equal tempo of %i bpm, or would you like to keep the varying tempo and sync in realtime? // Arrangement</key>
+		<string>開いたファイルのテンポはだいたい %i bpmに変化しますが、ReWireホストは %i bpmです。開いたファイルをストレッチして %i bpm に合わせますか、それとも変化するテンポをキープしてリアルタイムに同期しますか?</string>
+		<key>Opening %s // Arrangement</key>
+		<string>正在打開 %s</string>
+		<key>Sound file %@ cannot be opened. // Arrangement</key>
+		<string>無法打開音頻文件 %@。</string>
+		<key>File %@ cannot be opened. // Arrangement</key>
+		<string>無法打開文件 %@。</string>
+		<key>Adding Melody // Arrangement</key>
+		<string>添加媒體</string>
+		<key>Remove Track // Arrangement</key>
+		<string>移除軌道</string>
+		<key>Remove the Track and Delete its Content? // Arrangement</key>
+		<string>移除軌道并刪除上面的内容嗎？</string>
+		<key>Remove // Arrangement</key>
+		<string>移除</string>
+		<key>Removing Track // Arrangement</key>
+		<string>正在移除軌道</string>
+		<key>Save // Arrangement</key>
+		<string>保存</string>
+		<key>Save melody definition of %s? // Arrangement</key>
+		<string>保存 %s 的旋律定義嗎？</string>
+		<key>Skip // Arrangement</key>
+		<string>跳過</string>
+		<key>Saving melody definition failed. // Arrangement</key>
+		<string>保存旋律定義失敗。</string>
+		<key>The directory %@ does already contain a file called &apos;%@&apos;. Please remove that file and try again. // Arrangement</key>
+		<string>ディレクトリ %@ にはすでに &apos;%@&apos;という名前のファイルが存在します。このファイルを削除してからやり直してください。 </string>
+		<key>The directory &apos;%@&apos; could not be created. // Arrangement</key>
+		<string>ディレクトリ &apos;%@&apos; を作成できません。</string>
+		<key>The audio file &apos;%@&apos; could not be copied to the &apos;%@&apos; directoy. // Arrangement</key>
+		<string>オーディオファイル &apos;%@&apos; を、ディレクトリ &apos;%@&apos; にコピーできませんでした。</string>
+		<key>Close // Arrangement</key>
+		<string>閉じる</string>
+		<key>Close arrangement and all editors? // Arrangement</key>
+		<string>アレンジおよびすべてのエディタを閉じますか?</string>
+		<key>When opening the arrangement some notes were dropped due to missing sound files. Saving this arrangement without giving a new name will overwrite the original and therefor drop these notes forever. // Arrangement</key>
+		<string>由于找不到音頻文件，開啟編曲時有部分音符遺失。若不以其他名稱另存新文件，原始編曲將被覆蓋，遺失的音符將永久無法恢復。</string>
+		<key>Save Anyway // Arrangement</key>
+		<string>保存</string>
+		<key>Save As ... // Arrangement</key>
+		<string>另存文件</string>
+		<key>Time Change // ArrangementWindow</key>
+		<string>時間變更</string>
+		<key>This Time Change could not be Performed! // ArrangementWindow</key>
+		<string>無法執行此時間變更！</string>
+		<key>OK // ArrangementWindow</key>
+		<string>OK</string>
+		<key>Setting Tempo Change // ArrangementWindow</key>
+		<string>節奏變更設置</string>
+		<key>Moving Melody // ArrangementWindow</key>
+		<string>旋律移動</string>
+		<key>Changing Tempo // ArrangementWindow</key>
+		<string>更改節奏</string>
+		<key>Cut // ArrangementWindow</key>
+		<string>剪切</string>
+		<key>Please use Backspace key for undetected notes! // ArrangementWindow</key>
+		<string>請為未檢測出的音符使用Backspace（退格鍵）。</string>
+		<key>Copy // ArrangementWindow</key>
+		<string>複製</string>
+		<key>Undetected notes cannot be copied! // ArrangementWindow</key>
+		<string>未檢測出的音符不能被複製！</string>
+		<key>Paste // ArrangementWindow</key>
+		<string>粘貼</string>
+		<key>Nothing to paste! // ArrangementWindow</key>
+		<string>未被粘貼！</string>
+		<key>Pasted note is too long to replace selection! // ArrangementWindow</key>
+		<string>粘貼的音符對替换選擇而言太長！</string>
+		<key>Not enough space after paste position! // ArrangementWindow</key>
+		<string>粘貼位置後没有足夠的空間！</string>
+		<key>Not enough space to paste! // ArrangementWindow</key>
+		<string>没有足夠的粘貼空間！</string>
+		<key>Adapting Tempo // ArrangementWindow</key>
+		<string>匹配速度</string>
+		<key>Using Original Tempo // ArrangementWindow</key>
+		<string>使用原始速度</string>
+		<key>Using Original Pitch // ArrangementWindow</key>
+		<string>使用原始音高</string>
+		<key>Editing Track Name // ArrangementWindow</key>
+		<string>編輯軌道名</string>
+		<key>Switch Solo Off // ArrangementWindow</key>
+		<string>獨奏開關 關</string>
+		<key>Switch Solo On // ArrangementWindow</key>
+		<string>獨奏開關 開</string>
+		<key>Mute // ArrangementWindow</key>
+		<string>靜音</string>
+		<key>Activate Recording // ArrangementWindow</key>
+		<string>激活錄音</string>
+		<key>used // AudioFolder</key>
+		<string>已使用</string>
+		<key>not used // AudioFolder</key>
+		<string>未使用</string>
+		<key>Do you really want to delete the unused soundfiles from the arangement&apos;s audio folder? This cannot be undone. // AudioFolder</key>
+		<string>你確定要從序列的音頻文件夾中刪除未使用的音頻文件嗎？該操作不可逆轉。</string>
+		<key>OK // AudioFolder</key>
+		<string>確定</string>
+		<key>Some of the files could not be deleted. // AudioFolder</key>
+		<string>部分文件無法刪除。</string>
+		<key>Do you really want to move the used referred files to the arangement&apos;s audio folder? This cannot be undone and will request to save the arrangement. // AudioFolder</key>
+		<string>你確定要移動關联文件到序列的音頻文件夾内嗎？該操作不可逆轉，将会請求保存序列。</string>
+		<key>Do you really want to copy the used referred files to the arangement&apos;s audio folder? This cannot be undone and will request to save the arrangement. // AudioFolder</key>
+		<string>你確定要複製關联文件到序列的音頻文件夾内嗎？該操作不可逆轉，将会請求保存序列。</string>
+		<key>The directory %@ does already contain a file called &apos;%@&apos;. Please remove that file and try again. // AudioFolder</key>
+		<string>ディレクトリ %@ にはすでに &apos;%@&apos;という名前のファイルが存在します。このファイルを削除してからやり直してください。 </string>
+		<key>The directory &apos;%@&apos; could not be created. // AudioFolder</key>
+		<string>ディレクトリ &apos;%@&apos; を作成できません。</string>
+		<key>%@ is part of a sound library and cannot be moved or copied. // AudioFolder</key>
+		<string>%@ はサウンドライブラリの一部のため、移動やコピーができません。</string>
+		<key>Continue // AudioFolder</key>
+		<string>続ける</string>
+		<key>Cancel // AudioFolder</key>
+		<string>キャンセル</string>
+		<key>%@ cannot be copied to the audio folder. // AudioFolder</key>
+		<string>%@ はオーディオフォルダにコピーできません。</string>
+		<key>Some of the files to be moved could not be removed from thier orignal folder. So they were copied instead. // AudioFolder</key>
+		<string>移動しようとしたいくつかのファイルが元フォルダから消去できませんでした。代わりにコピーされました。</string>
+		<key>As the location of used files changed, it&apos;s recommeded to save the arrangement now to refresh the file references. // AudioFolder</key>
+		<string>使われているファイルのロケーションが変更されたので、アレンジを保存をすぐに行ってファイル状態を更新することをお勧めします。</string>
+		<key>Save // AudioFolder</key>
+		<string>上書き保存</string>
+		<key>Correct Pitch // CorrectPitchPanel</key>
+		<string>ピッチ修正</string>
+<!-- ■■■■■MDD部分1■■■■■-->
+		<key>Define Original Melody // DefinitionWindow</key>
+		<string>オリジナルメロディの定義</string>
+		<key>Bar // DefinitionWindow</key>
+		<string>小節</string>
+		<key>Seconds // DefinitionWindow</key>
+		<string>秒</string>
+		<key>Edit Definition // DefinitionWindow</key>
+		<string>編輯定義</string>
+		<key>Definition // DefinitionWindow</key>
+		<string>定義</string>
+		<key>Save melody definition? // DefinitionWindow</key>
+		<string>是否保存旋律定義？</string>
+		<key>Save // DefinitionWindow</key>
+		<string>保存</string>
+		<key>Don&apos;t save // DefinitionWindow</key>
+		<string>不保存</string>
+		<key>Saving melody definition of %s failed. // DefinitionWindow</key>
+		<string>保存 %s 的旋律定義失敗。</string>
+		<key>Define Pitch Detection and Note Separation // DefinitionWindow</key>
+		<string>定義音高檢測和音符分割</string>
+		<key>Correct Pitch Detection // DefinitionWindow</key>
+		<string>修正音高檢測</string>
+		<key>Note Separation // DefinitionWindow</key>
+		<string>音符分割</string>
+		<key>Define Score Time // DefinitionWindow</key>
+		<string>定義樂譜時間</string>
+		<key>Define Beat Assignment // DefinitionWindow</key>
+		<string>定義節拍分配</string>
+		<key>Define Pitch Assignment // DefinitionWindow</key>
+		<string>定義音高分配</string>
+		<key>Define Pitch Transition // DefinitionWindow</key>
+		<string>定義音高過渡</string>
+		<key>Moving Bar Start // DefinitionWindow</key>
+		<string>移動小節開始位置</string>
+		<key>Changing Transition Mode // DefinitionWindow</key>
+		<string>改變轉换模式</string>
+		<key>Changing Tone Scale // DefinitionWindow</key>
+		<string>改變音階</string>
+		<key>Tuning Offset // DefinitionWindow</key>
+		<string>調諧補償</string>
+		<key>A tuning offset of %d cent was detected. Do you want to apply the offset to the tone scale&apos;s definition? // DefinitionWindow</key>
+		<string>%d セントのチューニングオフセットが検出されました。このオフセットをトーンスケールの定義に適用しますか?</string>
+		<key>Apply // DefinitionWindow</key>
+		<string>應用</string>
+		<key>Don&apos;t Apply // DefinitionWindow</key>
+		<string>不應用</string>
+		<key>Changing Note Assignments // DefinitionWindow</key>
+		<string>改變音符分割</string>
+		<key>No Separation // DetectParametersController</key>
+		<string>無分割</string>
+		<key>Percussive // DetectParametersController</key>
+		<string>打擊樂</string>
+		<key>Add // Detection</key>
+		<string>添加</string>
+		<key>Remove // Detection</key>
+		<string>移除</string>
+		<key>Edit // Detection</key>
+		<string>編輯</string>
+		<key>Import // Detection</key>
+		<string>導入</string>
+		<key>Export // Detection</key>
+		<string>導出</string>
+		<key>Options // Detection</key>
+		<string>選項</string>
+		<key>Autodetect // Detection</key>
+		<string>自動檢測</string>
+		<key>The file does not contain a detection parameter set. // Detection</key>
+		<string>文件不包含一個檢測参數設置。</string>
+		<key>Cannot export detection parameters: %@ // Detection</key>
+		<string>不能導出檢測参數：%@</string>
+		<key>Unknown error // Detection</key>
+		<string>未知錯誤</string>
+		<key>Melodic // Detection</key>
+		<string>旋律</string>
+		<key>Percussive // Detection</key>
+		<string>打擊樂</string>
+		<key>Polyphonic // Detection</key>
+		<string>複調</string>
+		<key>Unpitched, Percussive // Detection</key>
+		<string>噪聲，打擊樂</string>
+		<key>Edit Melody // EditorWindow</key>
+		<string>編輯旋律</string>
+		<key>Bar // EditorWindow</key>
+		<string>小節</string>
+		<key>Seconds // EditorWindow</key>
+		<string>秒</string>
+		<key>Show Score Notes // EditorWindow</key>
+		<string>顯示樂譜</string>
+		<key>Select Current Melody // EditorWindow</key>
+		<string>選擇當前媒體</string>
+		<key>Played Tracks Mode // EditorWindow</key>
+		<string>播放軌道模式</string>
+		<key>Play selected // EditorWindow</key>
+		<string>播放選擇軌道</string>
+		<key>Play visible // EditorWindow</key>
+		<string>播放顯示軌道</string>
+		<key>Play arrangement // EditorWindow</key>
+		<string>播放整個序列</string>
+		<key>%d. (not detected) // EditorWindow</key>
+		<string>%d（未檢測出）</string>
+		<key>Remove from Editor // EditorWindow</key>
+		<string>從編輯器移除</string>
+		<key>Nothing in Editor // EditorWindow</key>
+		<string>空編輯器</string>
+		<key>Untitled Arrangement // EditorWindow</key>
+		<string>無標題序列</string>
+		<key>Select // EditorWindow</key>
+		<string>選擇</string>
+		<key>Edit Pitch // EditorWindow</key>
+		<string>音高編輯</string>
+		<key>Pitch Modulation // EditorWindow</key>
+		<string>音高調制</string>
+		<key>Pitch Drift // EditorWindow</key>
+		<string>音高補償</string>
+		<key>Edit Formant // EditorWindow</key>
+		<string>共振峰編輯</string>
+		<key>Edit Amplitude // EditorWindow</key>
+		<string>音量編輯</string>
+		<key>Move Notes // EditorWindow</key>
+		<string>移動音符</string>
+		<key>Edit Time Handle // EditorWindow</key>
+		<string>編輯時間柄</string>
+		<key>Note Separation // EditorWindow</key>
+		<string>音符分割</string>
+		<key>Segment Separation // EditorWindow</key>
+		<string>片段分割</string>
+		<key>Redetecting Note Pitch // EditorWindow</key>
+		<string>正在重新檢測音符音高</string>
+		<key>Changing Note Pitch // EditorWindow</key>
+		<string>正在改變音符音高</string>
+		<key>Changing Pitch Modulation // EditorWindow</key>
+		<string>正在改變音高調制</string>
+		<key>Changing Pitch Drift // EditorWindow</key>
+		<string>正在改變音高補償</string>
+		<key>Changing Transition Mode // EditorWindow</key>
+		<string>正在改變過渡模式</string>
+		<key>Resetting Notes Formants // EditorWindow</key>
+		<string>正在重置音符共振峰</string>
+		<key>Muting Note // EditorWindow</key>
+		<string>正在靜音音符</string>
+		<key>Changing Note Quantize // EditorWindow</key>
+		<string>正在改變音符量化</string>
+		<key>Combining Notes // EditorWindow</key>
+		<string>结合音符中</string>
+		<key>Splitting Note // EditorWindow</key>
+		<string>分割音符中</string>
+		<key>Splitting Segment // EditorWindow</key>
+		<string>分割片段中</string>
+		<key>Combining Segments // EditorWindow</key>
+		<string>结合片段中</string>
+		<key>Combine Segments // EditorWindow</key>
+		<string>结合片段</string>
+		<key>Segments don&apos;t fit for combining! // EditorWindow</key>
+		<string>分割的片断不匹配，無法结合！</string>
+		<key>OK // EditorWindow</key>
+		<string>確定</string>
+		<key>Changing Note Assignment // EditorWindow</key>
+		<string>ノート割り當て変更</string>
+		<key>Time Change // EditorWindow</key>
+		<string>タイムの変更</string>
+		<key>This Time Change could not be Performed! // EditorWindow</key>
+		<string>このタイムチェンジは実行できません!</string>
+		<key>Setting Tempo Change // EditorWindow</key>
+		<string>テンポ変更設定</string>
+		<key>Changing Pitch Transition // EditorWindow</key>
+		<string>ピッチトランジション変更</string>
+		<key>Changing Note Formant // EditorWindow</key>
+		<string>ノートフォルマント変更</string>
+		<key>Changing Formant Transition // EditorWindow</key>
+		<string>フォルマントトランジション変更</string>
+		<key>Moving Segment Separation // EditorWindow</key>
+		<string>セグメント分割の移動</string>
+		<key>Changing Note Amplitude // EditorWindow</key>
+		<string>ノート音量変更</string>
+		<key>Changing Amplitude Transition // EditorWindow</key>
+		<string>音量トランジション変更</string>
+		<key>Moving Note Time // EditorWindow</key>
+		<string>ノートタイム移動</string>
+		<key>Stretching Note Time // EditorWindow</key>
+		<string>ノートタイムのストレッチ</string>
+		<key>Assigning Note Beat // EditorWindow</key>
+		<string>ノートビート割り當て</string>
+		<key>Correcting Note Beat // EditorWindow</key>
+		<string>ノートビート補正</string>
+		<key>Changing Note Attack // EditorWindow</key>
+		<string>ノートアタック変更</string>
+		<key>Changing Note Decay // EditorWindow</key>
+		<string>ノートディケイ変更</string>
+		<key>Assigning Note Pitch // EditorWindow</key>
+		<string>ノートピッチ割り當て</string>
+		<key>Changing Note Center // EditorWindow</key>
+		<string>ノートセンター変更</string>
+		<key>Changing Tempo // EditorWindow</key>
+		<string>テンポ変更</string>
+		<key>Moving Note Separation // EditorWindow</key>
+		<string>ノート分割の移動</string>
+		<key>Edit Formants // EditorWindow</key>
+		<string>フォルマントの編集</string>
+		<key>The selected Play Algorithm doesn&apos;t support Formant Changes! // EditorWindow</key>
+		<string>選択された再生アルゴリズムは、フォーマットの変更をサポートしていません。</string>
+		<key>Paste // EditorWindow</key>
+		<string>貼り付け</string>
+		<key>Nothing to paste! // EditorWindow</key>
+		<string>貼り付けるものがありません。</string>
+		<key>Pasted note is too long to replace selection! // EditorWindow</key>
+		<string>選択されている范囲に対し、貼り付けるノートが長すぎます。</string>
+		<key>Not enough space after paste position! // EditorWindow</key>
+		<string>貼り付けるポジションの後にスペースがありません。</string>
+		<key>Not enough space to paste! // EditorWindow</key>
+		<string>貼り付けるスペースがありません。</string>
+		<key>Changing Note Display Pitch // EditorWindow</key>
+		<string>ノートディスプレイピッチ変更</string>
+		<key>Adapting Tempo // EditorWindow</key>
+		<string>テンポの適用</string>
+		<key>Using Original Tempo // EditorWindow</key>
+		<string>元のテンポを使う</string>
+		<key>Adapting to Tone Scale %@ // EditorWindow</key>
+		<string>トーンスケール %@ に適用</string>
+		<key>Using Original Pitch // EditorWindow</key>
+		<string>使用原音高</string>
+		<key>Save Audio // Export</key>
+		<string>保存音頻</string>
+		<key>Stereo Mix // Export</key>
+		<string>立體聲混音</string>
+		<key>Save MIDI // Export</key>
+		<string>保存MIDI</string>
+		<key>All // Export</key>
+		<string>全部</string>
+		<key>Save // Export</key>
+		<string>保存</string>
+		<key>Format: // Export</key>
+		<string>格式：</string>
+		<key>Range: // Export</key>
+		<string>范圍：</string>
+		<key>Channels: // Export</key>
+		<string>通道：</string>
+		<key>Tracks: // Export</key>
+		<string>軌道：</string>
+		<key>Audio // Export</key>
+		<string>音頻</string>
+		<key>MIDI // Export</key>
+		<string>MIDI</string>
+		<key>Entire Arrangement // Export</key>
+		<string>整個序列</string>
+		<key>Between Locators // Export</key>
+		<string>標記范圍</string>
+		<key>As Reference Track // Export</key>
+		<string>作為参考軌</string>
+		<key>From Start of Reference Track until End of Arrangement // Export</key>
+		<string>從参考軌起點到序列終點</string>
+		<key>Individual Range for each Track // Export</key>
+		<string>各軌道為一個單獨范圍</string>
+		<key>Individual File for each Marker Region // Export</key>
+		<string>各標記范圍為一個單獨文件</string>
+		<key>Individual File for each Note // Export</key>
+		<string>各音符為一個單獨文件</string>
+		<key>All Originals // Export</key>
+		<string>所有源</string>
+		<key>Save each track as a single file // Export</key>
+		<string>保存各軌為一個單獨文件</string>
+		<key>Save As ... // Export</key>
+		<string>另存為...</string>
+		<key>Cancel // Export</key>
+		<string>取消</string>
+		<key>Spot To ProTools // Export</key>
+		<string>ProToolsにSpot</string>
+		<key>As Specified in Tracks // Export</key>
+		<string>トラックの指定に従う</string>
+		<key>Quantized for Notation // Export</key>
+		<string>譜面表示用にクォンタイズ</string>
+		<key>Reference Track: // Export</key>
+		<string>参考軌：</string>
+		<key>Write MDDs // Export</key>
+		<string>MDDの書き出し</string>
+		<key>Export // Export</key>
+		<string>エクスポート</string>
+		<key>Cannot use &apos;Individual Range for each Track&apos; Option when Exporting Stereo Mix. // Export</key>
+		<string>&apos;各トラックの選択范囲&apos; オプションは、ステレオミックスをエクスポートする場合には使用できません。</string>
+		<key>Cannot use &apos;Individual Range for each Track&apos; Option when Exporting Group or ReWire tracks. // Export</key>
+		<string>&apos;各トラックの選択范囲&apos; オプションは、グループトラックまたはReWireトラックをエクスポートする場合には使用できません。</string>
+		<key>Cannot use &apos;Individual File for each Marker Region&apos; Option when Exporting Stereo Mix. // Export</key>
+		<string>&apos;標記范囲&apos; オプションは、ステレオミックスをエクスポートする場合には使用できません。</string>
+		<key>Cannot use &apos;Individual File for each Note&apos; Option when Exporting Stereo Mix. // Export</key>
+		<string>&apos;各ノート&apos; オプションは、ステレオミックスをエクスポートする場合には使用できません。</string>
+		<key>Cannot use &apos;Individual File for each Marker Region&apos; Option when Exporting Group or ReWire tracks. // Export</key>
+		<string>&apos;標記范囲&apos; オプションは、グループトラックまたはReWireトラックをエクスポートする場合には使用できません。</string>
+		<key>Cannot use &apos;Individual File for each Note&apos; Option when Exporting Group or ReWire tracks. // Export</key>
+		<string>&apos;各ノート&apos; オプションは、グループトラックまたはReWireトラックをエクスポートする場合には使用できません。</string>
+		<key>You can only use &apos;Individual File for each Marker Region&apos; Option for a Single Track. // Export</key>
+		<string>&apos;標記范囲&apos; オプションは、単一のトラックにのみ使用可能です。</string>
+		<key>You can only use &apos;Individual File for each Note&apos; Option for a Single Track. // Export</key>
+		<string>&apos;各ノート&apos; オプションは、単一トラックでのみ使えます。</string>
+		<key>There are no Markers defined to use &apos;Individual File for each Marker Region&apos; Option. // Export</key>
+		<string>&apos;標記范囲&apos; オプションに必要な標記が設定されていません。</string>
+		<key>There are no Notes on the selected Track to use &apos;Individual File for each Note&apos; Option. // Export</key>
+		<string>&apos;各ノート&apos; オプションを使用するためのノートが、選択されたトラックにありません。</string>
+		<key>Cannot overwrite file. // Export</key>
+		<string>ファイルを上書きできません。</string>
+		<key>Cannot overwrite directory. // Export</key>
+		<string>ディレクトリを上書きできません。</string>
+		<key>Cannot create directory. // Export</key>
+		<string>ディレクトリを作成できません。</string>
+		<key>Export failed. // Export</key>
+		<string>エクスポートに失敗しました。</string>
+		<key>Cannot use &apos;Individual Range for each Track&apos; Option for MIDI Export. // Export</key>
+		<string>&apos;各トラックの選択范囲&apos; オプションは、MIDIのエクスポートには使用できません。</string>
+		<key>Export will be performed in realtime. // Export</key>
+		<string>リアルタイムにエクスポートします。</string>
+		<key>Sample rate is limited by active plug ins. // Export</key>
+		<string>動作中のプラグインのためサンプルレイトに制限があります</string>
+		<key>The exported signal exceeded 0 db. As it was exported to a float file, it was not clipped. Would you like Melodyne to reset the master volume in order to keep it below 0 db if you export again? // Export</key>
+		<string>導出信号超過0 dB。如果這樣導出浮點音頻文件，将会损失音质。你是否希望Melodyne更改主控音量，使下次導出時其不再高于0 dB？</string>
+		<key>The exported signal did clip at %@. Would you like Melodyne to reset the master volume in order to prevent from clipping if you export again? // Export</key>
+		<string>エクスポートされた信号は %@ でクリップしています。再びエクスポートする際のクリップを防ぐため、Melodyneのマスターボリュームをリセットしますか?</string>
+		<key>No // Export</key>
+		<string>いいえ</string>
+		<key>Yes // Export</key>
+		<string>はい</string>
+		<key>The exported signal exceeded 0 db. As it was exported to a float file, it was not clipped. Would you like Melodyne to reset the volume of the respective tracks to keep it below 0 db if you export again? Note that this will modify your current mix. // Export</key>
+		<string>エクスポートされた信号は 0 dB を超えていますが、浮動小數點処理が行なわれたためクリップしていません。再びエクスポートする際に、各トラックのボリュームを0 dB を超えないようリセットしますか? この操作を行なうと、現在のミックスが変更されます。</string>
+		<key>The saved sound file did clip. Would you like Melodyne to reset the volume to prevent clipping if you save again? // Export</key>
+		<string>保存されたサウンドファイルはクリップしています。再び保存する際のクリップを防ぐため、ボリュームをリセットしますか?</string>
+		<key>The exported signal did clip. Would you like Melodyne to reset the volume of the clipping tracks to prevent from clipping if you export again? Note that this will modify your current mix. // Export</key>
+		<string>エクスポートされた信号はクリップしています。再びエクスポートする際のクリップを防ぐため、クリップしたトラックのボリュームを 0 dB を超えないようリセットしますか? この操作を行なうと、現在のミックスが変更されます。</string>
+		<key>The entered respose code is not valid. // Soundbank</key>
+		<string>入力されたレスポンスコードが正しくありません。</string>
+		<key>Soundbank // Soundbank</key>
+		<string>サウンドバンク</string>
+		<key>Open in New Arrangement // MelodyManager</key>
+		<string>新しいアレンジとして開く</string>
+		<key>Add to Current Arrangement // MelodyManager</key>
+		<string>現在のアレンジに追加</string>
+		<key>Open in MDD Editor // MelodyManager</key>
+		<string>MDDエディタで開く</string>
+		<key>Open // MelodyManager</key>
+		<string>開く</string>
+		<key>Update MDD File // MelodyManager</key>
+		<string>MDDファイルの更新</string>
+		<key>Batch Detection // MelodyManager</key>
+		<string>バッチ検出</string>
+		<key>Rescan Directory // MelodyManager</key>
+		<string>ディレクトリ再スキャン</string>
+		<key>Volume // MelodyManager</key>
+		<string>ボリューム</string>
+		<key>The selected soundbank ist not activated! // MelodyManager</key>
+		<string>選択された soundbank はアクティベートされていません!</string>
+		<key>Activate // MelodyManager</key>
+		<string>アクティベート</string>
+		<key>Cancel // MelodyManager</key>
+		<string>キャンセル</string>
+		<key>Do you really want to Re-Write the MDD File for %@ to Update it to the latest File Format? // MelodyManager</key>
+		<string>MDDファイルを %@ のために最新のファイルフォーマットで上書きして本當に良いですか ?</string>
+		<key>Detect Sound Files // MelodyManager</key>
+		<string>サウンドファイルの検出</string>
+		<key>Do you want to Detect the Sound Files in all Sub-Directories, or in the Selected Directory only? // MelodyManager</key>
+		<string>すべてのサブディレクトリに含まれるサウンドファイルについて検出を行ないますか? それとも選択したディレクトリ内のみで検出を行ないますか? </string>
+		<key>Selected Directory only // MelodyManager</key>
+		<string>選択したディレクトリのみ</string>
+		<key>All Sub-Directories // MelodyManager</key>
+		<string>すべてのサブディレクトリを含む</string>
+		<key>Batch Detect Sound Files // MelodyManager</key>
+		<string>サウンドファイルのバッチ検出</string>
+		<key>Detecting %s // MelodyManager</key>
+		<string>%s を検出</string>
+		<key>Realtime Play Offsets // GlobalOffsets</key>
+		<string>實際播放偏移</string>
+		<key>Global // GlobalOffsets</key>
+		<string>全局</string>
+		<key>Selected Track // GlobalOffsets</key>
+		<string>選定軌道</string>
+		<key>Pitch: // GlobalOffsets</key>
+		<string>音高：</string>
+		<key>Formant: // GlobalOffsets</key>
+		<string>共振峰：</string>
+		<key>Tempo: // GlobalOffsets</key>
+		<string>速度：</string>
+		<key>bpm // GlobalOffsets</key>
+		<string>bpm</string>
+		<key>Reset // GlobalOffsets</key>
+		<string>重置</string>
+		<key>Fix to Arrangement // GlobalOffsets</key>
+		<string>固定到序列</string>
+		<key>Track Pitch change // GlobalOffsets</key>
+		<string>軌道音高改變</string>
+		<key>Global Pitch change // GlobalOffsets</key>
+		<string>全局音高改變</string>
+		<key>Track Formant change // GlobalOffsets</key>
+		<string>トラックフォルマントの変更</string>
+		<key>Global Formant change // GlobalOffsets</key>
+		<string>グローバルフォルマントの変更</string>
+		<key>Global Tempo change // GlobalOffsets</key>
+		<string>グローバルテンポの変更</string>
+		<key>Track Pitch reset // GlobalOffsets</key>
+		<string>トラックピッチのリセット</string>
+		<key>Global Pitch reset // GlobalOffsets</key>
+		<string>グローバルピッチのリセット</string>
+		<key>Track Formant reset // GlobalOffsets</key>
+		<string>トラックフォルマントのリセット</string>
+		<key>Global Formant reset // GlobalOffsets</key>
+		<string>グローバルフォルマントのリセット</string>
+		<key>Global Tempo reset // GlobalOffsets</key>
+		<string>グローバルテンポのリセット</string>
+		<key>Fix Play Offsets // GlobalOffsets</key>
+		<string>再生オフセット固定</string>
+		<key>Do you really want to change the arrangement constantly with these values? // GlobalOffsets</key>
+		<string>指定した値でアレンジに変更を加えてよろしいですか?</string>
+		<key>Change Whole Arrangement // GlobalOffsets</key>
+		<string>アレンジ全體を変更</string>
+		<key>Change between Locators // GlobalOffsets</key>
+		<string>ロケーター間を変更</string>
+		<key>No // GlobalOffsets</key>
+		<string>いいえ</string>
+		<key>Applying Global Changes // GlobalOffsets</key>
+		<string>グローバル変更の適用</string>
+		<key>Globals // GlobalOffsets</key>
+		<string>グローバル</string>
+		<key>Track Global Mode Change // GlobalOffsets</key>
+		<string>トラックグローバルモード変更</string>
+		<key>at the Cursor Position %@ // ImportPanel</key>
+		<string>%@　カーソル位置で</string>
+		<key>Import Audio // ImportPanel</key>
+		<string>オーディオのインポート</string>
+		<key>Undetected // ImportPanel</key>
+		<string>未検出</string>
+		<key>Insert Tracks // Application</key>
+		<string>トラックを挿入</string>
+<!-- ■■■■■MDD部分2■■■■■-->
+		<key>Tone Scale Definition Actions // DefinitionWindow</key>
+		<string>音階定義操作</string>
+		<key>Define Tone Scale // DefinitionWindow</key>
+		<string>定義音階</string>
+		<key>Find Scale with Standard Tuning considering Tuning Offset // DefinitionWindow</key>
+		<string>チューニングオフセットを適用したスタンダードチューニングでスケールを検出</string>
+		<key>Find Scale with Standard Tuning // DefinitionWindow</key>
+		<string>スタンダードチューニングでスケールを検出</string>
+		<key>Find Tuning Offset from Standard Tuning // DefinitionWindow</key>
+		<string>スタンダードチューニングからのオフセットを検出</string>
+		<key>Find Note Assignments for Current Tuning // DefinitionWindow</key>
+		<string>現在のチューニングのノート割り當てを検出</string>
+		<key>Reset all Manual Note Assignments // DefinitionWindow</key>
+		<string>手動でのノート割り當てをすべてリセット</string>
+		<key>Tone Scale Panel... // DefinitionWindow</key>
+		<string>トーンスケールパネル</string>
+		<key>Diatonic Snap Range for Note Assignment // DefinitionWindow</key>
+		<string>ノート割り當ての際のダイアトニックスナップ</string>
+		<key>Scale Base Note // DefinitionWindow</key>
+		<string>スケールのベースノート</string>
+		<key>Scale Type // DefinitionWindow</key>
+		<string>スケールタイプ</string>
+		<key>ct // DefinitionWindow</key>
+		<string>ct</string>
+		<key>Scale Tuning Offset // DefinitionWindow</key>
+		<string>スケールチューニングオフセット</string>
+		<key>Redistribute Note Pitches // DefinitionWindow</key>
+		<string>ノートピッチの再配置</string>
+		<key>Change Notes // DefinitionWindow</key>
+		<string>ノートの変更</string>
+		<key>Reset Note Pitches // DefinitionWindow</key>
+		<string>ノートピッチ変更</string>
+		<key>Reset Notes // DefinitionWindow</key>
+		<string>ノートをリセット</string>
+		<key>Portamento Adaptation on/off // DefinitionWindow</key>
+		<string>ポルタメントのオン/オフ</string>
+		<key>Transition // DefinitionWindow</key>
+		<string>トランジション</string>
+		<key>Selected Note // EditorWindow</key>
+		<string>選択ノート</string>
+		<key>Selected Note Pitch (Hz) // EditorWindow</key>
+		<string>選択ノートのピッチ（Hz）</string>
+		<key>Force Pitch to dragged Note Position // EditorWindow</key>
+		<string>ノートをドラッグした位置にピッチを変更する</string>
+		<key>Force Pitch // EditorWindow</key>
+		<string>フォースピッチ</string>
+		<key>Consider Sound Roughness on Redetecion // EditorWindow</key>
+		<string>再検出の際ピッチのラフネスを考慮する</string>
+		<key>Roughness // EditorWindow</key>
+		<string>ラフネス</string>
+		<key>Selected Note // DefinitionWindow</key>
+		<string>選択ノート</string>
+		<key>Selected Note Pitch (Hz) // DefinitionWindow</key>
+		<string>選択ノートのピッチ（Hz）</string>
+		<key>Pitch Detection: // DefinitionWindow</key>
+		<string>音高檢測：</string>
+		<key>Emphasize Pitch at Dragged Note Position for Detection // DefinitionWindow</key>
+		<string>檢測時强調拖曳位置的音高</string>
+		<key>Consider Sound Roughness for Detecion // DefinitionWindow</key>
+		<string>檢測時考虑聲音的粗糙度</string>
+		<key>Separation: // DefinitionWindow</key>
+		<string>分割：</string>
+		<key>Note Separation Sensitivity // DefinitionWindow</key>
+		<string>音符分割灵敏度</string>
+		<key>Silence: // DefinitionWindow</key>
+		<string>靜默：</string>
+		<key>Silence Detection Sensitivity // DefinitionWindow</key>
+		<string>靜默檢測灵敏度</string>
+		<key>Note Separation Mode // DefinitionWindow</key>
+		<string>音符分割模式</string>
+		<key>Melodic Separation // DefinitionWindow</key>
+		<string>旋律分割</string>
+		<key>Percussive Separation // DefinitionWindow</key>
+		<string>打擊分割</string>
+		<key>Polyphonic Separation // DefinitionWindow</key>
+		<string>和弦分割</string>
+		<key>No Note Separations // DefinitionWindow</key>
+		<string>無音符分割</string>
+		<key>--- Reset Detection: --- // DefinitionWindow</key>
+		<string>---- 重置檢測---- </string>
+		<key>Reset Detection to Melodic Mode // DefinitionWindow</key>
+		<string>メロディックモードの検出をリセット</string>
+		<key>Reset Detection to Percussive Mode // DefinitionWindow</key>
+		<string>パーカッシブモードの検出をリセット</string>
+		<key>Reset Detection to Polyphonic Mode // DefinitionWindow</key>
+		<string>ポリフォニックモードの検出をリセット</string>
+		<key>--- Redetect: ---------- // DefinitionWindow</key>
+		<string>---- 再検出：-------</string>
+		<key>Redetect Audio File // DefinitionWindow</key>
+		<string>オーディオファイルの再検出</string>
+		<key>Select Detection Parameter Set... // DefinitionWindow</key>
+		<string>検出パラメータセットの選択...</string>
+		<key>Note Type // DefinitionWindow</key>
+		<string>ノートタイプ</string>
+		<key>Tonal Note // DefinitionWindow</key>
+		<string>音程のあるノート</string>
+		<key>Silence // DefinitionWindow</key>
+		<string>休符</string>
+		<key>Noise // DefinitionWindow</key>
+		<string>ノイズ</string>
+		<key>Grace Note // DefinitionWindow</key>
+		<string>装飾音</string>
+		<key>Unpitched Percussive Note // DefinitionWindow</key>
+		<string>音程のないパーカッシブノート</string>
+		<key>Pitched Percussive Note // DefinitionWindow</key>
+		<string>音程のあるパーカッシブノート</string>
+		<key>Speech // DefinitionWindow</key>
+		<string>スピーチ</string>
+		<key>Trill // DefinitionWindow</key>
+		<string>トリル</string>
+		<key>Slide // DefinitionWindow</key>
+		<string>スライド</string>
+		<key>Different Types // DefinitionWindow</key>
+		<string>別のタイプ</string>
+		<key>Note Separation Actions // DefinitionWindow</key>
+		<string>ノート分割の操作</string>
+		<key>Edit Separations // DefinitionWindow</key>
+		<string>分割の編集</string>
+		<key>Separate Note as Trill // DefinitionWindow</key>
+		<string>トリルにノート分割</string>
+		<key>Separate Note as Slide // DefinitionWindow</key>
+		<string>スライドにノート分割</string>
+		<key>Separation // DefinitionWindow</key>
+		<string>分割</string>
+		<key>Separate Notes by Pitch or by Attack only // DefinitionWindow</key>
+		<string>ピッチまたはアタックでノート分割</string>
+		<key>Separate by Pitch // DefinitionWindow</key>
+		<string>ピッチでノート分割</string>
+		<key>Signature // DefinitionWindow</key>
+		<string>拍子</string>
+		<key>Tempo // DefinitionWindow</key>
+		<string>テンポ</string>
+		<key>Selected Notes Amplitude Offset // EditorWindow</key>
+		<string>選択ノートの音量オフセット</string>
+		<key>Selected Notes Formant Offset // EditorWindow</key>
+		<string>選択ノートのフォルマントオフセット</string>
+		<key>Selected Note Offset (cent) // EditorWindow</key>
+		<string>選択ノートのオフセット（セント）</string>
+		<key>Portamento Adaptation on/off // EditorWindow</key>
+		<string>ポルタメントのオン/オフ</string>
+		<key>Transition // EditorWindow</key>
+		<string>トランジション</string>
+		<key>Selected Notes Pitch Alignment // EditorWindow</key>
+		<string>選択ノートのピッチ配列</string>
+		<key>Selected Notes Quantise Amount // EditorWindow</key>
+		<string>選択ノートのクォンタイズ量</string>
+		<key>Select Quantise Master Track // EditorWindow</key>
+		<string>クォンタイズのマスタートラック選択</string>
+		<key>No Reference Track // EditorWindow</key>
+		<string>リファレンストラックなし</string>
+		<key>Select Quantize Master Track // EditorWindow</key>
+		<string>クォンタイズのマスタートラック選択</string>
+		<key>Selected Notes Attack Modification // EditorWindow</key>
+		<string>選択ノートのアタック変更</string>
+		<key>None // AudioToMidi</key>
+		<string>無</string>
+		<key>Send Midi on/off // AudioToMidi</key>
+		<string>MIDI送信のオン/オフ</string>
+		<key>Midi Channel // AudioToMidi</key>
+		<string>MIDIチャンネル</string>
+		<key>Midi Out Port // AudioToMidi</key>
+		<string>MIDI 出力ポート</string>
+		<key>Velocity Mapping // AudioToMidi</key>
+		<string>ベロシティマッピング</string>
+		<key>Send Pitch Bend on/off // AudioToMidi</key>
+		<string>ピッチベンド送信オン/オフ</string>
+		<key>Pitch Bend Range // AudioToMidi</key>
+		<string>ピッチベンドレンジ</string>
+		<key>Pitch Bend Mode // AudioToMidi</key>
+		<string>ピッチベンドモード</string>
+		<key>Each Note // AudioToMidi</key>
+		<string>ノートごと</string>
+		<key>Central Note // AudioToMidi</key>
+		<string>センターノート</string>
+		<key>Alternating Channel // AudioToMidi</key>
+		<string>チャンネル切り替え</string>
+		<key>Send Envelope on/off // AudioToMidi</key>
+		<string>エンベロープ送信オン/オフ</string>
+		<key>Controller Nr for Envelope // AudioToMidi</key>
+		<string>エンベロープにコントローラNrを使用</string>
+		<key>Attack from Midi Instrument // AudioToMidi</key>
+		<string>MIDIインストゥルメントからのアタック</string>
+		<key>Envelope Controller Mapping // AudioToMidi</key>
+		<string>エンベロープコントローラマッピング</string>
+		<key>Playback Mode // PlayAlgorithm</key>
+		<string>回放模式</string>
+		<key>Plain // PlayAlgorithm</key>
+		<string>原聲</string>
+		<key>Processed // PlayAlgorithm</key>
+		<string>處理</string>
+		<key>Audio Material // PlayAlgorithm</key>
+		<string>音頻素材</string>
+		<key>Percussive // PlayAlgorithm</key>
+		<string>打擊樂</string>
+		<key>Melodic // PlayAlgorithm</key>
+		<string>旋律</string>
+		<key>Algorithm Variation // PlayAlgorithm</key>
+		<string>算法變動</string>
+		<key>Smooth // PlayAlgorithm</key>
+		<string>平滑</string>
+		<key>Playback Algorithm // PlayAlgorithm</key>
+		<string>回放算法</string>
+		<key>Crisp // PlayAlgorithm</key>
+		<string>清脆</string>
+		<key>Formant Corr. // PlayAlgorithm</key>
+		<string>共振峰校正</string>
+		<key>Formant Correction // PlayAlgorithm</key>
+		<string>共振峰校正</string>
+		<key>Period // PlayAlgorithm</key>
+		<string>周期</string>
+		<key>Period Multiplication // PlayAlgorithm</key>
+		<string>周期數</string>
+		<key>Transients // PlayAlgorithm</key>
+		<string>瞬變</string>
+		<key>Transients Intensity // PlayAlgorithm</key>
+		<string>瞬時强度</string>
+		<key>Formant Tuning // PlayAlgorithm</key>
+		<string>共振峰調整</string>
+		<key>Poly/Percussive // PlayAlgorithm</key>
+		<string>和弦/打擊</string>
+		<key>Original // PlayAlgorithm</key>
+		<string>原始</string>
+		<key>Sampler // PlayAlgorithm</key>
+		<string>采樣</string>
+		<key>Invalid License key. // License</key>
+		<string>ライセンスキーが正しくありません。</string>
+		<key>Please restart Melodyne and enter a valid license key. // License</key>
+		<string>Melodyneを再起動して正しいライセンスキーを入力してください。</string>
+		<key>Quit // License</key>
+		<string>終了</string>
+		<key>Damaged Installation // License</key>
+		<string>正しくインストールされていません。</string>
+		<key>%s Please quit the application and reinstall Melodyne. // License</key>
+		<string>%s アプリケーションを終了し、Melodyneを再インストールしてください。</string>
+		<key>License // License</key>
+		<string>許可證</string>
+		<key>Melodyne // License</key>
+		<string>麥樂迪</string>
+		<key>Your computer cannot be identified. Please contact Celemony Software at support@celemony.com or check the FAQs at www.celemony.com. // License</key>
+		<string>コンピュータを識別できません。Celemony SoftwareのWebサイト（www.celemony.com）にアクセスし、FAQを参照してください。</string>
+		<key>Your hardware configuration has changed. To continue, you will have to enter a new license key. // License</key>
+		<string>ハードウェアの構成が変更されています。続行するには、新しいライセンスキーが必要です。</string>
+		<key>OK // License</key>
+		<string>OK</string>
+		<key>Version: // License</key>
+		<string>バージョン:</string>
+		<key>Host Id: // License</key>
+		<string>ホストID:</string>
+		<key>User Name: // License</key>
+		<string>ユーザー名:</string>
+		<key>Serial Number: // License</key>
+		<string>シリアルナンバー:</string>
+		<key>License Key: // License</key>
+		<string>ライセンスキー:</string>
+		<key>Your computer cannot be identified. // License</key>
+		<string>コンピュータを識別できません。</string>
+		<key>based on // License</key>
+		<string>対象</string>
+		<key>Open License WebSite // License</key>
+		<string>ライセンス登録サイトを開く</string>
+		<key>Please enter a username. // License</key>
+		<string>ユーザー名を入力してください。</string>
+		<key>Please enter the serial number. You can find the serial number on your registration card. // License</key>
+		<string>シリアルナンバーを入力してください。</string>
+		<key>The entered serial number is not correct. You can find the serial number on your registration card. // License</key>
+		<string>入力されたシリアルナンバーが正しくありません。</string>
+		<key>Please order a license key at www.celemony.com and enter the key within the next %i days. Without entering a license key Melodyne will stop working on %02i-%02i-%04i. // License</key>
+		<string>ライセンスキーを www.celemony.com で取得し、%i日以内に入力してください。ライセンスキーを入力しない場合、Melodyneは%02i-%02i-%04iまでしか動作しません。</string>
+		<key>Please enter the license key to run Melodyne. // License</key>
+		<string>Melodyneを起動するには、ライセンスキーを入力してください。</string>
+		<key>The entered license key is not valid. // License</key>
+		<string>入力されたライセンスキーが正しくありません。</string>
+		<key>License key accepted. // License</key>
+		<string>ライセンスキーは認証されました。</string>
+		<key>Activation // LicenseWizard</key>
+		<string>アクティベーション</string>
+		<key>Please login as administrator to reactivate // LicenseWizard</key>
+		<string>リアクティベートするために、管理者権限でログインしてください</string>
+		<key>Cancel // LicenseWizard</key>
+		<string>取消</string>
+		<key>Activation Assistant // LicenseWizard</key>
+		<string>激活助手</string>
+		<key>Done // LicenseWizard</key>
+		<string>完成</string>
+		<key>Continue // LicenseWizard</key>
+		<string>繼續</string>
+		<key>Quit // LicenseWizard</key>
+		<string>退出</string>
+		<key>No response from server. Please activate offline. // LicenseWizard</key>
+		<string>サーバーからの応答がありません。オフラインでアクティベーションしてください。</string>
+		<key>OK // LicenseWizard</key>
+		<string>OK</string>
+		<key>No result code from server. Please activate offline. // LicenseWizard</key>
+		<string>サーバーから有効なコードを得られません。オフラインでアクティベーションしてください。</string>
+		<key>Serial number already registered for an other user, registration not possible. // LicenseWizard</key>
+		<string>シリアルナンバーが既に他のユーザーによって登録されているので、登録不可能です。</string>
+		<key>No license file on server. Reason unknown. // LicenseWizard</key>
+		<string>ライセンスファイルがサーバーにありません。理由は不明です。</string>
+		<key>Deactivation // LicenseWizard</key>
+		<string>デアクティベーション</string>
+		<key>Please save any open documents before deactivating. // LicenseWizard</key>
+		<string>デアクティベーションする前に、開いているドキュメントを保存してください。</string>
+		<key>Please log in as administrator to deactivate. // LicenseWizard</key>
+		<string>デアクティベートするために、管理者権限でログインしてください</string>
+		<key>You are about to deactivate Melodyne on this computer. Are you sure? // LicenseWizard</key>
+		<string>このコンピューターで Melodyne をデアクティブしようとしています。よろしいですね?</string>
+		<key>Deactivate // LicenseWizard</key>
+		<string>デアクティベート</string>
+		<key>No response from server. Please deactivate offline. // LicenseWizard</key>
+		<string>サーバーからの応答がありません。オフラインでデアクティベーションしてください。</string>
+		<key>No result code from server. Please deactivate offline. // LicenseWizard</key>
+		<string>サーバーから有効なコードを得られません。オフラインでデアクティベーションしてください。</string>
+		<key>Serial number not registered, Deactivation impossible. // LicenseWizard</key>
+		<string>シリアルナンバーが登録されていないので、再アクティベーションできません。</string>
+		<key>License assigned to iLok, Deactivation impossible. // LicenseWizard</key>
+		<string>ライセンスは iLok に設定されているため、デアクティベーションはできません。</string>
+		<key>License already deactivated. // LicenseWizard</key>
+		<string>ライセンスは既にデアクティブです。</string>
+		<key>Deactivation impossible, reason unknown. // LicenseWizard</key>
+		<string>原因不明の理由により、デアクティベーションできません。</string>
+		<key>Melodyne has been deactivated on this computer. // LicenseWizard</key>
+		<string>Melodyne がこのコンピューターでデアクティブになりました。</string>
+		<key>Deactivation failed // LicenseWizard</key>
+		<string>デアクティベーションに失敗しました。</string>
+		<key>You will find the deactivation credit file on your desktop. // LicenseWizard</key>
+		<string>デアクティベーションのクレジットファイルは、デスクトップ上で見つけることができます。</string>
+		<key>Deactivation failed. // LicenseWizard</key>
+		<string>デアクティベーションに失敗しました。</string>
+		<key>License directory not found. // LicenseWizard</key>
+		<string>ライセンスのディレクトリーが見つかりません。</string>
+		<key>Please log in as administrator to activate. // LicenseWizard</key>
+		<string>アクティベートするために、管理者権限でログインしてください。</string>
+		<key>Could not create license directory. // LicenseWizard</key>
+		<string>ライセンスのディレクトリーがつくれません。</string>
+		<key>Melodyne has been deactivated on this computer. The old licenese file is no longer valid. You have to acivate Melodyne. // LicenseWizard</key>
+		<string>Melodyne がこのコンピューターでデアクティブになりました。旧ライセンスファイルは今後は有効ではありません。Melodyneをアクティブにする必要があります。</string>
+		<key>Serial number does not exist. // LicenseWizard</key>
+		<string>シリアルナンバーが存在しません。</string>
+		<key>Serial number assigned to iLok. // LicenseWizard</key>
+		<string>シリアルナンバーが iLok に設定されました。</string>
+		<key>No further activation available // LicenseWizard</key>
+		<string>これ以上のアクティベーションはできません。</string>
+		<key>A Melodyne serial number can be activated on up to two computers. \
+No further activation is available for this serial number. \
+You must first deactivate another computer on which you have activated \
+this Melodyne serial number. // LicenseWizard</key>
+		<string>Melodyne のシリアルナンバーは、2台までのコンピューターでアクティベートできます。\ このシリアルナンバーでは、これ以上のアクティベーションはできません。\ まず、既にアクティベートしているコンピューター上の Melodyne をデアクティベートしてください。</string>
+		<key>Reactivation failed for this host. Please contact support@celemony.com. // LicenseWizard</key>
+		<string>このコンピューターでのリアクティベーションに失敗しました。support@celemony.com へお問い合わせください。</string>
+		<key>Scanning iLoks ... please wait. // LicenseWizard</key>
+		<string>iLok を検索中... お待ちください</string>
+		<key>A new version of Melodyne is available. // LicenseWizard</key>
+		<string>新しいバージョンの Melodyne があります。</string>
+		<key>Download now // LicenseWizard</key>
+		<string>すぐにダウンロードする</string>
+		<key>Incorrect serial number. Please check that the data entered is correct. // LicenseWizard</key>
+		<string>シリアルナンバーが正しくありません。入力したものが正しいかご確認ください。</string>
+		<key>Serial number accepted. Now press Forward to request an iLok license. // LicenseWizard</key>
+		<string>シリアルナンバーが受け付けられました。引き続き Forward　を押して iLok のライセンスをリクエストしてください。</string>
+		<key>Serial number accepted. // LicenseWizard</key>
+		<string>シリアルナンバーを受け付けました。</string>
+		<key>Serial number is already activated. // LicenseWizard</key>
+		<string>シリアルナンバーは既にアクティベートされています。</string>
+		<key>Serial number accepted. Now choose whether to activate the MSL title online or offline. // LicenseWizard</key>
+		<string>シリアルナンバーが受け付けられました。引き続き MSL をオンラインかオフラインでアクティベートしてください。</string>
+		<key>Your copy of Melodyne has only been activated temporarily. %d days remain. The temporary license will expire on %@. We therefore recommend that as soon as possible you activate it permanently. It only takes a few seconds. // LicenseWizard</key>
+		<string>お使いの Melodyne は暫定的にアクティベートされています。期間はあと %d 日間です。暫定的なライセンスは %@ までです。できるだけ早く正式なライセンスにすることを強くお勧めします。簡単にできます。</string>
+		<key>I would like to activate Melodyne temporarily. Once you have entered your serial number, Melodyne will be activated for %d days, so you can begin using it immediately. // LicenseWizard</key>
+		<string>Melodyneを暫定的にアクティベートしたい。シリアルナンバーを入力することで、%d 日間は動作します。よってすぐに使うことができます。</string>
+		<key>Melodyne Arrangement // Application</key>
+		<string>Melodyne Arrangemant</string>
+		<key>Melodyne Keyboard Shortcuts // Application</key>
+		<string>Melodyne キーボードショートカット</string>
+		<key>Querying System // Application</key>
+		<string>システム問い合わせ</string>
+		<key>(runs until %i-%i-%i) // Application</key>
+		<string>（%i-%i-%i まで動作）</string>
+		<key>(%i days left) // Application</key>
+		<string>（残り %i 日）</string>
+		<key>Melodyne // Application</key>
+		<string>麥樂迪</string>
+		<key>The demo version of Melodyne has expired. // Application</key>
+		<string>麥樂迪的演示版本已經到期。</string>
+		<key>http://www.celemony.com/cms/index.php?id=46&amp;L=0 // Application</key>
+		<string>http://www.celemony.com/cms/index.php?id=46&amp;L=0</string>
+		<key>This version of %@ has expired. // Application</key>
+		<string>這個版本%@已經到期。</string>
+		<key>Melodyne requires Carbon %s. Please use Apple&apos;s Software Updater to install the latest CarbonLib ad insure to enable CarbonLib in your extensions manager. // Application</key>
+		<string>MelodyneにはCarbon %s が必要です。AppleのSoftware Updaterで最新のCarbonLibをインストールしてください。</string>
+		<key>Inconsistencies which may prevent Melodyne from starting have been detected. Please reinstall Mac OS and try again. // Application</key>
+		<string>不一致が検出されたためMelodyneを起動できません。Mac OSを再インストールしてください。</string>
+		<key>Setup Transport // Application</key>
+		<string>設定傳輸器</string>
+		<key>Checking Hardware // Application</key>
+		<string>校驗硬件</string>
+		<key>Loading Audio Plugins // Application</key>
+		<string>音頻插件載入中</string>
+		<key>Loading Audio Mixer // Application</key>
+		<string>軟件調音台載入中</string>
+		<key>Midi disabled: %@ // Application</key>
+		<string>MIDI禁用：%@ </string>
+		<key>To use the MelodyneBridge you have to set the this folder. // Application</key>
+		<string>要使用麥樂迪橋接你必須設置這個文件夾。</string>
+		<key>File // Application</key>
+		<string>文件</string>
+		<key>New Arrangement // Application</key>
+		<string>新序列</string>
+		<key>Open... // Application</key>
+		<string>打開...</string>
+		<key>Open Recent // Application</key>
+		<string>最近打開</string>
+		<key>Melody Manager... // Application</key>
+		<string>媒體資源管理器...</string>
+		<key>Import Audio File... // Application</key>
+		<string>導入音頻文件...</string>
+		<key>Insert Empty Tracks... // Application</key>
+		<string>插入空軌道...</string>
+		<key>Remove Selected Track // Application</key>
+		<string>移除選擇的軌道</string>
+		<key>Save Arrangement // Application</key>
+		<string>保存序列</string>
+		<key>Save Arrangement As... // Application</key>
+		<string>序列另存為...</string>
+		<key>Save Audio... // Application</key>
+		<string>保存音頻...</string>
+		<key>Save Audio to MIDI... // Application</key>
+		<string>保存MIDI...</string>
+		<key>Revert to Saved // Application</key>
+		<string>恢復為保存的狀態</string>
+		<key>Edit // Application</key>
+		<string>編輯</string>
+		<key>Undo History // Application</key>
+		<string>撤銷歷史</string>
+		<key>Revert to Audio File // RevertToAudioFileMenu</key>
+		<string>恢復為原始素材</string>
+		<key>Revert // RevertToAudioFileMenu</key>
+		<string>恢復</string>
+		<key>Revert and Reset Position // RevertToAudioFileMenu</key>
+		<string>恢復并複位</string>
+		<key>Cut // Application</key>
+		<string>剪切</string>
+		<key>Copy // Application</key>
+		<string>複製</string>
+		<key>Paste // Application</key>
+		<string>粘貼</string>
+		<key>Delete // Application</key>
+		<string>刪除</string>
+		<key>Paste Special // Application</key>
+		<string>特殊粘貼</string>
+		<key>Paste Pitches // Application</key>
+		<string>粘貼音高</string>
+		<key>Replace Keeping Target Pitches // Application</key>
+		<string>保持目標音高</string>
+		<key>Copy and Paste Selection to Parallel Track // Application</key>
+		<string>複製所選區域為新軌道</string>
+		<key>Cut and Paste Selection to Parallel Track // Application</key>
+		<string>剪切所選區域為新軌道</string>
+		<key>Select // Application</key>
+		<string>選擇</string>
+		<key>Select All // Application</key>
+		<string>全選</string>
+		<key>Select following Notes // Application</key>
+		<string>選擇之後的音符</string>
+		<key>Select same Notes // Application</key>
+		<string>選擇等高音符</string>
+		<key>Select same Notes in all Octaves // Application</key>
+		<string>選擇所有音階的同音音符</string>
+		<key>Select same Beats // Application</key>
+		<string>選擇同節拍的音符</string>
+		<key>Select Notes between Locators // Application</key>
+		<string>選擇標誌之間的音符</string>
+		<key>Invert Note Selection // Application</key>
+		<string>反選</string>
+		<key>Edit Pitch // Application</key>
+		<string>音高編輯</string>
+		<key>Reset Pitch Center to Original // Application</key>
+		<string>重置音高</string>
+		<key>Reset Pitch Modulation to Original // Application</key>
+		<string>重置音高調制</string>
+		<key>Reset Pitch Drift to Original // Application</key>
+		<string>重置音高補償</string>
+		<key>Reset Pitch Transition to Original // Application</key>
+		<string>重置音高過渡</string>
+		<key>Reset All Pitch Related Changes to Original // Application</key>
+		<string>重置所有音高變化</string>
+		<key>Add Random Offset To Pitch Center // Application</key>
+		<string>音高中心随機偏移</string>
+		<key>Add Random Offset To Note Position // Application</key>
+		<string>音符位置随機偏移</string>
+		<key>Set Notes to Equal Pitch // Application</key>
+		<string>設置音符到相同音高</string>
+		<key>Expand Notes Pitch Range // Application</key>
+		<string>扩张音符音高范圍</string>
+		<key>Compress Notes Pitch Range // Application</key>
+		<string>縮小音符音高范圍</string>
+		<key>Invert Notes Pitch Range // Application</key>
+		<string>反轉音符音高范圍</string>
+		<key>Edit Formant // Application</key>
+		<string>共振峰編輯</string>
+		<key>Reset Formants to Original // Application</key>
+		<string>重置共振峰</string>
+		<key>Reset Formant Transition to Default // Application</key>
+		<string>重置共振峰過渡到默認值</string>
+		<key>Edit Amplitude // Application</key>
+		<string>音量編輯</string>
+		<key>Reset Amplitudes to Original // Application</key>
+		<string>重置音量</string>
+		<key>Reset Amplitude Transitions to Default // Application</key>
+		<string>重置音量過渡到默認值</string>
+		<key>Mute Notes // Application</key>
+		<string>靜音音符</string>
+		<key>Reset Mute State // Application</key>
+		<string>重置靜音狀態</string>
+		<key>Edit Notes Time // Application</key>
+		<string>編輯音符切片</string>
+		<key>Reset relative Time Course to Original // Application</key>
+		<string>重置相對時間線</string>
+		<key>Reset Time and Duration to Original // Application</key>
+		<string>重置時間和長度</string>
+		<key>Reset Note Time Handles to Original // Application</key>
+		<string>重置音符時間柄</string>
+		<key>Add Random Offset to Time Course // Application</key>
+		<string>時間線随機偏移</string>
+		<key>Adapt all Notes of Track to Arrangement Tempo // Application</key>
+		<string>匹配軌道内的音符到序列速度</string>
+		<key>Set all Notes of Track to half Tempo // Application</key>
+		<string>設置軌道内的音符到半速</string>
+		<key>Set all Notes of Track to double Tempo // Application</key>
+		<string>設置軌道内的音符到倍速</string>
+		<key>Edit Note Separations // Application</key>
+		<string>編輯音符分割</string>
+		<key>Separate Note as Trill // Application</key>
+		<string>分割音符為顫音</string>
+		<key>Separate Note as Slide // Application</key>
+		<string>分割音符為滑音</string>
+		<key>Separate Selected Notes to Beats // Application</key>
+		<string>按節拍分割所選音符</string>
+		<key>Separate Selected Notes to Last Tapping // Application</key>
+		<string>從上一次敲擊的位置分割所選音符</string>
+		<key>Use Compound Notes // Application</key>
+		<string>使用混合音符</string>
+		<key>Compound/De-Compound Notes // Application</key>
+		<string>混合/不混合音符</string>
+		<key>Set Compound Main Note // Application</key>
+		<string>設置混合主音符</string>
+		<key>Show Compound Main Note // Application</key>
+		<string>顯示混合主音符</string>
+		<key>Change Tempo (Autostretch) // Application</key>
+		<string>改變速度（自動延伸）</string>
+		<key>Double Tempo // Application</key>
+		<string>倍速</string>
+		<key>Half Tempo // Application</key>
+		<string>半速</string>
+		<key>Equal Tempo // Application</key>
+		<string>同速</string>
+		<key>Same Tempo for Following Bars // Application</key>
+		<string>相同速度匹配到後面的小節</string>
+		<key>Equal Beats in Current Bar // Application</key>
+		<string>與當前小節節拍相同</string>
+		<key>Equal Beats in Following Bars // Application</key>
+		<string>後面的小節節拍相同</string>
+		<key>Smooth Tempo Changes // Application</key>
+		<string>平滑速度變化</string>
+		<key>Take Tempo from MDD // Application</key>
+		<string>從MDD獲取速度</string>
+		<key>Take Tempo from Midi File... // Application</key>
+		<string>從MIDI文件獲取速度...</string>
+		<key>Enable Tempo Recording from Midi Clock // Application</key>
+		<string>啟用從 MIDI 時鐘錄製節奏</string>
+		<key>Define Tempo // Application</key>
+		<string>定義速度</string>
+		<key>Re-Assign Notes to Beats // Application</key>
+		<string>重分配音符到節拍</string>
+		<key>Same Signature for Following Bars // Application</key>
+		<string>相同節奏匹配到後面的小節</string>
+		<key>Set Tempo Zero to Audio File Start // Application</key>
+		<string>在音訊檔案的開頭設置節奏為0</string>
+		<key>Derive Tempo From Audio File Duration // Application</key>
+		<string>從音訊檔案的長度中提取節奏</string>
+		<key>Set Bar Duration to Current Selection // Application</key>
+		<string>將小節長度套用到所選范圍</string>
+		<key>Enable Tempo Recording from Tempo Tapping // Application</key>
+		<string>啟用透過節奏點擊進行節奏錄製</string>
+		<key>Variable Tempo Editing Mode // Application</key>
+		<string>可變曲速編輯模式</string>
+		<key>Correct Pitch // Application</key>
+		<string>音高修正</string>
+		<key>Quantize Time // Application</key>
+		<string>量化時間</string>
+		<key>Show all Tracks in Editor // Application</key>
+		<string>エディターにすべてのトラックを表示</string>
+		<key>Tone Scale Changes Will Change All Notes // Application</key>
+		<string>トーンスケールの変更をすべてのノートに反映</string>
+		<key>Preferences... // Application</key>
+		<string>首選項...</string>
+		<key>Definition // Application</key>
+		<string>定義</string>
+		<key>Correct Detection // Application</key>
+		<string>檢測修正</string>
+		<key>Save MDD from Current Edit State // Application</key>
+		<string>從當前的編輯狀態中保存MDD</string>
+		<key>Reset Detection to Melodic Mode // Application</key>
+		<string>重置檢測到旋律模式</string>
+		<key>Reset Detection to Percussive Mode // Application</key>
+		<string>重置檢測到打擊模式</string>
+		<key>Reset Detection to Polyphonic Mode // Application</key>
+		<string>重置檢測到複調模式</string>
+		<key>Redetect Audio File // Application</key>
+		<string>重檢測音頻文件</string>
+		<key>Select Detection Parameter Set... // Application</key>
+		<string>選擇檢測参數設置...</string>
+		<key>Apply Arrangement Tempo and Tone Scale to all MDDs // Application</key>
+		<string>應用序列速度和音階到所有MDD文件</string>
+		<key>Open MDD Editor... // Application</key>
+		<string>打開MDD編輯器..</string>
+		<key>View // Application</key>
+		<string>顯示</string>
+		<key>Autoscrolling // Application</key>
+		<string>自動卷動</string>
+		<key>Always Show Pitch Curve // Application</key>
+		<string>始終顯示音高線</string>
+		<key>Always Show Note Separations // Application</key>
+		<string>始終顯示音符分割</string>
+		<key>Show Play Algorithm Parameters // Application</key>
+		<string>顯示播放算法参數</string>
+		<key>Show Audio-to-MIDI Parameters // Application</key>
+		<string>顯示音頻轉MIDI的参數</string>
+		<key>Show Pitched Notation on selected Track // Application</key>
+		<string>在選擇的軌道上按音高顯示</string>
+		<key>Show Score Notes // Application</key>
+		<string>顯示樂譜</string>
+		<key>SMPTE Type // Application</key>
+		<string>SMPTE類型</string>
+		<key>24 // Application</key>
+		<string>24</string>
+		<key>25 // Application</key>
+		<string>25</string>
+		<key>29.97 drop // Application</key>
+		<string>29.97 drop</string>
+		<key>30 // Application</key>
+		<string>30</string>
+		<key>Ignore Hours // Application</key>
+		<string>忽略時間</string>
+		<key>Navigation // Application</key>
+		<string>導航</string>
+		<key>Create Marker // Application</key>
+		<string>創建標記</string>
+		<key>Scroll to // Application</key>
+		<string>定位到</string>
+		<key>Zoom to // Application</key>
+		<string>縮放到</string>
+		<key>Delete Marker // Application</key>
+		<string>刪除標記</string>
+		<key>MIDI // Application</key>
+		<string>MIDI</string>
+		<key>No MIDI In to Tracks // Application</key>
+		<string>不將MIDI輸入到軌道中</string>
+		<key>MIDI In Plays Notes // Application</key>
+		<string>播放MIDI輸入的音符</string>
+		<key>MIDI In Edits Notes // Application</key>
+		<string>編輯MIDI輸入的音符</string>
+		<key>MIDI In Transposes Globally from C3 = 0 // Application</key>
+		<string>將整體MIDI輸入從C3=0進行轉調</string>
+		<key>MIDI In Transposes Track from C3 = 0 // Application</key>
+		<string>將MIDI輸入軌道從C3=0進行轉調</string>
+		<key>All MIDI Channels to Selected Track // Application</key>
+		<string>將所有MIDI頻道送入所選的軌道</string>
+		<key>MIDI Channels to Track Numbers // Application</key>
+		<string>將MIDI頻道分配到對應編號的軌道</string>
+		<key>MIDI Portamento Time // Application</key>
+		<string>MIDI滑音時間</string>
+		<key>Fast // Application</key>
+		<string>快速</string>
+		<key>Medium // Application</key>
+		<string>中等速度</string>
+		<key>Slow // Application</key>
+		<string>緩慢</string>
+		<key>Show MIDI Ports Preferences // Application</key>
+		<string>MIDI端口設置</string>
+		<key>Show MIDI Remote Control Preferences // Application</key>
+		<string>MIDI遠端控制設置</string>
+		<key>Window // Application</key>
+		<string>窗口</string>
+		<key>Transport Bar // Application</key>
+		<string>傳輸器面板</string>
+		<key>Realtime Play Offsets // Application</key>
+		<string>實際播放偏移</string>
+		<key>Mixer // Application</key>
+		<string>混音器</string>
+		<key>Audio Files // Application</key>
+		<string>音頻文件</string>
+		<key>Tone Scale // Application</key>
+		<string>音階</string>
+		<key>ReWire Devices // Application</key>
+		<string>ReWire設備</string>
+		<key>System Load // Application</key>
+		<string>系統負荷</string>
+		<key>Jens Test... // Application</key>
+		<string>JensTest...</string>
+		<key>License // Application</key>
+		<string>許可證</string>
+		<key>Show Arrangement // Application</key>
+		<string>顯示序列</string>
+		<key>Show Editor // Application</key>
+		<string>顯示編輯器</string>
+		<key>Collapse // Application</key>
+		<string>失敗</string>
+		<key>Miniaturize // Application</key>
+		<string>最小化</string>
+		<key>? // Application</key>
+		<string>關于</string>
+		<key>Info // Application</key>
+		<string>信息</string>
+		<key>Help // Application</key>
+		<string>幫助</string>
+		<key>Documentation // Application</key>
+		<string>資料</string>
+		<key>Show Experience Tour // Application</key>
+		<string>顯示體驗漫遊</string>
+		<key>Tutorials // Application</key>
+		<string>指南</string>
+		<key>FAQ // Application</key>
+		<string>常見問題</string>
+		<key>Celemony Web Site // Application</key>
+		<string>Celemony 網站</string>
+		<key>Buy Melodyne // Application</key>
+		<string>購買Melodyne</string>
+		<key>Support // Application</key>
+		<string>技術支持</string>
+		<key>Check for Updates // Application</key>
+		<string>檢查更新</string>
+		<key>IMSTA // Application</key>
+		<string>IMSTA</string>
+		<key>Show Slide Show // Application</key>
+		<string>スライドショーを見る</string>
+		<key>Last time you have used %@ %@. It is recommended to quit this application and to use the newer version. // Application</key>
+		<string>前回は%@ %@が使用されました。このアプリケーションを終了して、新しいバージョンを使用することをおすすめします。</string>
+		<key>Continue anyway // Application</key>
+		<string>続行</string>
+		<key>The installation appears to be inconsistent. Please go to celemony.com to get the latest installer. // Application</key>
+		<string>このインストレーションは一致していません。Celemony社のサイトから最新のインストーラを入手してください</string>
+		<key>Open www.celemony.com // Application</key>
+		<string>www.celemony.comを開いています</string>
+		<key>http://www.celemony.com/cms/index.php?id=316&amp;L=0 // Application</key>
+		<string>http://www.celemony.com/cms/index.php?id=316&amp;L=0</string>
+		<key>Changing Tempo // Application</key>
+		<string>テンポ変更</string>
+		<key>Thank you for trying this software. // Application</key>
+		<string>お試しいただき、ありがとうございます。</string>
+		<key>http://www.celemony.com/cms/index.php?L=0 // Application</key>
+		<string>http://www.celemony.com/cms/index.php?L=0</string>
+		<key>Before quitting Melodyne you should close all ReWire panel applications. // Application</key>
+		<string>Melodyneを終了する前に、ReWireパネルアプリケーションをすべて閉じてください。</string>
+		<key>Retry // Application</key>
+		<string>リトライ</string>
+		<key>Ignore // Application</key>
+		<string>無視</string>
+		<key>Audio Device // Application</key>
+		<string>オーディオデバイス</string>
+		<key>A buffer underun occured. Please increase the buffer size to avoid underruns. // Application</key>
+		<string>バッファアンダーランが起きました。バッファサイズを増やしてください。</string>
+		<key>Preferences // Application</key>
+		<string>首選項</string>
+		<key>Hardware // Application</key>
+		<string>硬件</string>
+		<key>Audio // Application</key>
+		<string>音頻</string>
+		<key>Processing audio caused a fatal error. %@ // Application</key>
+		<string>オーディオ処理で致命的エラーが起きました。%@ </string>
+		<key>Reload device driver // Application</key>
+		<string>デバイスドライバーのリロード</string>
+		<key>Save As &amp; Quit // Application</key>
+		<string>名前を付けて保存して終了</string>
+		<key>Cannot reload audio device driver. // Application</key>
+		<string>オーディオデバイスドライバをリロードできません。</string>
+		<key>MelodyeBridge version conflict // Application</key>
+		<string>MelodyneBridgeのバージョンのコンフリクトがあります</string>
+		<key>MelodyeReWireDevice version conflict // Application</key>
+		<string>MelodyeReWireDeviceのバージョンのコンフリクトがあります</string>
+		<key>Portamento Change // Application</key>
+		<string>ポルタメント変更</string>
+		<key>Send MIDI Sync // Application</key>
+		<string>MIDI同期送信</string>
+		<key>Please Select a MIDI Port for Sync Output // Application</key>
+		<string>同期信号出力用のMIDIポートを選択してください</string>
+		<key>Open Port Settings // Application</key>
+		<string>ポート設定を開いています</string>
+		<key>MIDI Ports // Application</key>
+		<string>MIDIポート</string>
+		<key>Receive MIDI Sync // Application</key>
+		<string>MIDI同期の受信</string>
+		<key>Please Select a MIDI Port for Sync Input // Application</key>
+		<string>同期信号入力用のMIDIポートを選択してください</string>
+		<key>Cannot read midi file. %@ // Application</key>
+		<string>MIDIファイルを読み込めません：%@</string>
+		<key>http://www.celemony.com/cms/index.php?id=support&amp;L=0 // Application</key>
+		<string>http://www.celemony.com/cms/index.php?id=support&amp;L=0</string>
+		<key>http://www.celemony.com/cms/index.php?id=faq&amp;L=0 // Application</key>
+		<string>http://www.celemony.com/cms/index.php?id=faq&amp;L=0</string>
+		<key>No response from sever, try later! // Application</key>
+		<string>サーバーの応答がありません。後ほどお試しください!</string>
+		<key>No result code from sever, try later! // Application</key>
+		<string>サーバーからコードを得られません。後ほどお試しください!</string>
+		<key>A new version of %@ is available. // Application</key>
+		<string>新バージョン %@ があります。</string>
+		<key>Go to download // Application</key>
+		<string>ダウンロードへ移動</string>
+		<key>build number not set in backoffice! // Application</key>
+		<string>build number not set in backoffice!</string>
+		<key>Version unknown! // Application</key>
+		<string>不明のバージョン!</string>
+		<key>Check not possible, try later! // Application</key>
+		<string>チェック出来ません。後ほど行ってください!</string>
+		<key>Your version is the most recent version of Melodyne! // Application</key>
+		<string>このMelodyneは最新バージョンです!</string>
+		<key>MIDI Remote Control // Application</key>
+		<string>MIDIリモートコントロール</string>
+		<key>Detection // Application</key>
+		<string>検出</string>
+		<key>Save MDD // Application</key>
+		<string>MDDの保存</string>
+		<key>Do You Really Want to Set the MDD File for %s to the Current Definition State? // Application</key>
+		<string>%s のMDDファイルを現在の定義に設定しますか?</string>
+		<key>Do You Really Want to Redetect File &quot;%s&quot; with Automatic Parameters? // Application</key>
+		<string>ファイル &quot;%s&quot; をオートマティックパラメータで再検出して本當に良いですか ?</string>
+		<key>Do You Really Want to Redetect File &quot;%s&quot; with Parameter Set &quot;%s&quot;? // Application</key>
+		<string>ファイル &quot;%s&quot; をオートマティックパラメータセット &quot;%s&quot; で再検出して本當に良いですか ?</string>
+		<key>Yes // Application</key>
+		<string>はい</string>
+		<key>Open // Application</key>
+		<string>開く</string>
+		<key>Redetecting %s // Application</key>
+		<string>%s 再検出</string>
+		<key>Cannot find Sound File for MDD %s. // Application</key>
+		<string>MDD %sのサウンドファイルが見つかりません。</string>
+		<key>Open MDD Editor // Application</key>
+		<string>MDDエディタを開く</string>
+		<key>This File is already in Definition State in another Editor! // Application</key>
+		<string>このファイルは別のエディタで定義されています。</string>
+		<key>Cannot open Sound File // Application</key>
+		<string>サウンドファイルを開けません。</string>
+		<key>This File is not yet detected! // Application</key>
+		<string>このファイルは未検出です</string>
+		<key>You are playing back via DirectX for the first time. For performance reasons its highly recommended to use ASIO drivers if available. // Application</key>
+		<string>DirectX経由で再生されています。パフォーマンス向上のためには、なるべくASIOドライバーをお使いください。</string>
+		<key>Open Hardware Preferences // Application</key>
+		<string>ハードウェア設定を開く</string>
+		<key>Saving melody definition of %s failed. // Application</key>
+		<string>%s のメロディ定義を保存できませんでした。</string>
+		<key>Internal Error // Application</key>
+		<string>内部エラー</string>
+		<key>Save &amp; Quit // Application</key>
+		<string>保存して終了</string>
+		<key>%@ detected in internal inconsistency and should be restarted to avoid data loss. // Application</key>
+		<string>%@ で内部不一致が見つかりました。データを失わないために再起動してください。</string>
+		<key>Try to Save // Application</key>
+		<string>保存してみる</string>
+		<key>Checking Soundfiles // Application</key>
+		<string>サウンドファイルのチェック</string>
+		<key>There are invalid Soundfiles. See Logfile for Details! // Application</key>
+		<string>不正なサウンドファイルがあります。詳細はログファイルを参照してください。</string>
+		<key>All Soundfiles Paths are valid. Go on? // Application</key>
+		<string>すべてのサウンドファイルのパスは有効です。続行しますか?</string>
+		<key>There are undetected Soundfiles. See Logfile for Details! // Application</key>
+		<string>未検出のサウンドファイルがあります。詳細はログファイルを参照してください。</string>
+		<key>There are unchecked Melody Definitions. See Logfile for Details! // Application</key>
+		<string>チェックされていないメロディ定義があります。詳細はログファイルを参照してください。</string>
+		<key>All Soundfiles are valid for Processing. Go on? // Application</key>
+		<string>すべてのサウンドファイルは有効です。続行しますか?</string>
+		<key>Run Definition Editor // Application</key>
+		<string>定義エディタ起動</string>
+		<key>Edit Melody Definitions // Application</key>
+		<string>メロディ定義の編集</string>
+		<key>No Soundfiles to be checked! // Application</key>
+		<string>チェックするサウンドファイルがありません! </string>
+		<key>Start Checking Melody Definitions? // Application</key>
+		<string>メロディ定義のチェックを開始しますか?</string>
+		<key>Do it later... // Application</key>
+		<string>後で行なう</string>
+		<key>Check next Melody Definition? // Application</key>
+		<string>次のメロディ定義をチェックしますか?</string>
+		<key>Go on later... // Application</key>
+		<string>後で行なう</string>
+		<key>All Melody Definitions have been checked! // Application</key>
+		<string>すべてのメロディ定義がチェックされました!</string>
+		<key>Process Soundfiles // Application</key>
+		<string>サウンドファイル処理</string>
+		<key>Process next Sound File? // Application</key>
+		<string>次のサウンドファイルを処理しますか?</string>
+		<key>Sound File %@ cannot be opened. // Application</key>
+		<string>サウンドファイル %@ を開けません。</string>
+		<key>Save Filter // Application</key>
+		<string>フィルタを保存</string>
+		<key>Transformation Filter could not be saved! // Application</key>
+		<string>変換フィルタを保存できません。</string>
+		<key>Activate Recording // Application</key>
+		<string>レコーディングを有効</string>
+		<key>Empty Tracks // Application</key>
+		<string>トラックを空に</string>
+		<key>Do you really want to empty all Tracks? // Application</key>
+		<string>すべてのトラックの内容を空にしますか?</string>
+		<key>Cutting Notes // Application</key>
+		<string>ノートのカット</string>
+		<key>Duplicate Tracks // Application</key>
+		<string>トラック複製</string>
+		<key>Do you really want to duplicate all Tracks? // Application</key>
+		<string>すべてのトラックを複製しますか?</string>
+		<key>This operation cannot be performed while playing back. Please stop playing and try again. // Application</key>
+		<string>この操作は再生中には実行できません。再生を停止してからやり直してください。</string>
+		<key>Recording // Application</key>
+		<string>録音</string>
+		<key>We already have a file called %@ next to the arrangement. Please save the arrangement under a different name or into a different folder. // Application</key>
+		<string>%@ という名前のファイルがすでに存在します。アレンジを別の名前で保存するか、別のフォルダに保存してください。</string>
+		<key>The MDD File %@ was written by a newer version of Melodyne. // Application</key>
+		<string>MDDファイル %@ は、新しいバージョンのMelodyneで作成されたものです。</string>
+		<key>Try to Open MDD // Application</key>
+		<string>MDDを開いてみる</string>
+		<key>Edit File Range // EditorWindow</key>
+		<string>ファイルレンジの編集</string>
+		<key>Deleting Notes // Melody</key>
+		<string>刪除音符</string>
+		<key>Cutting Notes // Melody</key>
+		<string>剪切音符</string>
+		<key>Pasting Notes // Melody</key>
+		<string>粘貼音符</string>
+		<key>Pasting Pitches // Melody</key>
+		<string>粘貼音高</string>
+		<key>Copying Notes // Melody</key>
+		<string>ノートコピー</string>
+		<key>Changing Algorithm // Melody</key>
+		<string>アルゴリズム変更</string>
+		<key>Marker // Melody</key>
+		<string>標記</string>
+		<key>Create Marker // Melody</key>
+		<string>標記の作成</string>
+		<key>Delete Marker // Melody</key>
+		<string>標記の削除</string>
+		<key>Track Pitch change // Melody</key>
+		<string>トラックピッチの変更</string>
+		<key>Track Formant change // Melody</key>
+		<string>トラックフォルマントの変更</string>
+		<key>Global Pitch change // Melody</key>
+		<string>グローバルピッチの変更</string>
+		<key>Global Formant change // Melody</key>
+		<string>グローバルフォルマントの変更</string>
+		<key>Global Tempo change // Melody</key>
+		<string>グローバルテンポの変更</string>
+		<key>Track Pitch reset // Melody</key>
+		<string>トラックピッチをリセット</string>
+		<key>Track Formant reset // Melody</key>
+		<string>トラックフォルマントをリセット</string>
+		<key>Global Pitch reset // Melody</key>
+		<string>グローバルピッチをリセット</string>
+		<key>Global Formant reset // Melody</key>
+		<string>グローバルフォルマントをリセット</string>
+		<key>Global Tempo reset // Melody</key>
+		<string>グローバルテンポをリセット</string>
+		<key>Ungrouping Notes // Melody</key>
+		<string>ノートグループの解除</string>
+		<key>Grouping Notes // Melody</key>
+		<string>ノートのグループ化</string>
+		<key>Setting Group Main Note // Melody</key>
+		<string>グループメインノートの設定</string>
+		<key>Changing Pitch Positions // Melody</key>
+		<string>ピッチポジションの変更</string>
+		<key>Changing Note Pitch // Melody</key>
+		<string>ノートピッチ変更</string>
+		<key>Changing Midi Send Mode // Melody</key>
+		<string>MIDI送信モードの変更</string>
+		<key>Changing Note Assignment // Melody</key>
+		<string>ノートアサインの変更</string>
+		<key>Changing Note Separation // Melody</key>
+		<string>ノート分割の変更</string>
+		<key>Reset to Original // Melody</key>
+		<string>オリジナルに戻す</string>
+		<key>Do you really want to reset all notes to original state? // Melody</key>
+		<string>すべてのノートをオリジナルの状態に戻しますか?</string>
+		<key>Yes // Melody</key>
+		<string>はい</string>
+		<key>Cancel // Melody</key>
+		<string>キャンセル</string>
+		<key>Do you really want to reset the selected melody segment to its original state? // Melody</key>
+		<string>選択したメロディセグメントをオリジナルの状態に戻しますか?</string>
+		<key>Do you really want to reset all selected melody segments to their original state? // Melody</key>
+		<string>選択したすべてのメロディセグメントをオリジナルの状態に戻しますか?</string>
+		<key>Apply Arrangement Properties // Melody</key>
+		<string>アレンジプロパティの適用</string>
+		<key>The Arrangement&apos;s Tone Scale and Tempo Definition will be Applied to the MDDs of all present Audio Files. (No Undo!) // Melody</key>
+		<string>アレンジのトーンスケールとテンポの定義は、すべてのオーディオファイルのMDDに適用されます（この操作は元に戻せません）。</string>
+		<key>OK // Melody</key>
+		<string>OK</string>
+		<key>NO UNDO // Melody</key>
+		<string>元に戻せません。</string>
+		<key>Changing Tempo // Melody</key>
+		<string>テンポ変更</string>
+		<key>Adapting Notes Time // Melody</key>
+		<string>ノートタイム適用</string>
+		<key>Changing Notes Time // Melody</key>
+		<string>ノートタイム変更</string>
+		<key>Resetting Notes Pitch Related Changes // Melody</key>
+		<string>ピッチに関連したノートの変更をリセット</string>
+		<key>Resetting Notes Pitch // Melody</key>
+		<string>ノートピッチのリセット</string>
+		<key>Resetting Pitch Modulation // Melody</key>
+		<string>ピッチモジュレーションのリセット</string>
+		<key>Resetting Pitch Drift // Melody</key>
+		<string>ピッチドリフトリセット</string>
+		<key>Resetting Pitch Transition // Melody</key>
+		<string>ピッチトランジションのリセット</string>
+		<key>Randomizing Pitch Positions // Melody</key>
+		<string>ピッチポジションのランダマイズ</string>
+		<key>Resetting Notes Formants // Melody</key>
+		<string>ノートフォルマントのリセット</string>
+		<key>Resetting Formant Transition // Melody</key>
+		<string>フォルマントトランジションのリセット</string>
+		<key>Resetting Notes Amplitude // Melody</key>
+		<string>ノート音量のリセット</string>
+		<key>Resetting Amplitude Transition // Melody</key>
+		<string>音量トランジションのリセット</string>
+		<key>Muting Notes // Melody</key>
+		<string>ノートをミュートしています</string>
+		<key>Unmuting Notes // Melody</key>
+		<string>ノートのミュート解除</string>
+		<key>Resetting Notes Time // Melody</key>
+		<string>ノートタイムのリセット</string>
+		<key>Reset // Melody</key>
+		<string>リセット</string>
+		<key>Not enough space to reset to original length! // Melody</key>
+		<string>オリジナルの長さに戻すスペースがありません。</string>
+		<key>Resetting Notes Quantise // Melody</key>
+		<string>ノートクォンタイズのリセット</string>
+		<key>Resetting Notes Attack // Melody</key>
+		<string>ノートアタックのリセット</string>
+		<key>Randomizing Time Course // Melody</key>
+		<string>タイムコースのランダマイズ</string>
+		<key>Note Separations // Melody</key>
+		<string>ノート分割</string>
+		<key>No Data for Re-Separation available! This Audio File has probably been Detected by an older Melodyne Version. // Melody</key>
+		<string>再分割できるデータがありません。このオーディオファイルは旧バージョンの Melodyne で検出されたものかも知れません。</string>
+		<key>Time Change // Melody</key>
+		<string>タイムの変更</string>
+		<key>This Time Change could not be Performed! // Melody</key>
+		<string>このタイムチェンジは実行できません!</string>
+		<key>Changing Signature // Melody</key>
+		<string>拍子変更</string>
+		<key>Paste Pitches // Melody</key>
+		<string>ピッチの貼り付け</string>
+		<key>Nothing to paste! // Melody</key>
+		<string>貼り付けるものがありません!</string>
+		<key>Nothing to replace! // Melody</key>
+		<string>置き換えるものがありません!</string>
+		<key>A buffer underun occured. Please increase the buffer size to avoid underruns. // Melody</key>
+		<string>バッファアンダーランが起きました。バッファサイズを増やしてください。</string>
+		<key>Open Preferences // Melody</key>
+		<string>ユーザー設定を開く</string>
+		<key>Detecting // Melody</key>
+		<string>検出</string>
+		<key>Detecting Audio File // Melody</key>
+		<string>録音されたファイルの検出</string>
+		<key>Correct Detection // Melody</key>
+		<string>検出の補正</string>
+		<key>The MDD File for %@ is already open in a Definition Editor! // Melody</key>
+		<string>%@ のMDDファイルは、定義エディタですでに開かれています。</string>
+		<key>The MDD File for %@ is already in Definition State in another Editor! // Melody</key>
+		<string>%@ のMDDファイルは、別のエディタですでに定義されています。</string>
+		<key>None // Melody</key>
+		<string>無</string>
+		<key>Note // Melody</key>
+		<string>ノート</string>
+		<key>Scale // Melody</key>
+		<string>スケール</string>
+		<key>No Pitch Snap // Melody</key>
+		<string>ピッチスナップなし</string>
+		<key>Note Snap // Melody</key>
+		<string>ノートのスナップ</string>
+		<key>Scale Snap // Melody</key>
+		<string>スケールスナップ</string>
+		<key>Hardware // Preferences</key>
+		<string>硬件</string>
+		<key>Fast Playback Start (loads audio file into RAM) // Preferences</key>
+		<string>開始快速回放（装載音頻文件到内存）</string>
+		<key>ReWire // Preferences</key>
+		<string>ReWire</string>
+		<key>Opening files takes tempo from ReWire host. // Preferences</key>
+		<string>打開中的文件從ReWire主機獲得速度。</string>
+		<key>Bridge // Preferences</key>
+		<string>Bridge</string>
+		<key>Use hardware when playing back asynchronously. // Preferences</key>
+		<string>若要進行非同步播放，請使用硬件設備。</string>
+		<key>File Cache: // Preferences</key>
+		<string>文件緩存：</string>
+		<key>File Format: // Preferences</key>
+		<string>文件格式：</string>
+		<key>Recording // Preferences</key>
+		<string>錄音</string>
+		<key>Resolution: // Preferences</key>
+		<string>整理：</string>
+		<key>Audio Folder for unsaved Arrangements: // Preferences</key>
+		<string>用于未保存序列的音頻文件夾：</string>
+		<key>Appearance: // Preferences</key>
+		<string>外夾：</string>
+		<key>Appearance // Preferences</key>
+		<string>外夾</string>
+		<key>Style: // Preferences</key>
+		<string>風格：</string>
+		<key>Background: // Preferences</key>
+		<string>背景：</string>
+		<key>Note: // Preferences</key>
+		<string>音符：</string>
+		<key>Note Border: // Preferences</key>
+		<string>音符邊：</string>
+		<key>Brightness: // Preferences</key>
+		<string>亮度：</string>
+		<key>Unselected: // Preferences</key>
+		<string>未選擇：</string>
+		<key>Autoscrolling: // Preferences</key>
+		<string>自動卷動：</string>
+		<key>Smooth // Preferences</key>
+		<string>平滑</string>
+		<key>Page per Page // Preferences</key>
+		<string>翻页</string>
+		<key>C4 // Preferences</key>
+		<string>C4</string>
+		<key>Mid C (262) Name: // Preferences</key>
+		<string>中央C（262）：</string>
+		<key>C3 // Preferences</key>
+		<string>C3</string>
+		<key>C5 // Preferences</key>
+		<string>C5</string>
+		<key>Tempo Display Format: // Preferences</key>
+		<string>速度顯示格式：</string>
+		<key>Show Tool Tips // Preferences</key>
+		<string>顯示工具提示</string>
+		<key>Show Slider Values while Editing // Preferences</key>
+		<string>編輯時顯示滑動值</string>
+		<key>Master Fader Default: // Preferences</key>
+		<string>主控制器默認值：</string>
+		<key>New Arrangements // Preferences</key>
+		<string>新序列</string>
+		<key>Time Background: // Preferences</key>
+		<string>時間背景：</string>
+		<key>Bars &amp; Beats // Preferences</key>
+		<string>小節，拍</string>
+		<key>Seconds // Preferences</key>
+		<string>秒</string>
+		<key>SMPTE // Preferences</key>
+		<string>SMPTE</string>
+		<key>Beat Snap active // Preferences</key>
+		<string>啟用節拍
+單元</string>
+		<key>Pitch Snap active // Preferences</key>
+		<string>啟用音高單元</string>
+		<key>Cycle active // Preferences</key>
+		<string>啟用循環</string>
+		<key>First Recording determines Tempo // Preferences</key>
+		<string>首次錄音決定曲速</string>
+		<key>Plug Ins // Preferences</key>
+		<string>插件</string>
+		<key>Default Input: // Preferences</key>
+		<string>默認輸入：</string>
+		<key>MIDI Ports // Preferences</key>
+		<string>MIDI端口</string>
+		<key>Default Output: // Preferences</key>
+		<string>默認輸出：</string>
+		<key>MIDI Time Code In: // Preferences</key>
+		<string>MIDI時間碼輸入：</string>
+		<key>MIDI Time Code Out: // Preferences</key>
+		<string>MIDI時間碼輸出：</string>
+		<key>MIDI Clock In: // Preferences</key>
+		<string>MIDI時鐘輸入：</string>
+		<key>MIDI Clock Out: // Preferences</key>
+		<string>MIDI時鐘輸出：</string>
+		<key>Generic Controller // Preferences</key>
+		<string>通用控制器</string>
+		<key>Mackie Control // Preferences</key>
+		<string>Mackie控制器</string>
+		<key>Logic Control // Preferences</key>
+		<string>Logic控制器</string>
+		<key>Radikal SAC Control // Preferences</key>
+		<string>Radikal SAC控制器</string>
+		<key>MIDI Remote Control // Preferences</key>
+		<string>MIDI遥控</string>
+		<key>Detection // Preferences</key>
+		<string>檢測</string>
+		<key>Language: // Preferences</key>
+		<string>語言:</string>
+		<key>Other // Preferences</key>
+		<string>其他</string>
+		<key>Undo: // Preferences</key>
+		<string>撤銷：</string>
+		<key>Levels // Preferences</key>
+		<string>次</string>
+		<key>Monitor Note Pitch on Editing // Preferences</key>
+		<string>編輯時顯示音符音高</string>
+		<key>Always use maximum processing quality // Preferences</key>
+		<string>總是使用最高品质處理</string>
+		<key>Process Stereo Channels Separately // Preferences</key>
+		<string>單獨處理立體聲通道</string>
+		<key>Consider Original Scale Notes on Scale Snap // Preferences</key>
+		<string>在對齊音階時考慮原始音階音符</string>
+		<key>Make Group on Trill or Slide Separation // Preferences</key>
+		<string>在顫音或滑音分割處組合</string>
+		<key>Double Click in Melody Manager opens File in MDD Editor // Preferences</key>
+		<string>在MDD編輯器中雙擊在媒體管理器中打開文件</string>
+		<key>Update MDDs on Saving Arrangement // Preferences</key>
+		<string>保存序列時更新MDD</string>
+		<key>Auto-Update MDDs in Melody Manager // Preferences</key>
+		<string>在媒體管理器中自動更新MDD</string>
+		<key>Enable Spot to ProTools // Preferences</key>
+		<string>啟用Spot到Protools</string>
+		<key>Test Alternative Algorithm // Preferences</key>
+		<string>測試選擇性規則</string>
+		<key>Always Redetect Opened Sound Files for Test // Preferences</key>
+		<string>為測試始終不檢測打開的聲音文件</string>
+		<key>Master Fader Default // Preferences</key>
+		<string>主控制器默認值</string>
+		<key>The master fader default position does effect new arrangements only. Use the mixer to change the gain of the current or saved arrangements. // Preferences</key>
+		<string>主控制器位置只能在新序列中使用效果。使用調音台改變當前或保存的序列的增益。</string>
+		<key>Default recording directory created. // Preferences</key>
+		<string>デフォルトのレコーディング用ディレクトリが作成されました。</string>
+		<key>Please restart Melodyne to apply expert changes. // Preferences</key>
+		<string>変更を反映させるために Melodyneを再起動してください。</string>
+		<key>ms // Preferences</key>
+		<string>ms</string>
+		<key>Host latency: // Preferences</key>
+		<string>ホストのレイテンシ:</string>
+		<key>Mixer // Preferences</key>
+		<string>混音器</string>
+		<key>Master Gain // Preferences</key>
+		<string>マスターゲイン</string>
+		<key>Equalizer Gain // Preferences</key>
+		<string>イコライザーゲイン</string>
+		<key>Equalizer Freqency // Preferences</key>
+		<string>イコライザー周波數</string>
+		<key>Equalizer Q // Preferences</key>
+		<string>イコライザーQ</string>
+		<key>Aux Gain // Preferences</key>
+		<string>AUXゲイン</string>
+		<key>Panorama // Preferences</key>
+		<string>パン</string>
+		<key>Track Gain // Preferences</key>
+		<string>トラックゲイン</string>
+		<key>Test Parameter // Preferences</key>
+		<string>パラメータのテスト</string>
+		<key>Windows // Preferences</key>
+		<string>窗口</string>
+		<key>Show Arrangement // Preferences</key>
+		<string>顯示序列窗口</string>
+		<key>Show Editor // Preferences</key>
+		<string>顯示編輯窗口</string>
+		<key>Show Melody Manager // Preferences</key>
+		<string>顯示媒體資源管理器</string>
+		<key>Show Mixer // Preferences</key>
+		<string>顯示混音器</string>
+		<key>Show Transport Bar // Preferences</key>
+		<string>顯示控制窗口</string>
+		<key>Show Realtime Play Offsets // Preferences</key>
+		<string>顯示實際播放偏移窗口</string>
+		<key>Show Audio Files // Preferences</key>
+		<string>顯示音頻文件窗口</string>
+		<key>Show Tone Scale // Preferences</key>
+		<string>顯示音階窗口</string>
+		<key>Show ReWire Devices // Preferences</key>
+		<string>顯示ReWire設備窗口</string>
+		<key>Show System Load // Preferences</key>
+		<string>顯示系統負荷窗口</string>
+		<key>Miniaturize Window // Preferences</key>
+		<string>最小化窗口</string>
+		<key>Close Window // Preferences</key>
+		<string>關閉窗口</string>
+		<key>Show Preferences // Preferences</key>
+		<string>顯示首選項</string>
+		<key>File Commands // Preferences</key>
+		<string>文件命令</string>
+		<key>New Arrangement // Preferences</key>
+		<string>新建序列</string>
+		<key>Open... // Preferences</key>
+		<string>打開...</string>
+		<key>Import Audio File... // Preferences</key>
+		<string>導入音頻文件...</string>
+		<key>Insert Empty Tracks... // Preferences</key>
+		<string>插入空軌道...</string>
+		<key>Remove Selected Track // Preferences</key>
+		<string>移除選定軌道</string>
+		<key>Save Arrangement // Preferences</key>
+		<string>保存序列</string>
+		<key>Save Arrangement As... // Preferences</key>
+		<string>另存為序列...</string>
+		<key>Save Audio... // Preferences</key>
+		<string>保存音頻...</string>
+		<key>Save Audio to MIDI... // Preferences</key>
+		<string>保存音頻為MIDI...</string>
+		<key>Close Arrangement // Preferences</key>
+		<string>關閉序列</string>
+		<key>Revert to Saved // Preferences</key>
+		<string>恢復為保存的狀態</string>
+		<key>Quit // Preferences</key>
+		<string>退出</string>
+		<key>Melody Manager Commands // Preferences</key>
+		<string>媒體管理器命令</string>
+		<key>Open in New Arrangement // Preferences</key>
+		<string>在新序列中打開</string>
+		<key>Add to Current Arrangement // Preferences</key>
+		<string>添加到當前序列</string>
+		<key>Open in MDD Editor // Preferences</key>
+		<string>在MDD編輯器中打開</string>
+		<key>Update MDD File // Preferences</key>
+		<string>更新MDD文件</string>
+		<key>Rescan Directory // Preferences</key>
+		<string>重掃描目錄</string>
+		<key>Edit Commands // Preferences</key>
+		<string>編輯命令</string>
+		<key>OK // Preferences</key>
+		<string>確定</string>
+		<key>Cancel // Preferences</key>
+		<string>取消</string>
+		<key>Undo // Preferences</key>
+		<string>撤銷</string>
+		<key>Redo // Preferences</key>
+		<string>重做</string>
+		<key>Revert to Audio File // Preferences</key>
+		<string>恢復為原始素材</string>
+		<key>Revert to Audio File and Reset Position // Preferences</key>
+		<string>恢復為原始素材并複位</string>
+		<key>Cut // Preferences</key>
+		<string>剪切</string>
+		<key>Copy // Preferences</key>
+		<string>複製</string>
+		<key>Delete // Preferences</key>
+		<string>刪除</string>
+		<key>Paste // Preferences</key>
+		<string>粘貼</string>
+		<key>Paste Special // Preferences</key>
+		<string>特殊粘貼</string>
+		<key>Paste Pitches // Preferences</key>
+		<string>粘貼音高</string>
+		<key>Replace Keeping Target Pitches // Preferences</key>
+		<string>保持目標音高</string>
+		<key>Copy and Paste Selection to Parallel Track // Preferences</key>
+		<string>複製所選區域為新軌道</string>
+		<key>Cut and Paste Selection to Parallel Track // Preferences</key>
+		<string>剪切所選區域為新軌道</string>
+		<key>Select (Notes) // Preferences</key>
+		<string>選擇（音符）</string>
+		<key>Select All // Preferences</key>
+		<string>全選</string>
+		<key>Select following Notes // Preferences</key>
+		<string>選擇之後的音符</string>
+		<key>Select same Notes // Preferences</key>
+		<string>選擇等高音符</string>
+		<key>Select same Notes in all Octaves // Preferences</key>
+		<string>選擇所有音階的同音音符</string>
+		<key>Select same Beats // Preferences</key>
+		<string>選擇同節拍的音符</string>
+		<key>Select Notes between Locators // Preferences</key>
+		<string>選擇標誌之間的音符</string>
+		<key>Invert Note Selection // Preferences</key>
+		<string>反選</string>
+		<key>Select next Note // Preferences</key>
+		<string>選擇後一個音符</string>
+		<key>Select previous Note // Preferences</key>
+		<string>選擇前一個音符</string>
+		<key>Select next Note (extending) // Preferences</key>
+		<string>選擇後一個音符（扩選）</string>
+		<key>Select previous Note (extending) // Preferences</key>
+		<string>選擇前一個音符（扩選）</string>
+		<key>Select and Play next Note // Preferences</key>
+		<string>選擇并播放後一個音符</string>
+		<key>Select and Play previous Note // Preferences</key>
+		<string>選擇并播放前一個音符</string>
+		<key>Select (Tracks) // Preferences</key>
+		<string>選擇（軌道）</string>
+		<key>Select next Track // Preferences</key>
+		<string>選擇下一条軌道</string>
+		<key>Select previous Track // Preferences</key>
+		<string>選擇上一条軌道</string>
+		<key>Define Melody // Preferences</key>
+		<string>定義旋律</string>
+		<key>Correct Detection // Preferences</key>
+		<string>檢測修正</string>
+		<key>Open MDD Editor // Preferences</key>
+		<string>打開MDD編輯器</string>
+		<key>Reset Detection to Melodic Mode // Preferences</key>
+		<string>重置檢測到旋律模式</string>
+		<key>Reset Detection to Percussive Mode // Preferences</key>
+		<string>重置檢測到打擊模式</string>
+		<key>Reset Detection to Polyphonic Mode // Preferences</key>
+		<string>重置檢測到複調模式</string>
+		<key>Redetect Audio File // Preferences</key>
+		<string>重檢測音頻文件</string>
+		<key>Select Detection Parameter Set // Preferences</key>
+		<string>選擇檢測参數設置</string>
+		<key>Apply Arrangement Tempo and Tone Scale to all MDDs // Preferences</key>
+		<string>應用序列速度和音階到所有MDD文件</string>
+		<key>Define Note Types // Preferences</key>
+		<string>ノートタイプの定義</string>
+		<key>Set Tonal Note Type // Preferences</key>
+		<string>音程のあるノート</string>
+		<key>Set Silence Note Type // Preferences</key>
+		<string>休符</string>
+		<key>Set Noise Note Type // Preferences</key>
+		<string>ノイズ</string>
+		<key>Set Grace Note Type // Preferences</key>
+		<string>装飾音符</string>
+		<key>Set Unpitched Percussive Note Type // Preferences</key>
+		<string>音程のないパーカッシブノート</string>
+		<key>Set Pitched Percussive Note Type // Preferences</key>
+		<string>音程のあるパーカッシブノート</string>
+		<key>Set Speech Note Type // Preferences</key>
+		<string>スピーチ</string>
+		<key>Set Trill Note Type // Preferences</key>
+		<string>トリル</string>
+		<key>Set Slide Note Type // Preferences</key>
+		<string>スライド</string>
+		<key>Define Tempo // Preferences</key>
+		<string>アレンジテンポの定義</string>
+		<key>Variable Tempo Editing Mode on/off // Preferences</key>
+		<string>テンポ可変編集モードのオン/オフ</string>
+		<key>Re-Assign Notes to Beats // Preferences</key>
+		<string>ノートのビートへの再アサイン</string>
+		<key>Double Tempo // Preferences</key>
+		<string>2倍のテンポ</string>
+		<key>Half Tempo // Preferences</key>
+		<string>半分のテンポ</string>
+		<key>Equal Tempo // Preferences</key>
+		<string>同じテンポ</string>
+		<key>Same Tempo for Following Bars // Preferences</key>
+		<string>以降の小節と同じテンポ</string>
+		<key>Same Signature for Following Bars // Preferences</key>
+		<string>以降の小節と同じ拍子</string>
+		<key>Equal Beats in Current Bar // Preferences</key>
+		<string>現在の小節と同じビート</string>
+		<key>Equal Beats in Following Bars // Preferences</key>
+		<string>以降の小節と同じビート</string>
+		<key>Smooth Tempo Changes // Preferences</key>
+		<string>テンポのスムース変更</string>
+		<key>Derive Tempo From Audio File Duration // Preferences</key>
+		<string>オーディオファイルの長さからテンポを抽出</string>
+		<key>Set Bar Duration to Current Selection // Preferences</key>
+		<string>選択范囲に小節の長さをセット</string>
+		<key>Set Tempo Zero to Audio File Start // Preferences</key>
+		<string>オーディオファイルの開始にテンポゼロをセット</string>
+		<key>Take Tempo from MDD // Preferences</key>
+		<string>MDDからテンポを取得</string>
+		<key>Take Tempo from Midi File... // Preferences</key>
+		<string>MIDIファイルからテンポを取得...</string>
+		<key>Enable Tempo Recording from Midi Clock // Preferences</key>
+		<string>MIDIクロックからのテンポレコーディングを有効にする</string>
+		<key>Enable Tempo Recording from Tempo Tapping // Preferences</key>
+		<string>テンポタップによるテンポレコーディングを有効にする</string>
+		<key>Change Tempo (Autostretch) // Preferences</key>
+		<string>アレンジのテンポを変更（オートストレッチ）</string>
+		<key>Edit Pitch // Preferences</key>
+		<string>ピッチの編集</string>
+		<key>Reset Pitch Center to Original // Preferences</key>
+		<string>ピッチセンターをリセット</string>
+		<key>Reset Pitch Modulation to Original // Preferences</key>
+		<string>ピッチモジュレーションをリセット</string>
+		<key>Reset Pitch Drift to Original // Preferences</key>
+		<string>ピッチドリフトをリセット</string>
+		<key>Reset Pitch Transition to Original // Preferences</key>
+		<string>ピッチトランジションをリセット</string>
+		<key>Reset All Pitch Related Changes to Original // Preferences</key>
+		<string>すべての変更されたピッチをオリジナルにリセット</string>
+		<key>Increase Pitch // Preferences</key>
+		<string>ピッチを上げる</string>
+		<key>Decrease Pitch // Preferences</key>
+		<string>ピッチを下げる</string>
+		<key>Add Random Offset To Pitch Center // Preferences</key>
+		<string>ピッチセンターにランダムなオフセットを追加 Center</string>
+		<key>Add Random Offset To Note Position // Preferences</key>
+		<string>ノートポジションにランダムなオフセットを追加</string>
+		<key>Edit Formant // Preferences</key>
+		<string>フォルマントの編集</string>
+		<key>Reset Formants to Original // Preferences</key>
+		<string>フォルマントをリセット</string>
+		<key>Reset Formant Transition to Default // Preferences</key>
+		<string>フォルマントの変化を初期設定に戻す</string>
+		<key>Edit Amplitude // Preferences</key>
+		<string>音量の編集</string>
+		<key>Reset Amplitudes to Original // Preferences</key>
+		<string>音量をリセット</string>
+		<key>Reset Amplitude Transitions to Default // Preferences</key>
+		<string>音量の変化を初期設定に戻す</string>
+		<key>Mute Notes // Preferences</key>
+		<string>ノートのミュート</string>
+		<key>Reset Mute State // Preferences</key>
+		<string>ミュート状態をリセット</string>
+		<key>Edit Notes Time // Preferences</key>
+		<string>ノートタイム編集</string>
+		<key>Reset relative Time Course to Original // Preferences</key>
+		<string>タイムコースをオリジナルにリセット</string>
+		<key>Reset Time and Duration to Original // Preferences</key>
+		<string>タイムと長さをリセット</string>
+		<key>Reset Note Time Handles to Original // Preferences</key>
+		<string>ノートタイムハンドルをオリジナルにリセット</string>
+		<key>Add Random Offset to Time Course // Preferences</key>
+		<string>タイムコースにランダムなオフセットを追加</string>
+		<key>Adapt all Notes of Track to Arrangement Tempo // Preferences</key>
+		<string>トラック内のすべてのノートにアレンジのテンポを適用</string>
+		<key>Set all Notes of Track to half Tempo // Preferences</key>
+		<string>トラック内のすべてのノートのテンポを半分に</string>
+		<key>Set all Notes of Track to double Tempo // Preferences</key>
+		<string>トラック内のすべてのノートのテンポを2倍に</string>
+		<key>Edit Note Separations // Preferences</key>
+		<string>ノート分割の編集</string>
+		<key>Separate Note as Trill // Preferences</key>
+		<string>トリルにノート分割</string>
+		<key>Separate Note as Slide // Preferences</key>
+		<string>スライドにノート分割</string>
+		<key>Separate Note // Preferences</key>
+		<string>ノートの分割</string>
+		<key>Combine Notes // Preferences</key>
+		<string>ノート結合</string>
+		<key>Use Compound Notes on/off // Preferences</key>
+		<string>コンパウンドノート使用のon/off</string>
+		<key>Compound/De-Compound Notes // Preferences</key>
+		<string>ノートのコンパウンド</string>
+		<key>Set Compound Main Note // Preferences</key>
+		<string>コンパウンド主ノート</string>
+		<key>Show Compound Main Note // Preferences</key>
+		<string>コンパウンド主ノートの表示</string>
+		<key>Correction Macros // Preferences</key>
+		<string>マクロ修正</string>
+		<key>Correct Pitch // Preferences</key>
+		<string>ピッチ修正</string>
+		<key>Quantize Time // Preferences</key>
+		<string>タイムのクォンタイズ</string>
+		<key>Apply Correct Pitch // Preferences</key>
+		<string>正しいピッチを適用</string>
+		<key>Apply Quantize Time // Preferences</key>
+		<string>クォンタイズタイムを適用</string>
+		<key>Arrow Key Defaults // Preferences</key>
+		<string>カーソルキーのデフォルト</string>
+		<key>Default Left // Preferences</key>
+		<string>デフォルト左</string>
+		<key>Default Right // Preferences</key>
+		<string>デフォルト右</string>
+		<key>Default Up // Preferences</key>
+		<string>デフォルト上</string>
+		<key>Default Down // Preferences</key>
+		<string>デフォルト下</string>
+		<key>Tools Commands // Preferences</key>
+		<string>工具命令</string>
+		<key>Select Main Tool // Preferences</key>
+		<string>選擇</string>
+		<key>Select Pitch Tool // Preferences</key>
+		<string>音高編輯</string>
+		<key>Select Pitch Modulation Tool // Preferences</key>
+		<string>音高調制</string>
+		<key>Select Pitch Drift Tool // Preferences</key>
+		<string>音高補償</string>
+		<key>Select Formant Tool // Preferences</key>
+		<string>共振峰編輯</string>
+		<key>Select Amplitude Tool // Preferences</key>
+		<string>音量編輯</string>
+		<key>Select Time Tool // Preferences</key>
+		<string>移動音符</string>
+		<key>Select Time Handle Tool // Preferences</key>
+		<string>編輯時間柄</string>
+		<key>Select Note Separation Tool // Preferences</key>
+		<string>音符分割</string>
+		<key>Select Segment Separation Tool // Preferences</key>
+		<string>片段分割</string>
+		<key>Select Previous Tool // Preferences</key>
+		<string>選擇前一個工具</string>
+		<key>Transport and Navigation // Preferences</key>
+		<string>傳輸與導航</string>
+		<key>Play // Preferences</key>
+		<string>播放</string>
+		<key>Stop // Preferences</key>
+		<string>停止</string>
+		<key>Play/Stop // Preferences</key>
+		<string>播放/停止</string>
+		<key>Record on/off // Preferences</key>
+		<string>錄音 開/關</string>
+		<key>Fast Forward // Preferences</key>
+		<string>快進</string>
+		<key>Rewind // Preferences</key>
+		<string>倒回</string>
+		<key>Cycle on/off // Preferences</key>
+		<string>循環 開/關</string>
+		<key>Play Selection // Preferences</key>
+		<string>播放選擇内容</string>
+		<key>Play Original // Preferences</key>
+		<string>播放原始素材</string>
+		<key>Play Detected Pitch // Preferences</key>
+		<string>播放檢測音高</string>
+		<key>Playback in Editor: Selected Track // Preferences</key>
+		<string>編輯器播放：選取的軌道</string>
+		<key>Playback in Editor: Visible Tracks // Preferences</key>
+		<string>編輯器播放：顯示中的軌道</string>
+		<key>Playback in Editor: Arrangement Tracks // Preferences</key>
+		<string>編輯器播放：整個編曲</string>
+		<key>Click on/off // Preferences</key>
+		<string>節拍提示音 開/關</string>
+		<key>Sync Master on/off // Preferences</key>
+		<string>主同步 開/關</string>
+		<key>Sync Slave on/off // Preferences</key>
+		<string>從同步 開/關</string>
+		<key>Scrub Play on/off // Preferences</key>
+		<string>擦軌播放 開／關</string>
+		<key>Scrub by Value Difference // Preferences</key>
+		<string>依數值差異進行擦軌播放</string>
+		<key>Tempo Tapping: 1/2 // Preferences</key>
+		<string>節奏點擊：1/2</string>
+		<key>Tempo Tapping: 1/4 // Preferences</key>
+		<string>節奏點擊：1/4</string>
+		<key>Tempo Tapping: 1/8 // Preferences</key>
+		<string>節奏點擊：1/8</string>
+		<key>Tempo Tapping: 1/16 // Preferences</key>
+		<string>節奏點擊：1/16</string>
+		<key>Tempo Tapping: Next Note // Preferences</key>
+		<string>節奏點擊：下一個音符</string>
+		<key>Locators // Preferences</key>
+		<string>定位點</string>
+		<key>Set left Locator to Current Song Position // Preferences</key>
+		<string>將左定位點設置在目前的歌曲位置</string>
+		<key>Set right Locator to Current Song Position // Preferences</key>
+		<string>將右定位點設置在目前的歌曲位置</string>
+		<key>Set Locators to Enclose Selection (Quantized) // Preferences</key>
+		<string>將定位點設置為選取范圍（量化）</string>
+		<key>Set Locators to Enclose Selection (Exact) // Preferences</key>
+		<string>將定位點設置為選取范圍（保持選取狀態）</string>
+		<key>Move Locator Range Forward // Preferences</key>
+		<string>將定位范圍向前移動</string>
+		<key>Move Locator Range Backward // Preferences</key>
+		<string>將定位范圍向後移動</string>
+		<key>Go to Left Locator // Preferences</key>
+		<string>移動到左定位點</string>
+		<key>Go to Right Locator // Preferences</key>
+		<string>移動到右定位點</string>
+		<key>Scroll to Left Locator // Preferences</key>
+		<string>滾動到左定位點</string>
+		<key>Scroll to Right Locator // Preferences</key>
+		<string>滾動到右定位點</string>
+		<key>Markers // Preferences</key>
+		<string>標記</string>
+		<key>Create Marker // Preferences</key>
+		<string>建立標記</string>
+		<key>Go to Next Marker // Preferences</key>
+		<string>移動到下一個標記</string>
+		<key>Go to Previous Marker // Preferences</key>
+		<string>移動到上一個標記</string>
+		<key>Go to Marker 1 // Preferences</key>
+		<string>移動到標記 1</string>
+		<key>Go to Marker 2 // Preferences</key>
+		<string>移動到標記 2</string>
+		<key>Go to Marker 3 // Preferences</key>
+		<string>移動到標記 3</string>
+		<key>Go to Marker 4 // Preferences</key>
+		<string>移動到標記 4</string>
+		<key>Go to Marker 5 // Preferences</key>
+		<string>移動到標記 5</string>
+		<key>Go to Marker 6 // Preferences</key>
+		<string>移動到標記 6</string>
+		<key>Go to Marker 7 // Preferences</key>
+		<string>移動到標記 7</string>
+		<key>Go to Marker 8 // Preferences</key>
+		<string>移動到標記 8</string>
+		<key>Go to Marker 9 // Preferences</key>
+		<string>移動到標記 9</string>
+		<key>Go to Marker 10 // Preferences</key>
+		<string>移動到標記 10</string>
+		<key>Go to Marker 11 // Preferences</key>
+		<string>移動到標記 11</string>
+		<key>Go to Marker 12 // Preferences</key>
+		<string>移動到標記 12</string>
+		<key>Scroll // Preferences</key>
+		<string>滚動</string>
+		<key>Scroll Right // Preferences</key>
+		<string>向右滚動</string>
+		<key>Scroll Left // Preferences</key>
+		<string>向左滚動</string>
+		<key>Scroll Down // Preferences</key>
+		<string>向下滚動</string>
+		<key>Scroll Up // Preferences</key>
+		<string>向上滚動</string>
+		<key>Zoom // Preferences</key>
+		<string>縮放</string>
+		<key>Zoom In // Preferences</key>
+		<string>放大</string>
+		<key>Zoom Out // Preferences</key>
+		<string>縮小</string>
+		<key>Zoom In (vertically) // Preferences</key>
+		<string>放大（垂直）</string>
+		<key>Zoom Out (vertically) // Preferences</key>
+		<string>縮小（垂直）</string>
+		<key>Zoom In (horizontally) // Preferences</key>
+		<string>放大（水平）</string>
+		<key>Zoom Out (horizontally) // Preferences</key>
+		<string>縮小（水平）</string>
+		<key>No Zoom (Show All) // Preferences</key>
+		<string>不縮放（顯示全部）</string>
+		<key>Go to... // Preferences</key>
+		<string>轉到...</string>
+		<key>Go to Next Bar // Preferences</key>
+		<string>轉到下一小節</string>
+		<key>Go to Previous Bar // Preferences</key>
+		<string>轉到上一小節</string>
+		<key>Go to Current Position // Preferences</key>
+		<string>轉到當前位置</string>
+		<key>Realtime Play Offsets // Preferences</key>
+		<string>實際播放偏移</string>
+		<key>Change Global Tempo // Preferences</key>
+		<string>改變全局速度</string>
+		<key>Change Global Pitch // Preferences</key>
+		<string>改變全局音高</string>
+		<key>Change Global Formant // Preferences</key>
+		<string>改變全局峰值</string>
+		<key>Change Track Pitch // Preferences</key>
+		<string>改變軌道音高</string>
+		<key>Change Track Formant // Preferences</key>
+		<string>改變軌道峰值</string>
+		<key>Reset Global Tempo // Preferences</key>
+		<string>重置全局速度</string>
+		<key>Reset Global Pitch // Preferences</key>
+		<string>重置全局音高</string>
+		<key>Reset Global Formant // Preferences</key>
+		<string>重置全局峰值</string>
+		<key>Reset Track Pitch // Preferences</key>
+		<string>重置軌道音高ト</string>
+		<key>Reset Track Formant // Preferences</key>
+		<string>重置軌道峰值</string>
+		<key>Various Options // Preferences</key>
+		<string>雜項</string>
+		<key>Autoscrolling on/off // Preferences</key>
+		<string>自動滾動 開／關</string>
+		<key>Always Show Pitch Curve on/off // Preferences</key>
+		<string>始終顯示音高曲線 開／關</string>
+		<key>Always Show Note Separations on/off // Preferences</key>
+		<string>始終顯示音符分割 開／關</string>
+		<key>Show Score Notes // Preferences</key>
+		<string>譜面顯示</string>
+		<key>Show Pitched Notation on selected Track on/off // Preferences</key>
+		<string>在選取的軌道上以帶音高的音符顯示譜面 開／關</string>
+		<key>Autostretch on/off // Preferences</key>
+		<string>自動拉伸 開／關</string>
+		<key>Time Grid Snap on/off // Preferences</key>
+		<string>時間格線吸附 開／關</string>
+		<key>Show/Hide Play Algorithm Inspector // Preferences</key>
+		<string>播放演算法檢查器 顯示／隱藏</string>
+		<key>Show/Hide Audio-to-MIDI Inspector // Preferences</key>
+		<string>音訊-MIDI檢查器 顯示／隱藏</string>
+		<key>Select Bank by Index // Preferences</key>
+		<string>インデックスでバンクを選択</string>
+		<key>Select Bank by Value // Preferences</key>
+		<string>値でバンクを選択</string>
+		<key>Select Next Bank // Preferences</key>
+		<string>次のバンクを選択</string>
+		<key>Select Previous Bank // Preferences</key>
+		<string>前のバンクを選択</string>
+		<key>None // Preferences</key>
+		<string>空</string>
+		<key>All // Preferences</key>
+		<string>全部</string>
+		<key>Please choose a folder to record audio files in unsaved arrangements. You can change this setting in the recording preferences later. // Preferences</key>
+		<string>保存されていないアレンジで録音するオーディオファイル用のフォルダを選択してください。この設定はあとから変更することができます。</string>
+		<key>Choose Folder // Preferences</key>
+		<string>フォルダを選択</string>
+		<key>Quantize Time // QuantizeTimePanel</key>
+		<string>タイムのクォンタイズ</string>
+		<key>No Reference Track // QuantizeTimePanel</key>
+		<string>リファレンストラックなし</string>
+		<key>Midi In Port: // MidiDevice</key>
+		<string>MIDI 入力ポート</string>
+		<key>Select Midi Source Port // MidiDevice</key>
+		<string>MIDI入力ポートを選択</string>
+		<key>None // MidiDevice</key>
+		<string>無</string>
+		<key>Midi Out Port: // MidiDevice</key>
+		<string>MIDI 出力ポート:</string>
+		<key>Select Midi Destination Port // MidiDevice</key>
+		<string>MIDI出力ポートを選択</string>
+		<key>User Assignable Actions: // MidiDevice</key>
+		<string>ユーザー設定可能操作</string>
+		<key>Select User Action // MidiDevice</key>
+		<string>ユーザー操作を選択</string>
+		<key>Midi Channel: // MidiDevice</key>
+		<string>MIDIチャンネル:</string>
+		<key>Select System Channel // MidiDevice</key>
+		<string>システムチャンネルを選択</string>
+		<key>ReWire Devices // ReWire</key>
+		<string>ReWire設備</string>
+		<key>Start Application // ReWire</key>
+		<string>開始應用</string>
+		<key>Title // ReWire</key>
+		<string>標題</string>
+		<key>Use ASIO drivers if applicable. // SetupAssistant</key>
+		<string>使用可用的ASIO設備</string>
+		<key>No proper audio device found. Please quit all other applications before running Melodyne or update your audio card drivers. // SetupAssistant</key>
+		<string>未發現适用的音頻設備。請在運行麥樂迪之前退出所有其他應用程序或升级你的聲卡驅動。</string>
+		<key>Quit // SetupAssistant</key>
+		<string>退出</string>
+		<key>This audio device does not work properly. Please quit all other applications before running Melodyne or choose a different device. // SetupAssistant</key>
+		<string>該音頻設備不能正常工作。請在運行麥樂迪之前退出所有其他應用程序或選擇不同的設備。</string>
+		<key>Melodyne Soundbank // Soundbank</key>
+		<string>Melodyne サウンドバンク</string>
+		<key>not found // Soundbank</key>
+		<string>見つかりません</string>
+		<key>unlicensed // Soundbank</key>
+		<string>未ライセンス</string>
+		<key>OK // Soundbank</key>
+		<string>OK</string>
+		<key>The demo sound library does not need to be licensed. // Soundbank</key>
+		<string>デモサウンドライブラリはライセンスを必要としません。</string>
+		<key>The sound library does not need to be licensed. // Soundbank</key>
+		<string>サウンドライブラリはライセンスを必要としません。</string>
+		<key>Please enter this serial number as printed on the libraries package. // Soundbank</key>
+		<string>ライブラリのパッケージに印刷されたシリアル番号を入力してください。</string>
+		<key>The entered serial number is not valid. Please double check. // Soundbank</key>
+		<string>入力されたシリアル番号は正しくありません。再度確認ください。</string>
+		<key>Please enter the license key you received from the Sound Library License WebSite. // Soundbank</key>
+		<string>サウンドライブラリのライセンスWebサイトから取得した、ライセンスキーを入力してください。</string>
+		<key>License key accepted. // Soundbank</key>
+		<string>ライセンスキーは認証されました。</string>
+		<key>Invalid License key. // Soundbank</key>
+		<string>ライセンスキーが正しくありません。</string>
+		<key>Please enter the Response Code you received from Ueberschall. // Soundbank</key>
+		<string>Ueberschall 社より取得したレスポンスコードを入力してください。</string>
+		<key>Response Code accepted. // Soundbank</key>
+		<string>レスポンスコードが認証されました。</string>
+		<key>Invalid Response Code. // Soundbank</key>
+		<string>入力されたシリアル番号は正しくありません。再度確認ください。</string>
+		<key>undefined // Soundbank</key>
+		<string>未定義</string>
+		<key>free // Soundbank</key>
+		<string>空き</string>
+		<key>licensed // Soundbank</key>
+		<string>ライセンス済</string>
+		<key>not licensed // Soundbank</key>
+		<string>ライセンスされていません</string>
+		<key>Hz // MelodyManager</key>
+		<string>Hz</string>
+		<key>Audio File // SourceWave</key>
+		<string>音頻文件</string>
+		<key>Name: // SourceWave</key>
+		<string>文件名：</string>
+		<key>Duration: // SourceWave</key>
+		<string>時長：</string>
+		<key>Format: // SourceWave</key>
+		<string>格式：</string>
+		<key>Rate: // SourceWave</key>
+		<string>比率：</string>
+		<key>Samples: // SourceWave</key>
+		<string>采樣：</string>
+		<key>Path: // SourceWave</key>
+		<string>路徑：</string>
+		<key>sec // SourceWave</key>
+		<string>秒</string>
+		<key>Hz // SourceWave</key>
+		<string>Hz</string>
+		<key>Audio Files // SourceWave</key>
+		<string>音頻文件</string>
+		<key>Transport Bar // TransportBar</key>
+		<string>傳輸器面板</string>
+		<key>Volume:  // TransportBar</key>
+		<string>音量：</string>
+		<key>Volume // TransportBar</key>
+		<string>音量</string>
+		<key>Click:  // TransportBar</key>
+		<string>節拍提示音：</string>
+		<key>Click // TransportBar</key>
+		<string>節拍</string>
+		<key>Link Transport to ReWire Host // TransportBar</key>
+		<string>鏈接傳輸器到ReWire主機</string>
+		<key>Edit Volume // TransportBar</key>
+		<string>編輯音量</string>
+		<key>Selected Note Offset (cent) // DefinitionWindow</key>
+		<string>選択ノートのオフセット（セント）</string>
+		<key>Play Algorithm Type // DefinitionWindow</key>
+		<string>再生アルゴリズムタイプ</string>
+		<key>Melodic // DefinitionWindow</key>
+		<string>旋律</string>
+		<key>Percussive // DefinitionWindow</key>
+		<string>打擊樂</string>
+		<key>Tone Scale // ToneScale</key>
+		<string>音階</string>
+		<key>Offset: // ToneScale</key>
+		<string>偏移：</string>
+		<key>Edit... // ToneScale</key>
+		<string>編輯...</string>
+		<key>Finish Edit // ToneScale</key>
+		<string>完成編輯</string>
+		<key>New // ToneScale</key>
+		<string>新建</string>
+		<key>Open // ToneScale</key>
+		<string>打開</string>
+		<key>Save // ToneScale</key>
+		<string>保存</string>
+		<key>Apply Scale Tuning Only on/off // ToneScale</key>
+		<string>僅應用音調調諧器 開/關</string>
+		<key>Tuning only // ToneScale</key>
+		<string>僅調諧器</string>
+		<key>Edit // ToneScale</key>
+		<string>編輯</string>
+		<key>Editing Tone Scale // ToneScale</key>
+		<string>編輯音階</string>
+		<key>Pythagorean // ToneScale</key>
+		<string>畢達哥拉斯音律</string>
+		<key>Tritone Pythagorean // ToneScale</key>
+		<string>三全音畢達哥拉斯音律</string>
+		<key>Meantone // ToneScale</key>
+		<string>古典音律</string>
+		<key>Pure Ratios // ToneScale</key>
+		<string>純音律</string>
+		<key>Save Tone Scale // ToneScale</key>
+		<string>保存音階</string>
+		<key>Writing tone scale failed for any reason. // ToneScale</key>
+		<string>寫入音階失敗。</string>
+		<key>Major // ToneScale</key>
+		<string>大調</string>
+		<key>Minor (natural) // ToneScale</key>
+		<string>自然小調</string>
+		<key>Minor (harmonic) // ToneScale</key>
+		<string>和聲小調</string>
+		<key>Minor (melodic) // ToneScale</key>
+		<string>旋律小調</string>
+		<key>Ionian (Major) // ToneScale</key>
+		<string>愛奧尼亞式大調</string>
+		<key>Dorian // ToneScale</key>
+		<string>多里安</string>
+		<key>Phrygian // ToneScale</key>
+		<string>佛里吉亞</string>
+		<key>Lydian // ToneScale</key>
+		<string>吕底亞</string>
+		<key>Mixolydian // ToneScale</key>
+		<string>混合吕底亞調式</string>
+		<key>Aeolian (nat. Minor) // ToneScale</key>
+		<string>伊奥利亞自然小調</string>
+		<key>Locrian // ToneScale</key>
+		<string>洛克里斯</string>
+		<key>Major Pentatonic // ToneScale</key>
+		<string>大調五聲音階</string>
+		<key>Minor Pentatonic // ToneScale</key>
+		<string>小調五聲音階</string>
+		<key>Blues // ToneScale</key>
+		<string>藍調</string>
+		<key>Bop // ToneScale</key>
+		<string>波普音樂</string>
+		<key>Augmented // ToneScale</key>
+		<string>增音</string>
+		<key>Diminished // ToneScale</key>
+		<string>减音</string>
+		<key>Whole Tone // ToneScale</key>
+		<string>全音階</string>
+		<key>Hungarian Major // ToneScale</key>
+		<string>匈牙利大調</string>
+		<key>Hungarian Minor // ToneScale</key>
+		<string>匈牙利小調</string>
+		<key>Neapolitan Major // ToneScale</key>
+		<string>那不勒斯大調</string>
+		<key>Neapolitan Minor // ToneScale</key>
+		<string>那不勒斯小調</string>
+		<key>Spanish // ToneScale</key>
+		<string>西班牙</string>
+		<key>Arabian // ToneScale</key>
+		<string>阿拉伯</string>
+		<key>Persian // ToneScale</key>
+		<string>波斯</string>
+		<key>Hindu // ToneScale</key>
+		<string>印度</string>
+		<key>Oriental // ToneScale</key>
+		<string>東方</string>
+		<key>Japanese // ToneScale</key>
+		<string>日本</string>
+		<key>Configure // AudioMixer</key>
+		<string>配置</string>
+		<key>Action // AudioMixer</key>
+		<string>操作</string>
+		<key>Aux: // AudioMixerAux</key>
+		<string>輔助：</string>
+		<key>Out: // AudioMixer</key>
+		<string>輸出：</string>
+		<key>Play Through // AudioMixer</key>
+		<string>直通回放</string>
+		<key>Sync Faders // AudioMixer</key>
+		<string>同步控制器</string>
+		<key>Master Out // AudioMixer</key>
+		<string>主輸出</string>
+		<key>Ax // AudioMixer</key>
+		<string>衰减</string>
+		<key>Q // AudioMixerEQ</key>
+		<string>Q</string>
+		<key>G // AudioMixerEQ</key>
+		<string>G</string>
+		<key>F // AudioMixerEQ</key>
+		<string>F</string>
+		<key>Delay // AudioMixer</key>
+		<string>Delay</string>
+		<key>S // AudioMixerIO</key>
+		<string>S</string>
+		<key>M // AudioMixerIO</key>
+		<string>M</string>
+		<key>R // AudioMixerIO</key>
+		<string>R</string>
+		<key>mono // AudioMixerIO</key>
+		<string>單聲道</string>
+		<key>stereo // AudioMixerIO</key>
+		<string>立體聲</string>
+		<key>auto // AudioMixerIO</key>
+		<string>自動</string>
+		<key>Title: // Detection</key>
+		<string>標題：</string>
+		<key>Highest Note: // Detection</key>
+		<string>最高音</string>
+		<key>Separation: // Detection</key>
+		<string>分割</string>
+		<key>Separation Sensitivity: // Detection</key>
+		<string>分割感度</string>
+		<key>Silence Note Limit: // Detection</key>
+		<string>休止符限制：</string>
+		<key>Notation: // Detection</key>
+		<string>記譜：</string>
+		<key>Portamento: // Detection</key>
+		<string>滑音：</string>
+		<key>Play Algorithm: // Detection</key>
+		<string>執行規則：</string>
+		<key>Rhythmic // Detection</key>
+		<string>節奏</string>
+		<key>Tonal // Detection</key>
+		<string>調</string>
+		<key>Radio // Detection</key>
+		<string>Radio </string>
+		<key>Treat Notes Separately // Detection</key>
+		<string>作為音符分割</string>
+		<key>Track Portamento // Detection</key>
+		<string>軌道滑音</string>
+		<key>Poly / Percussive // Detection</key>
+		<string>和弦/打擊</string>
+		<key>OK // Detection</key>
+		<string>確定</string>
+		<key>Lowest Note: // Detection</key>
+		<string>最低音：</string>
+		<key>Automatic Detection // Detection</key>
+		<string>自動檢測</string>
+		<key>Given Tempo: // Detection</key>
+		<string>特定速度：</string>
+		<key>From Name at Digit:  // Detection</key>
+		<string>從名称（阿拉伯數字）</string>
+		<key>From File Duration // Detection</key>
+		<string>從名称（持续時間）</string>
+		<key>No Separation // Detection</key>
+		<string>没有分割</string>
+		<key>Tempo: // Detection</key>
+		<string>速度：</string>
+		<key>Challenge Code: // Soundbank</key>
+		<string>Challange代碼：</string>
+		<key>Response Code: // Soundbank</key>
+		<string>响應代碼：</string>
+		<key>Please enter the response code to activate the soundbank // Soundbank</key>
+		<string>サウンドバンクをアクティブにするには、レスポンスコードを入力してください。</string>
+		<key>Cancel // Soundbank</key>
+		<string>取消</string>
+		<key>Title: // MidiDevice</key>
+		<string>タイトル：</string>
+		<key>Midi In: // MidiDevice</key>
+		<string>MIDI IN:</string>
+		<key>Bank: // MidiDevice</key>
+		<string>バンク：</string>
+		<key>Mapping: // MidiDevice</key>
+		<string>マッピング：</string>
+		<key>Password:</key>
+		<string>パスワード:</string>
+		<key>OK</key>
+		<string>OK</string>
+		<key>Cancel</key>
+		<string>キャンセル</string>
+		<key>Take Tempo from Arrangement // ImportPanel</key>
+		<string>アレンジからテンポを得る</string>
+		<key>Analyse Tempo from Sound // ImportPanel</key>
+		<string>サウンドからテンポを検出</string>
+		<key>Radio // ImportPanel</key>
+		<string>Radio </string>
+		<key>at the Location of a Reference File // ImportPanel</key>
+		<string>基準ファイルの場所で</string>
+		<key>as defined by the Files&apos; Time Stamps // ImportPanel</key>
+		<string>ファイルのタイムスタンプで定義</string>
+		<key>Stretch File and Adapt Tempo // ImportPanel</key>
+		<string>ファイルをストレッチしてテンポに合わせる</string>
+		<key>Undetected Files // ImportPanel</key>
+		<string>未検出のファイル</string>
+		<key>Insert // ImportPanel</key>
+		<string>Insert</string>
+		<key>Import // ImportPanel</key>
+		<string>インポート</string>
+		<key>Cancel // ImportPanel</key>
+		<string>キャンセル</string>
+		<key>1-1 // ImportPanel</key>
+		<string>1-1</string>
+		<key>Show: // MelodyManager</key>
+		<string>表示：</string>
+		<key>Play: // MelodyManager</key>
+		<string>再生：</string>
+		<key>Actions // MelodyManager</key>
+		<string>操作</string>
+		<key>Action // MelodyManager</key>
+		<string>操作</string>
+		<key>Path // MelodyManager</key>
+		<string>パス</string>
+		<key>Title only // MelodyManager</key>
+		<string>タイトルのみ</string>
+		<key>Waveform // MelodyManager</key>
+		<string>波形</string>
+		<key>Notes // MelodyManager</key>
+		<string>ノート</string>
+		<key>Notes and Waveform // MelodyManager</key>
+		<string>ノートと波形</string>
+		<key>Wave Notes // MelodyManager</key>
+		<string>音程化した波形</string>
+		<key>Plain // MelodyManager</key>
+		<string>通常</string>
+		<key>Cycle // MelodyManager</key>
+		<string>ループ</string>
+		<key>Sequence // MelodyManager</key>
+		<string>シーケンス</string>
+		<key>Back // LicenseWizard</key>
+		<string>戻る</string>
+		<key>Welcome // LicenseWizard</key>
+		<string>ようこそ</string>
+		<key>Welcome to the Melodyne Activation Assistant, which will help you register and activate your copy of the program. // LicenseWizard</key>
+		<string>Melodyne アクティベーションアシスタントへようこそ。このプログラムの登録とアクティベーションを手伝います。</string>
+		<key>I would like to activate Melodyne on this computer online or offline and register with myCelemony (if I have not done so already). // LicenseWizard</key>
+		<string>Melodyneをこのコンピューター上でオンライン、またはオフラインでアクティベートしたい。そして（未登録の場合）myCelemonyに登録する。</string>
+		<key>I would like to use an iLok dongle. For this purpose, my Melodyne license must be transferred to my iLok account. If a Melodyne license is already stored on my iLok dongle, all I have to do is insert it in one of the computer&apos;s free USB ports. // LicenseWizard</key>
+		<string>iLok ドングルを使いたい。そのためには Melodyne ライセンスを iLok アカウントへトランスファーしなくてはなりません。もし Melodyne ライセンスが既に iLok に保存されているならば、コンピューターの USB 端子に差すだけです。</string>
+		<key>Melodyne serial number: // LicenseWizard</key>
+		<string>Melodyne シリアルナンバー:</string>
+		<key>Request iLok license // LicenseWizard</key>
+		<string>iLok ライセンスをリクエストする。</string>
+		<key>Before you can use Melodyne with an iLok, your Melodyne license will have to be transferred to your iLok account at www.ilok.com. 
+First enter your serial number. You will find it in the Melodyne packaging or in the e-mail confirming your online purchase from the Celemony Web Shop. // LicenseWizard</key>
+		<string>Melodyne を iLok で使う前に、www.ilok.com 上のあなたの iLok アカウントにライセンスを送らなくてはなりません。 最初にシリアルナンバーを入力してください。これはMelodyneのCDパッケージか、オンラインで購入の場合にCelemony Web Shopからの電子メールにあります。</string>
+		<key>I would like to request the transfer of my license to my iLok account offline. Offline request involves exporting a small file and using some other computer to connect to the Internet. // LicenseWizard</key>
+		<string>ライセンスを iLok アカウントへオフラインでトランスファーすることをリクエストしたい。オフラインリクエストをするには、書き出した小さなファイルを他のコンピューターに渡しインターネットに接続する必要があります。</string>
+		<key>I would like to request the transfer of my license to my iLok account online. For online request, your computer must be capable of connecting to the Internet. // LicenseWizard</key>
+		<string>ライセンスを iLok アカウントへオンラインでトランスファーすることをリクエストしたい。オンラインリクエストをするには、お使いのコンピューターがインターネットに接続できることが必要です。</string>
+		<key>Use iLok // LicenseWizard</key>
+		<string>iLok を使ってください。</string>
+		<key>As soon as your Melodyne licence has been transferred from myCelemony to your iLok account, you can copy your Melodyne iLok licence from www.ilok.com onto your dongle. 
+Now insert your iLok dongle into one of your computer&apos;s free USB ports. If it is already in a USB port, remove it for a few moments and then stick it back in. // LicenseWizard</key>
+		<string>Melodyne ライセンスが myCelemony から iLok アカウントに送られしだい、 www.ilok.com からお手元の iLok ドングルへライセンスをコピーできます。 お使いのコンピューターの空いている USB 端子に iLok を挿入してください。もし既に挿入されている場合、一旦抜いてから再度挿入してください。</string>
+		<key>Activate // LicenseWizard</key>
+		<string>アクティベート</string>
+		<key>Once activated, Melodyne will be capable of running on this computer. First enter your serial number. You will find it in the Melodyne packaging or in the e-mail confirming your online purchase from the Celemony Web Shop. // LicenseWizard</key>
+		<string>一旦アクティブにすると、Melodyne はこのコンピューターで動作します。最初にシリアルナンバーを入力してください。これはMelodyneのCDパッケージか、オンラインで購入の場合にCelemony Web Shop からの電子メールにあります。</string>
+		<key>I would like to activate Melodyne offline. Offline activation involves exporting and importing a small file and using some other computer to connect to the Internet. // LicenseWizard</key>
+		<string>Melodyneをオフラインでアクティベートしたい。オフラインアクティベーションをするには、書き出した小さなファイルを他のコンピューターに渡しインターネットに接続する必要があります。</string>
+		<key>I would like to activate Melodyne temporarily. Once you have entered your serial number, Melodyne will be activated for 10 days, so you can begin using it immediately. // LicenseWizard</key>
+		<string>Melodyneを暫定的にアクティベートしたい。シリアルナンバーを入力することで、10日間は動作します。よってすぐに使うことができます。</string>
+		<key>I would like to activate Melodyne online. For online activation, your computer must be capable of connecting to the Internet. // LicenseWizard</key>
+		<string>Melodyneをオンラインでアクティベートしたい。オンラインアクティベーションをするには、お使いのコンピューターがインターネットに接続できることが必要です。</string>
+		<key>Activate sound libraries // LicenseWizard</key>
+		<string>サウンドライブラリーのアクティベート</string>
+		<key> Melodyne serial number: // LicenseWizard</key>
+		<string> Melodyne シリアルナンバー:</string>
+		<key>You can also activate a variety of sound libraries specially designed for use with Melodyne. // LicenseWizard</key>
+		<string>Melodyne 専用にデザインされた數々のサウンドライブラリーもアクティベートすることができます。</string>
+		<key>I would like to activate a Melodyne Sound Library (MSL). // LicenseWizard</key>
+		<string>Melodyne Sound Library (MSL) をアクティベートしたい。</string>
+		<key>I would like to activate a Liquid Sound Bank. // LicenseWizard</key>
+		<string>Liquid Sound Bank をアクティベートしたい。</string>
+		<key>Activate MSL // LicenseWizard</key>
+		<string>MSL のアクティベート</string>
+		<key>MSL serial number: // LicenseWizard</key>
+		<string>MSL シリアルナンバー:</string>
+		<key>First enter the serial number of your MSL. You will find it in the MSL user manual. // LicenseWizard</key>
+		<string>まず MSL のシリアルナンバーを入力してください。これは MSL のユーザーマニュアルに書いてあります。</string>
+		<key>I would like to activate the MSL online. For online activation, your computer must be capable of connecting to the Internet. // LicenseWizard</key>
+		<string>MSLをオンラインでアクティベートしたい。オンラインアクティベーションをするには、お使いのコンピューターがインターネットに接続できることが必要です。</string>
+		<key>I would like to activate the MSL offline. Offline activation involves exporting and importing a small file and using some other computer to connect to the Internet. // LicenseWizard</key>
+		<string>MSLをオフラインでアクティベートしたい。オフラインアクティベーションをするには、書き出した小さなファイルを他のコンピューターに渡しインターネットに接続する必要があります。</string>
+		<key>Licenseinfo // LicenseWizard</key>
+		<string>ライセンス情報</string>
+		<key>Name // LicenseWizard</key>
+		<string>氏名</string>
+		<key>Challenge // LicenseWizard</key>
+		<string>チャレンジ</string>
+		<key>Response // LicenseWizard</key>
+		<string>レスポンス</string>
+		<key>Challenge: // LicenseWizard</key>
+		<string>チャレンジ:</string>
+		<key>Response: // LicenseWizard</key>
+		<string>レスポンス:</string>
+		<key>Add // LicenseWizard</key>
+		<string>追加</string>
+		<key>open Web // LicenseWizard</key>
+		<string>Webを開く</string>
+		<key>Export request file // LicenseWizard</key>
+		<string>リクエストファイルの書き出し</string>
+		<key>To activate Melodyne offline, you must first export from Melodyne a request file containing the necessary data and later import an activation file that will activate Melodyne with lasting effect on your computer. 
+Use the Export button or drag the request file from the field below to your hard disk or straight to a portable storage medium (e.g. a USB flash drive) // LicenseWizard</key>
+		<string>Melodyne をオフラインでアクティブにするために、まず Melodyne から必要なデータを含むリクエストファイルを書き出し、その後アクティベーションファイルを読み込まなくてはなりません。それにより、Melodyne を使おうとするコンピューターでアクティベートすることができます。 エクスポートボタンを使うか、リクエスト・ファイルをフィールドからご使用のハードディスクまたは直接携帯ストレージ媒體（USBフラッシュ・ドライブなど）へドラッグします。</string>
+		<key>Copy the request file with a simple &quot;drag &amp; drop&quot; or by using the Export button.
+
+Find a computer that is connected to the Internet an doubleclick the html request file.
+
+Simply drag your personal activation file onto any page of this activation assistant or use the Import button. That completes the activation process. // LicenseWizard</key>
+		<string>リクエストファイルをドラッグ&amp;ドロップまたはエクスポートボタンを使ってコピーします。  インターネットに接続しているコンピュータを見つけ、 html リクエストファイルをダブルクリックします。  アクティベーションファイルをこのアクティベーションアシスタントのいずれかのページにドラッグするか、インポートボタンを使用します。これでアクティベーションの作業が完了します。</string>
+		<key>Export MSL request file // LicenseWizard</key>
+		<string>MSL のリクエストファイルの書き出し</string>
+		<key>To activate an MSL offline, you must first export from Melodyne a request file containing the necessary data and later import an MSL activation file that will activate your MSL title with lasting effect on this computer. 
+Use the Export button or drag the request file from the field below to your hard disk or straight to a portable storage medium (e.g. a USB flash drive) // LicenseWizard</key>
+		<string>MSL をオフラインでアクティブにするために、まず Melodyne から必要なデータを含むリクエストファイルを書き出し、その後 MSL アクティベーションファイルを読み込まなくてはなりません。それにより、その MSL タイトルを使おうとするコンピューターでアクティベートすることができます。 エクスポートボタンを使うか、リクエスト・ファイルをフィールドからご使用のハードディスクまたは直接携帯ストレージ媒體（USBフラッシュ・ドライブなど）へドラッグします。</string>
+		<key>Export iLok request file // LicenseWizard</key>
+		<string>iLok のリクエストファイルの書き出し</string>
+		<key>To request the transfer of your license to your iLok account offline, you must first export from Melodyne a request file containing the necessary data.
+Use the Export button or drag the request file from the field below to your hard disk or straight to a portable storage medium (e.g. a USB flash drive) // LicenseWizard</key>
+		<string>オフラインによる iLok アカウントへのライセンスのトランスファーをリクエストするには、まず最初に、必要なデータを含むリクエスト・ファイルを Melodyne からエクスポートする必要があります。 エクスポートボタンを使うか、リクエスト・ファイルをフィールドからご使用のハードディスクまたは直接携帯ストレージ媒體（USBフラッシュ・ドライブなど）へドラッグします。</string>
+		<key>Copy the request file with a simple &quot;drag &amp; drop&quot; or by using the Export button.
+
+Find a computer that is connected to the Internet an doubleclick the html request file. // LicenseWizard</key>
+		<string>リクエストファイルをドラッグ&amp;ドロップでコピーします。  インターネットに接続しているコンピュータを見つけ、 html リクエストファイルをダブルクリックするか、エクスポートボタンを使用します。</string>
+		<key>Download activation data // LicenseWizard</key>
+		<string>アクティベーションデータをダウンロードする</string>
+		<key>The Melodyne Activation Assistant will now automatically open the registration page at www.celemony.com/mycelemony. To register, enter your personal data there and follow the online instructions. 
+
+When you have finished entering the necessary data, myCelemony will instruct you to return to Melodyne. Next click &quot;Continue&quot;. The assistant will then automatically request the activation data from myCelemony, which of course could take a few seconds. That completes the activation process. // LicenseWizard</key>
+		<string>Melodyne アクティベーションアシスタントは、自動的に www.celemony.com/mycelemonyにある登録ページを開きます。登録するには、あなたの個人情報を入力して、オンラインで表示される手順に従ってください。  必要事項の入力が済むと、myCelemony は Melodyne の操作に戻るように指示します。次に&quot;Continue&quot;をクリックします。アシスタントは自動的に myCelemony へアクティベーションデータをリクエストします。これには數秒かかります。これによりアクティベーション作業は完了します。</string>
+		<key>Deactivate Melodyne for this computer // LicenseWizard</key>
+		<string>このコンピューターの Melodyne のデアクティベート</string>
+		<key>If you wish to sell this computer or cease using it for musical purposes, you can deactivate your copy of Melodyne. You will be credited with one activation, which you can then assign to a different computer. // LicenseWizard</key>
+		<string>現在お使いのコンピューターを手放そうとしたり、音楽制作用に使用しなくなるような場合、Melodyne をデアクティベーションすることができます。新たなアクティベーションを入手することができ、別のコンピューターで使用できるようになります。</string>
+		<key>I would like to deactivate Melodyne online. One activation will be credited to my account at myCelemony and the execution of Melodyne will automatically be terminated. // LicenseWizard</key>
+		<string>Melodyneをオンラインでデアクティベートしたい。1つのアクティベーションが myCelemony のアカウントに登録され、現在お使いの Melodyne は自動的に終了します。</string>
+		<key>I would like to deactivate Melodyne offline. To obtain an activation credit, I must upload a file from a computer connected to the Internet to myCelemony. When I click the &quot;Continue&quot; button, the file will be automatically placed on my desktop and also available for copying from the following page. // LicenseWizard</key>
+		<string>Melodyneをオフラインでデアクティベートしたい。アクティベーションを再取得するにはmyCelemonyにインターネットで接続してファイルをアップロードする必要があります。&quot;続ける&quot;ボタンをクリックすると、デスクトップに自動的にファイルがつくられ、また続くページでコピーが可能です。</string>
+		<key>Please note: After the deactivation, you will no longer be able to launch Melodyne on this computer. // LicenseWizard</key>
+		<string>注意：デアクティベーション後は、このコンピューターで Melodyne は使えなくなります。</string>
+		<key>Export credit file // LicenseWizard</key>
+		<string>クレジットファイルの書き出し</string>
+		<key>Melodyne has been successfully deactivated on this computer. The assistant has already placed the credit file &quot;MelodyneDeactivationCredit.html&quot; on your desktop. You can however use the Export button or also drag the credit file from this field onto your hard disk or a portable storage medium (e.g. a USB flash drive) // LicenseWizard</key>
+		<string>Melodyne をこのコンピューターでデアクティブするのに成功しました。クレジットファイルが、 &quot;MelodyneDeactivationCredit.html&quot; という名前でデスクトップ上に作成されました。エクスポートボタンを使うか、クレジット・ファイルをこのフィールドからご使用のハードディスクまたは直接携帯ストレージ媒體（USBフラッシュ・ドライブなど）へドラッグすることもできます。</string>
+		<key>Copy the credit file with a simple &quot;drag &amp; drop&quot; or by using the Export button.
+
+Find a computer that is connected to the Internet an doubleclick the html request file.
+
+Please note: Your account will not be credited with a new activation until you have uploaded the file. // LicenseWizard</key>
+		<string>リクエストファイルをドラッグ&amp;ドロップでコピーします。  インターネットに接続しているコンピュータを見つけ、 html リクエストファイルをダブルクリックするか、エクスポートボタンを使用します。  注意：ファイルをアップロードするまでは、あなたのアカウント上で新たなアクティベーションがクレジットされません。</string>
+		<key>Melodyne is activated via iLok // LicenseWizard</key>
+		<string>Melodyne が iLok によりアクティブになりました。</string>
+		<key>Serial Number // LicenseWizard</key>
+		<string>シリアルナンバー</string>
+		<key>Activated Soundbanks // LicenseWizard</key>
+		<string>Soundbank のアクティベート</string>
+		<key>Activate Soundbank // LicenseWizard</key>
+		<string>Soundbank のアクティベート</string>
+		<key>Melodyne is only activated temporarily // LicenseWizard</key>
+		<string>Melodyne が暫定的にアクティブになりました。</string>
+		<key>Your copy of Melodyne has only been activated temporarily. XXX days remain. We therefore recommend that as soon as possible you activate it permanently. It only takes a few seconds. // LicenseWizard</key>
+		<string>お使いの Melodyne は暫定的にアクティベートされています。期間はあと XXX 日間です。できるだけ早く正式なライセンスにすることを強くお勧めします。簡単にできます。</string>
+		<key>I would like to use an iLok dongle. For this purpose, my Melodyne license must be transferred to my iLok account. If a Melodyne license is already stored on my iLok, all I have to do is insert it in one of the computer&apos;s free USB ports. // LicenseWizard</key>
+		<string>iLok ドングルを使いたい。そのためには Melodyne ライセンスを iLok アカウントへトランスファーしなくてはなりません。もし Melodyne ライセンスが既に iLok に保存されているならば、コンピューターの USB 端子に差すだけです。</string>
+		<key>Melodyne is activated on this computer // LicenseWizard</key>
+		<string>Melodyne がこのコンピューターでアクティブになりました。</string>
+		<key>Deactivate Melodyne // LicenseWizard</key>
+		<string>Melodyne のデアクティベート</string>
+		<key>OK // SetupAssistant</key>
+		<string>OK</string>
+		<key>Please choose an audio device: // SetupAssistant</key>
+		<string>オーディオデバイスを選択してください。</string>
+		<key>Melodyne Setup Assistant // SetupAssistant</key>
+		<string>Melodyneセットアップアシスタント</string>
+		<key>Ask on next startup // SetupAssistant</key>
+		<string>次回も確認する</string>
+		<key>Agree // License</key>
+		<string>同意する</string>
+		<key>Decline // License</key>
+		<string>同意しない</string>
+		<key>The selected soundfile contains regions // OpenRegion</key>
+		<string>選択したサウンドファイルにはリジョンが設定されています。</string>
+		<key>OK // OpenRegion</key>
+		<string>OK</string>
+		<key>Cancel // OpenRegion</key>
+		<string>キャンセル</string>
+		<key>Start: // OpenRegion</key>
+		<string>Start：</string>
+		<key>End: // OpenRegion</key>
+		<string>End：</string>
+		<key>User Time: // OpenRegion</key>
+		<string>User Time：</string>
+		<key>Pitch // Detection</key>
+		<string>ピッチ</string>
+		<key>Play Algorithm // Detection</key>
+		<string>再生アルゴリズム</string>
+		<key>use Pitch // Detection</key>
+		<string>ピッチ使用</string>
+		<key>Separations // Detection</key>
+		<string>分割</string>
+		<key>more // Detection</key>
+		<string>多く</string>
+		<key>less // Detection</key>
+		<string>少なく</string>
+		<key>Files in Audio Folder // AudioFolder</key>
+		<string>音頻文件夾内的文件</string>
+		<key>Referred Files // AudioFolder</key>
+		<string>關联文件</string>
+		<key>Name // AudioFolder</key>
+		<string>文件名</string>
+		<key>1-0 // AudioFolder</key>
+		<string>1-0</string>
+		<key>Status // AudioFolder</key>
+		<string>狀態</string>
+		<key>1-1 // AudioFolder</key>
+		<string>1-1</string>
+		<key>Location // AudioFolder</key>
+		<string>位置</string>
+		<key>File Operations // AudioFolder</key>
+		<string>文件操作</string>
+		<key>Copy Selected Referred Files to Audio Folder // AudioFolder</key>
+		<string>複製選擇的文件到音頻文件夾</string>
+		<key>Move Selected Referred Files to Audio Folder // AudioFolder</key>
+		<string>移動選擇的文件到音頻文件夾</string>
+		<key>Delete Selected Unused Files from Audio Folder // AudioFolder</key>
+		<string>從音頻文件夾中刪除未使用的文件</string>
+		<key>Label // AudioFolder</key>
+		<string>標签</string>
+		<key>Format: // AudioFolder</key>
+		<string>格式：</string>
+		<key>Duration: // AudioFolder</key>
+		<string>時長：</string>
+		<key>Name: // AudioFolder</key>
+		<string>文件名：</string>
+		<key>Rate: // AudioFolder</key>
+		<string>比率：</string>
+		<key>Samples: // AudioFolder</key>
+		<string>采樣：</string>
+		<key>Path: // AudioFolder</key>
+		<string>路徑：</string>
+		<key>Size: // AudioFolder</key>
+		<string>大小：</string>
+		<key>192000 Hz // AudioFolder</key>
+		<string>192000 Hz</string>
+		<key>Cancel // CorrectPitchPanel</key>
+		<string>取消</string>
+		<key>Correct Pitch Center // CorrectPitchPanel</key>
+		<string>修正音高中心</string>
+		<key>Correct Pitch Drift // CorrectPitchPanel</key>
+		<string>修正音高補償</string>
+		<key>OK // CorrectPitchPanel</key>
+		<string>確定</string>
+		<key>Realtime Midi Send // MidiSendParameters</key>
+		<string>即時MIDI輸出</string>
+		<key>Envelope // MidiSendParameters</key>
+		<string>包絡線</string>
+		<key>Pitch Bend // MidiSendParameters</key>
+		<string>音高彎曲</string>
+		<key>Velocity // MidiSendParameters</key>
+		<string>力度</string>
+		<key>Each Note // MidiSendParameters</key>
+		<string>各個音符</string>
+		<key>Central Note // MidiSendParameters</key>
+		<string>中央音符</string>
+		<key>Alternating Channel // MidiSendParameters</key>
+		<string>頻道切換或MIDI通道切換</string>
+		<key>OK // InsertTrackPanel</key>
+		<string>OK</string>
+		<key>Cancel // InsertTrackPanel</key>
+		<string>取消</string>
+		<key>Track Count: // InsertTrackPanel</key>
+		<string>軌道數量：</string>
+		<key>above the first track // InsertTrackPanel</key>
+		<string>在最上方的軌道上方</string>
+		<key>above selected track // InsertTrackPanel</key>
+		<string>在所選軌道的上方</string>
+		<key>below selected track // InsertTrackPanel</key>
+		<string>在所選軌道的下方</string>
+		<key>below the last track // InsertTrackPanel</key>
+		<string>在最後一個軌道的下方</string>
+		<key>Radio // InsertTrackPanel</key>
+		<string>Radio</string>
+		<key>Cancel // QuantizeTimePanel</key>
+		<string>取消</string>
+		<key>OK // QuantizeTimePanel</key>
+		<string>確定</string>
+		<key>Select Groove Reference // QuantizeTimePanel</key>
+		<string>選擇最佳参考</string>
+		<key>None // QuantizeTimePanel</key>
+		<string>空</string>
+		<key>1/4 // QuantizeTimePanel</key>
+		<string>1/4</string>
+		<key>Quantize Intensity // QuantizeTimePanel</key>
+		<string>量化强度</string>
+		<key>Punch In // TransportBar</key>
+		<string>入點</string>
+		<key>Punch Out // TransportBar</key>
+		<string>出點</string>
+		<key>Cycle // TransportBar</key>
+		<string>循環</string>
+		<key>Autostretch // TransportBar</key>
+		<string>自動拉伸</string>
+		<key>Sync // TransportBar</key>
+		<string>同步</string>
+		<key>Send MIDI Sync // TransportBar</key>
+		<string>MIDI同期送信</string>
+		<key>Receive MIDI Sync // TransportBar</key>
+		<string>MIDI同期の受信</string>
+		<key>Open Port Settings // TransportBar</key>
+		<string>ポート設定を開いています</string>
+		<key>New // Application</key>
+		<string>新規</string>
+		<key>Save As... // Application</key>
+		<string>名前を付けて保存</string>
+		<key>Lock File Range // Application</key>
+		<string>ファイルレンジのロック</string>
+		<key>Show Expert Tools // Application</key>
+		<string>エキスパートツールの表示</string>
+		<key>Upgrade to Uno // Application</key>
+		<string>Uno へアップグレードする</string>
+		<key>Save and Spot to ProTools // Application</key>
+		<string>保存してProToolsにSpotする</string>
+		<key>%@ has changes. Would you like to save the file before you go to demo mode? // Application</key>
+		<string>%@ は変更されています。デモモードに移行する前にこのファイルを保存しますか?</string>
+		<key>Save As // Application</key>
+		<string>名前を付けて保存</string>
+		<key>Until the application is quit, the demo mode will cause irregular beeps and will prevent you from saving the files. Would you like to switch to demo mode now? // Application</key>
+		<string>デモモードでは不規則なビープ音が鳴らされます。またファイルの保存はできません。デモモードに切り替えますか?</string>
+		<key>Demo Mode // Application</key>
+		<string>デモモード</string>
+		<key>This file format is not supported. %@ supports up to %i bits and %i kHz but the file is %i bits at %i kHz. // Application</key>
+		<string>ファイルフォーマットがサポートされていません。%@ は %iビットおよび %i kHzまで（%i ビットでは %i kHzまで）がサポートされます。</string>
+		<key>Saving // Application</key>
+		<string>保存しています</string>
+		<key>Saving %@ // Application</key>
+		<string> %@を保存しています</string>
+		<key>Would you really like to overwrite this file? If ProTools is using the file already, it is recommened to use a different filename, like %@ // Application</key>
+		<string>このファイルを上書きしますか? このファイルをProToolsデモ使用している場合は、別のファイル名で保存することをおすすめします。例： %@ </string>
+		<key>Use the suggested name // Application</key>
+		<string>表示されたファイル名を使用する</string>
+		<key>Overwrite the existing file // Application</key>
+		<string>既存のファイルを上書きする</string>
+		<key>Tempo Definition Actions // EditorWindow</key>
+		<string>テンポ定義の操作</string>
+		<key>Define Tempo // EditorWindow</key>
+		<string>テンポ定義</string>
+		<key>Double Tempo // EditorWindow</key>
+		<string>2倍のテンポ</string>
+		<key>Half Tempo // EditorWindow</key>
+		<string>半分のテンポ</string>
+		<key>Set Tempo Zero to Sound Zero // EditorWindow</key>
+		<string>無音部分のテンポをゼロ</string>
+		<key>Step Size for Moving Beat Start // EditorWindow</key>
+		<string>ビート開始を移動するステップサイズ</string>
+		<key>None // EditorWindow</key>
+		<string>無</string>
+		<key>This operation did exceed the sound file range. Would you like to unlock the file range and adapt the new time? // EditorWindow</key>
+		<string>この操作により、サウンドファイルのレンジが変更されます。ファイルレンジのロックを解除して新たなタイムを適用しますか?</string>
+		<key>Unlock limits // EditorWindow</key>
+		<string>ロック解除</string>
+		<key>Keep limits // EditorWindow</key>
+		<string>リミットをキープ</string>
+		<key>Expert Tools are availabe in Demo Mode only. // EditorWindow</key>
+		<string>エキスパートツールはデモモードでのみ使用可能です。</string>
+		<key>The correct pitch assistant is available in Melodyne uno, cre8 and studio and can only be tested in demo mode with Melodyne essential. // EditorWindow</key>
+		<string>ピッチ補正アシスタントはMelodyne uno、cre8、studioバージョンで使用可能で、Melodyne essentialではデモモードとしてお試しいただけます。</string>
+		<key>The quantize time assistant is available in Melodyne uno, cre8 and studio and can only be tested in demo mode with Melodyne essential. // EditorWindow</key>
+		<string>クォンタイズアシスタントはMelodyne uno、cre8、studioバージョンで使用可能で、Melodyne essentialではデモモードとしてお試しいただけます。</string>
+		<key>Default File Format // Preferences</key>
+		<string>ファイルフォーマット設定</string>
+		<key>Sample Rate: // Preferences</key>
+		<string>サンプルレート:</string>
+		<key>Channel Format: // Preferences</key>
+		<string>チャンネルフォーマット:</string>
+		<key>Recording Folder: // Preferences</key>
+		<string>録音フォルダ:</string>
+		<key>Keep original files when saving. // Preferences</key>
+		<string>保存時にオリジナルファイルを変更しない。</string>
+		<key>Configuration // Preferences</key>
+		<string>基本設定</string>
+		<key>Create empty file on startup // Preferences</key>
+		<string>起動時に空のファイルを作成</string>
+		<key>When running last time you used a master tune of %0.1f Hz. Would you like to keep this? // Preferences</key>
+		<string>前回起動時のマスターチューンは %0.1f Hzでした。今回も同じで良いですか?</string>
+		<key>No, reset to 440 Hz // Preferences</key>
+		<string>否，重設為 440 Hz</string>
+		<key>Mastertune: // Preferences</key>
+		<string>マスターチューン:</string>
+		<key>Play Algorithm: // PlayAlgorithm</key>
+		<string>再生アルゴリズム:</string>
+		<key>Transport // TransportBar</key>
+		<string>トランスポート</string>
+		<key>Correct Pitch // TransportBar</key>
+		<string>ピッチ補正</string>
+		<key>Quantize Time // TransportBar</key>
+		<string>タイムのクォンタイズ</string>
+		<key>Tempo // TransportBar</key>
+		<string>テンポ</string>
+		<key>Stretch // TransportBar</key>
+		<string>ストレッチ</string>
+		<key>Welcome to the Melodyne Activation Assistant, which will help you register and activate your copy of the program. Once activated, Melodyne will be capable of running on this computer. First enter your serial number. You will find it in the Melodyne packaging or in the e-mail confirming your online purchase from the Celemony Web Shop. // LicenseWizard</key>
+		<string>歡迎使用 Melodyne 啟用助理。本程序將協助您完成註冊與啟用。一旦完成啟用，Melodyne 就能在這台電腦上正常運作。請輸入您的序號（Serial Number）。這個序號可以在 Melodyne 的 CD 包裝內找到，或是若您是線上購買，則可在 Celemony Web Shop寄送的電子郵箱中查找。</string>
+		<key>Close</key>
+		<string>關閉</string>
+		<key>As &apos;Spot to ProTools&apos; does not support interleaved stereo files &apos;split stereo&apos; will be used. // Export</key>
+		<string>&apos;Spot to ProTools&apos; 不支援交錯式立體聲音頻文件。</string>
+		<key>Activate Liquid Soundlibrary // LicenseWizard</key>
+		<string>啟用 Liquid Soundlibrary</string>
+		<key>To Web Site</key>
+		<string>前往網站</string>
+	</dict>
+</dict>
+</plist>
