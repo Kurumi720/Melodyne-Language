@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plist version="1.0">
 <dict>
 	<key>Version</key>
@@ -46,7 +46,7 @@
 		<key>Cannot load %s: %s (%s) // Application</key>
 		<string>無法載入 %s ：%s （%s）</string>
 		<key>Translation Error // Application</key>
-		<string>翻译錯誤</string>
+		<string>翻譯錯誤</string>
 		<key>OK // Application</key>
 		<string>確定</string>
 		<key>Open Script // Application</key>
@@ -422,63 +422,63 @@
 		<key>Select Main Output // AudioMixer</key>
 		<string>選擇主輸出</string>
 		<key>Toggle Rec Monitor // AudioMixer</key>
-		<string>套索錄音监听</string>
+		<string>套索錄音監聽</string>
 		<key>Edit Master Level // AudioMixer</key>
 		<string>編輯主電平</string>
 		<key>Remove Equalizer // AudioMixer</key>
-		<string>EQ削除</string>
+		<string>刪除EQ</string>
 		<key>Select Equalizer // AudioMixer</key>
-		<string>EQ選択</string>
+		<string>選擇EQ</string>
 		<key>Edit Equalizer Gain // AudioMixer</key>
-		<string>EQゲインの編集</string>
+		<string>編輯EQ增益</string>
 		<key>Edit Equalizer Frequency // AudioMixer</key>
-		<string>EQ周波數の編集</string>
+		<string>編輯EQ頻率</string>
 		<key>Edit Equalizer Q // AudioMixer</key>
-		<string>EQのQ編集</string>
+		<string>編輯EQ的Q值</string>
 		<key>Disable Equalizer // AudioMixer</key>
-		<string>EQを無効</string>
+		<string>停用EQ</string>
 		<key>Enable Equalizer // AudioMixer</key>
-		<string>EQを有効</string>
+		<string>啟用EQ</string>
 		<key>Disable Insert // AudioMixer</key>
-		<string>インサートを無効</string>
+		<string>停用插入效果器</string>
 		<key>Enable Insert // AudioMixer</key>
-		<string>インサートを有効</string>
+		<string>啟用插入效果器</string>
 		<key>Select AUX Effect // AudioMixer</key>
-		<string>AUXエフェクトの選択</string>
+		<string>選擇AUX效果器</string>
 		<key>Edit AUX Send Gain // AudioMixer</key>
-		<string>AUXセンドゲインの編集</string>
+		<string>編輯AUX發送增益</string>
 		<key>Disable AUX Send // AudioMixer</key>
-		<string>AUXセンドを無効</string>
+		<string>停用AUX發送</string>
 		<key>Enable AUX Send // AudioMixer</key>
-		<string>AUXセンドを有効</string>
+		<string>啟用AUX發送</string>
 		<key>Choose Instrument // AudioMixer</key>
-		<string>インストゥルメントの選択</string>
+		<string>選擇樂器音源</string>
 		<key>Edit Track Level // AudioMixer</key>
-		<string>トラックレベルの編集</string>
+		<string>編輯音軌音量</string>
 		<key>Edit Track Panorama // AudioMixer</key>
-		<string>トラックパンの編集</string>
+		<string>編輯音軌聲道定位</string>
 		<key>Mute Track // AudioMixer</key>
-		<string>トラックのミュート</string>
+		<string>靜音音軌</string>
 		<key>Unmute Track // AudioMixer</key>
-		<string>トラックのミュート解除</string>
+		<string>取消音軌靜音</string>
 		<key>Switch Solo Off // AudioMixer</key>
-		<string>ソロをオフ</string>
+		<string>取消單獨播放</string>
 		<key>Switch Solo On // AudioMixer</key>
-		<string>ソロをオン</string>
+		<string>啟用單獨播放</string>
 		<key>Enable Track Recording // AudioMixer</key>
-		<string>トラックレコーディングを有効</string>
+		<string>啟用音軌錄音</string>
 		<key>Disable Track Recording // AudioMixer</key>
-		<string>トラックレコーディングを無効</string>
+		<string>停用音軌錄音</string>
 		<key>Select Track Input // AudioMixer</key>
-		<string>トラックインプットの選択</string>
+		<string>選擇音軌輸入來源</string>
 		<key>Select Track Output // AudioMixer</key>
-		<string>トラックアウトプットの選択</string>
+		<string>選擇音軌輸出目的地</string>
 		<key>Select Track Format // AudioMixer</key>
-		<string>トラックフォーマットの選択</string>
+		<string>選擇音軌格式</string>
 		<key>Edit Track Title // AudioMixer</key>
-		<string>トラックタイトル編集</string>
+		<string>編輯音軌標題</string>
 		<key>Build-In Audio Device // AudioDevice</key>
-		<string>内蔵オーディオデバイス</string>
+		<string>內建音頻裝置</string>
 		<key>VST // AudioPlugInHosting</key>
 		<string>VST</string>
 		<key>Audio Unit // AudioPlugInHosting</key>
@@ -1318,7 +1318,7 @@
 		<key>Portamento Adaptation on/off // DefinitionWindow</key>
 		<string>ポルタメントのオン/オフ</string>
 		<key>Transition // DefinitionWindow</key>
-		<string>トランジション</string>
+		<string>過渡</string>
 		<key>Selected Note // EditorWindow</key>
 		<string>選択ノート</string>
 		<key>Selected Note Pitch (Hz) // EditorWindow</key>
@@ -1344,11 +1344,11 @@
 		<key>Separation: // DefinitionWindow</key>
 		<string>分割：</string>
 		<key>Note Separation Sensitivity // DefinitionWindow</key>
-		<string>音符分割灵敏度</string>
+		<string>音符分割靈敏度</string>
 		<key>Silence: // DefinitionWindow</key>
 		<string>靜默：</string>
 		<key>Silence Detection Sensitivity // DefinitionWindow</key>
-		<string>靜默檢測灵敏度</string>
+		<string>靜默檢測靈敏度</string>
 		<key>Note Separation Mode // DefinitionWindow</key>
 		<string>音符分割模式</string>
 		<key>Melodic Separation // DefinitionWindow</key>
@@ -1422,7 +1422,7 @@
 		<key>Portamento Adaptation on/off // EditorWindow</key>
 		<string>ポルタメントのオン/オフ</string>
 		<key>Transition // EditorWindow</key>
-		<string>トランジション</string>
+		<string>過渡</string>
 		<key>Selected Notes Pitch Alignment // EditorWindow</key>
 		<string>選択ノートのピッチ配列</string>
 		<key>Selected Notes Quantise Amount // EditorWindow</key>
