@@ -16,9 +16,7 @@ Melodyne本體軟件（3.2最佳）
 ## 展示
 * 中文語言
 ---
-![screen resolution image](github_img/screen_resolution.png)
----
-![emulator_screen resolution image](github_img/emulator_screen_resolution.png)
+![中文面板](https://github.com/user-attachments/assets/c6bdeb0b-22d3-411b-9388-3ba8ac029bc9)
 ---
 
 # 如何設置中文
